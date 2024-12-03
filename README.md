@@ -50,6 +50,7 @@ Hello! I’m Ali Çetinkaya, a Lecturer in the Department of Electronics Technol
 - 📩 **E-posta | Email**: alcetinkaya@gelisim.edu.tr  
 - 📄 **LinkedIn**: [Ali Çetinkaya](https://www.linkedin.com/in/aliçetinkaya)  
 
+---
 
 <!--
 **acetinkaya/acetinkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
