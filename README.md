@@ -5,6 +5,7 @@
 **🎓 Akademisyen | 💻 Algoritma Geliştirici | 🚀 Yapay Zeka Uzmanı**  
 **🎓 Academician | 💻 Algorithm Developer | 🚀 AI Specialist**
 
+Merhaba! Ben Ali Çetinkaya. İstanbul Gelişim Üniversitesi'nde Elektronik Teknolojisi Bölümü öğretim görevlisiyim ve aynı zamanda Python programlama, yapay zeka ve veri yapıları konularında eğitimler ve projeler yürütüyorum.
 
 <!--
 **acetinkaya/acetinkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
