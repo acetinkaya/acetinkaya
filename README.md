@@ -32,6 +32,8 @@ Hello! I’m Ali Çetinkaya, a Lecturer in the Department of Electronics Technol
    *Derin öğrenme ve bilgisayarlı görü ile yüz ve duygu tanıma sistemi.*  
    *Face and emotion recognition system with deep learning and computer vision.*
 
+3. **[Fake News Detection](https://github.com/acetinkaya/Fake-News-Detection-via-Deep-Learning-TF-IDF)**  
+
 
 <!--
 **acetinkaya/acetinkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
