@@ -33,6 +33,7 @@ Hello! I’m Ali Çetinkaya, a Lecturer in the Department of Electronics Technol
    *Face and emotion recognition system with deep learning and computer vision.*
 
 3. **[Fake News Detection](https://github.com/acetinkaya/Fake-News-Detection-via-Deep-Learning-TF-IDF)**  
+   *TF-IDF ve derin öğrenme algoritmalarını kullanarak internet haberlerinin doğruluk analizi.*  
 
 
 <!--
