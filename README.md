@@ -43,6 +43,7 @@ Hello! I’m Ali Çetinkaya, a Lecturer in the Department of Electronics Technol
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acetinkaya&layout=compact&theme=radical)  
 ![Contributions](https://img.shields.io/github/contributors/acetinkaya?style=plastic)
 ![Stars](https://img.shields.io/github/stars/acetinkaya?style=social)
+![Forks](https://img.shields.io/github/forks/acetinkaya?style=social)
 
 ---
 
