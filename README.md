@@ -29,6 +29,7 @@ Hello! I’m Ali Çetinkaya, a Lecturer in the Department of Electronics Technol
    *A contribution to Turkish literature: Fuzzy logic applications using Python.*
 
 2. **[Face and Emotion Recognition](https://github.com/acetinkaya/Face-and-Emotion-Recognition-using-Deep-Learning-Based-on-Computer-Vision-Methods)**  
+   *Derin öğrenme ve bilgisayarlı görü ile yüz ve duygu tanıma sistemi.*  
 
 
 <!--
