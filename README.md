@@ -37,7 +37,8 @@ Hello! I’m Ali Çetinkaya, a Lecturer in the Department of Electronics Technol
    *Analyzing the accuracy of online news using TF-IDF and deep learning algorithms.*
 
 4. **[Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü](https://github.com/acetinkaya/Otonom-bir-robotun-bulanik-kontrolor-yaklasimi-ile-konum-kontrolu)**  
-   *Bulanık kontrolör ile hedefe ulaşma ve konum kontrolü sağlamak için donanım bölümünde gömülü sistem (Atmel 2560 Entegresi) kullanılmıştır. Bu sistem üzerinden DC motor, servo motor, ultrasonik sensor, bluetooth modül ve optik sensör kontrolü yapılmıştır. Ayrıca     mikrodenetleyici yazılımı ve Visual Studio 2015 platformunda c# dili kullanılarak masaüstü yazılımı tasarlanmıştır. Tasarlanan pist üzerinde gerçek zamanlı olarak geliştirilen Altu robot tarafından gönderilen koordinat (x, y) ve rota bilgileri Bulanık kontrolör ile işlenmiştir. Elde edilen veriler Altu robotun masaüstü yazılımında oluşturulan harita ile konum bilgileri ve robotun hareketleri izlenmektedir.*  
+   *Bulanık kontrolör ile hedefe ulaşma ve konum kontrolü sağlamak için gömülü sistem üzerinde DC motor, servo motor, sensörler ve robot hareketlerinin kontrolü.*
+   
    *Fuzzy position control approach for an autonomous robot controller*
 
 ---
