@@ -42,6 +42,7 @@ Hello! I’m Ali Çetinkaya, a Lecturer in the Department of Electronics Technol
 ![Ali Çetinkaya'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=acetinkaya&show_icons=true&theme=radical)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acetinkaya&layout=compact&theme=radical)
 
+---
 
 <!--
 **acetinkaya/acetinkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
