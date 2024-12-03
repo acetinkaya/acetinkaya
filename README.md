@@ -45,6 +45,7 @@ Hello! I’m Ali Çetinkaya, a Lecturer in the Department of Electronics Technol
 ---
 
 ## 📫 İletişim | Contact  
+- 🌐 **Kişisel Sayfa**: [İstanbul Gelişim Üniversitesi Profili](https://avesis.gelisim.edu.tr/ali.cetinkaya)  
 
 
 <!--
