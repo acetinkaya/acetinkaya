@@ -21,6 +21,9 @@ Hello! I’m Ali Çetinkaya, a Lecturer in the Department of Electronics Technol
 - 📌 **Expertise**: Artificial Intelligence, Deep Learning, Fuzzy Logic, Algorithm Development  
 - 🏫 **Academic Work**: [Google Scholar](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)
 
+---
+
+
 
 <!--
 **acetinkaya/acetinkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
