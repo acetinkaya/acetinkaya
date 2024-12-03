@@ -45,7 +45,7 @@ Hello! I’m Ali Çetinkaya, a Lecturer in the Department of Electronics Technol
 ---
 
 ## 📫 İletişim | Contact  
-- 🌐 **Kişisel Sayfa**: [İstanbul Gelişim Üniversitesi Profili](https://avesis.gelisim.edu.tr/ali.cetinkaya)  
+- 🌐 **Kişisel Sayfa**: [İstanbul Gelişim Üniversitesi Profili](https://alicetinkaya.site/)  
 - 🌐 **Personal Page**: [Istanbul Gelisim University Profile](https://avesis.gelisim.edu.tr/ali.cetinkaya)  
 - 📩 **E-posta | Email**: alcetinkaya@gelisim.edu.tr  
 - 📄 **LinkedIn**: [Ali Çetinkaya](https://www.linkedin.com/in/aliçetinkaya)  
