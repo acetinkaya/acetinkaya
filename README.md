@@ -3,6 +3,7 @@
 # Ali Çetinkaya 👋  
 
 **🎓 Akademisyen | 💻 Algoritma Geliştirici | 🚀 Yapay Zeka Uzmanı**  
+**🎓 Academician | 💻 Algorithm Developer | 🚀 AI Specialist**
 
 
 <!--
