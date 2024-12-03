@@ -36,7 +36,7 @@ Hello! I’m Ali Çetinkaya, a Lecturer in the Department of Electronics Technol
    *TF-IDF ve derin öğrenme algoritmalarını kullanarak internet haberlerinin doğruluk analizi.*  
    *Analyzing the accuracy of online news using TF-IDF and deep learning algorithms.*
 
-4. **[Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü](https://github.com/acetinkaya/Fake-News-Detection-via-Deep-Learning-TF-IDF)**  
+4. **[Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü](https://github.com/acetinkaya/Otonom-bir-robotun-bulanik-kontrolor-yaklasimi-ile-konum-kontrolu)**  
    *TF-IDF ve derin öğrenme algoritmalarını kullanarak internet haberlerinin doğruluk analizi.*  
    *Analyzing the accuracy of online news using TF-IDF and deep learning algorithms.*
 
