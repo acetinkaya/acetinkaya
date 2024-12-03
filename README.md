@@ -17,6 +17,8 @@ Hello! I’m Ali Çetinkaya, a Lecturer in the Department of Electronics Technol
 - 📌 **Uzmanlık Alanları**: Yapay zeka, derin öğrenme, bulanık mantık, algoritma geliştirme   
 - 🏫 **Akademik Çalışmalar**: [Google Scholar](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)
 
+- 📘 **Education**: Electronics Teaching (B.Sc., 2014) | Computer Engineering (M.Sc., 2017)  
+
 
 <!--
 **acetinkaya/acetinkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
