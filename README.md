@@ -2,6 +2,9 @@
 
 # Ali Çetinkaya 👋  
 
+**🎓 Akademisyen | 💻 Algoritma Geliştirici | 🚀 Yapay Zeka Uzmanı**  
+
+
 <!--
 **acetinkaya/acetinkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
