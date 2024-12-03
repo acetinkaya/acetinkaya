@@ -39,13 +39,7 @@ Hello! I’m Ali Çetinkaya, a Lecturer in the Department of Electronics Technol
 ---
 
 ## 📊 İstatistikler | Stats  
-![Ali Çetinkaya'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=acetinkaya&show_icons=true&theme=radical)    
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acetinkaya&layout=compact&theme=radical)  
-![Ali Çetinkaya'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=acetinkaya&show_icons=true&count_private=true&hide=prs&theme=radical)
-![Ali Çetinkaya'nın Yıldız İstatistiği](https://img.shields.io/github/stars/acetinkaya?style=flat-square&color=blue)
-![Ali Çetinkaya'nın Fork İstatistiği](https://img.shields.io/github/forks/acetinkaya?style=flat-square&color=green)
-
-![Ziyaretçi Sayısı](https://img.shields.io/badge/Visitors-12345-blue)
 
 ---
 
