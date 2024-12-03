@@ -23,6 +23,8 @@ Hello! I’m Ali Çetinkaya, a Lecturer in the Department of Electronics Technol
 
 ---
 
+## 🚀 Öne Çıkan Projeler | Featured Projects  
+
 
 
 <!--
