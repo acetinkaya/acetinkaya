@@ -37,9 +37,9 @@ Hello! I’m Ali Çetinkaya, a Lecturer in the Department of Electronics Technol
    *Analyzing the accuracy of online news using TF-IDF and deep learning algorithms.*
 
 4. **[Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü](https://github.com/acetinkaya/Otonom-bir-robotun-bulanik-kontrolor-yaklasimi-ile-konum-kontrolu)**  
-   *Bulanık kontrolör ile hedefe ulaşma ve konum kontrolü sağlamak için gömülü sistem üzerinde DC motor, servo motor, sensörler ve robot hareketlerinin kontrolü.*
-   
-   *Fuzzy position control approach for an autonomous robot controller*
+   *Bulanık kontrolör ile hedefe ulaşma ve konum kontrolü sağlamak için gömülü sistem üzerinde DC motor, servo motor, sensörler ve robot hareketlerinin kontrolü.*  
+   *Fuzzy controller and embedded system applications for target reaching and position control, including control of DC motors, servo motors, sensors, and robot movements.*  
+   *Fuzzy position control approach for an autonomous robot controller*  
 
 ---
 
