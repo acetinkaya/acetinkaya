@@ -45,6 +45,8 @@ Hello! I’m Ali Çetinkaya, a Lecturer in the Department of Electronics Technol
 ![Ali Çetinkaya'nın Yıldız İstatistiği](https://img.shields.io/github/stars/acetinkaya?style=flat-square&color=blue)
 ![Ali Çetinkaya'nın Fork İstatistiği](https://img.shields.io/github/forks/acetinkaya?style=flat-square&color=green)
 
+![Ziyaretçi Sayısı](https://img.shields.io/badge/Visitors-1234-blue)
+
 ---
 
 ## 📫 İletişim | Contact   
