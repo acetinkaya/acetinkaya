@@ -13,7 +13,8 @@ Hello! I’m Ali Çetinkaya, a Lecturer in the Department of Electronics Technol
 ---
 
 ## 🌟 Hakkımda | About Me  
-- 📘 **Eğitim**: Elektronik Öğretmenliği (Lisans, 2014) | Bilgisayar Mühendisliği (Yüksek Lisans, 2017)  
+- 📘 **Eğitim**: Elektronik Öğretmenliği (Lisans, 2014) | Bilgisayar Mühendisliği (Yüksek Lisans, 2017)    
+- 📌 **Uzmanlık Alanları**: Yapay zeka, derin öğrenme, bulanık mantık, algoritma geliştirme   
 
 
 <!--
