@@ -24,6 +24,7 @@ Hello! I’m Ali Çetinkaya, a Lecturer in the Department of Electronics Technol
 ---
 
 ## 🚀 Öne Çıkan Projeler | Featured Projects  
+1. **[Bulanık Mantık ve Python Uygulamaları](https://github.com/acetinkaya/python-fuzzy-logic)**  
 
 
 
