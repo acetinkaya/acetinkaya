@@ -57,6 +57,7 @@ Below is a list of patents associated with my research and development activitie
 | 2   | Vibration cleaning system for solar panels                                      | WIPO (PCT), TR Patent   | WO2024205533A1              | TR1234567891        |
 | 3   | Flying car runway and charging station                                          | WIPO (PCT), TR Patent   | WO2024181939A1              | TR1234567892        |
 | 4   | Autonomous Flying Rescue Cabin                                                  | Germany, TR Patent      | DE112023000361T5            | TR1234567893        |
+| 5   | Portable Solar Vehicle Charger                                                  | Germany, TR Patent      | DE112023000350T5            | TR1234567894        |
 
 
 ---
