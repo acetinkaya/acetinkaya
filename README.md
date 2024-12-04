@@ -6,7 +6,7 @@
 
 **🎓 Academician | 💻 Algorithm Developer | 🚀 AI Specialist**
 
-Merhaba! Ben Ali Çetinkaya. İstanbul Gelişim Üniversitesi'nde Elektronik Teknolojisi Bölümü öğretim görevlisiyim ve aynı zamanda Python programlama, yapay zeka ve veri yapıları konularında eğitimler ve projeler yürütüyorum.  
+Merhaba! Ben Ali Çetinkaya. İstanbul Gelişim Üniversitesi Elektronik Teknolojisi Bölümü'nde öğretim görevlisiyim. Python programlama, yapay zeka ve veri yapıları konularında eğitimler veriyor ve projeler yürütüyorum.
 
 Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technology at Istanbul Gelisim University. I specialize in Python programming, artificial intelligence, and data structures, conducting both educational activities and innovative projects.
 
