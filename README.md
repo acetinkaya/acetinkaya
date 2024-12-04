@@ -65,7 +65,7 @@ Below is a list of patents associated with my research and development activitie
 | 10  | [A new system that detects the health status of leaves by analyzing tree leaves](https://patents.google.com/patent/WO2024025488A1)  | WIPO (PCT), TR Patent   | WO2024025488A1              | TR1234567899        |
 | 11  | [On-unit solar charging system for electric passenger vehicles](https://patents.google.com/patent/WO2024025493A1)                   | WIPO (PCT), TR Patent   | WO2024025493A1              | TR1234567900        |
 | 12  | [Health status analysis system on historical data](https://patents.google.com/patent/WO2024025489A1)                                | WIPO (PCT), TR Patent   | WO2024025489A1              | TR1234567901        |
-| 13  | Artificial intelligence based emergency detection and notification system       | WIPO (PCT), TR Patent   | WO2024118006A1              | TR1234567902        |
+| 13  | [Artificial intelligence based emergency detection and notification system](https://patents.google.com/patent/WO2024118006A1)       | WIPO (PCT), TR Patent   | WO2024118006A1              | TR1234567902        |
 | 14  | Self-electric and energy saving street light                                    | WIPO (PCT), TR Patent   | WO2024039327A1              | TR1234567903        |
 | 15  | A smart cane that increases environmental awareness, has a monitoring system and is suitable for every size | WIPO (PCT), TR Patent     | WO2023214945A1              | TR1234567904        |
 
