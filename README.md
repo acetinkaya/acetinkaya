@@ -60,7 +60,7 @@ Below is a list of patents associated with my research and development activitie
 | 5   | [Portable Solar Vehicle Charger](https://patents.google.com/patent/DE112023000350T5)                                                  | Germany, TR Patent      | DE112023000350T5            | TR1234567894        |
 | 6   | [Portable oxygen breathing fresh air mask](https://patents.google.com/patent/WO2023229547A1)                                        | WIPO (PCT), TR Patent   | WO2023229547A1              | TR1234567895        |
 | 7   | [Optical anti-scrolling system](https://patents.google.com/patent/WO2023214946A1)                                                   | WIPO (PCT), TR Patent   | WO2023214946A1              | TR1234567896        |
-| 8   | Artificial intelligence based electric current control system                   | WIPO (PCT), TR Patent   | WO2024162909A1              | TR1234567897        |
+| 8   | [Artificial intelligence based electric current control system](https://patents.google.com/patent/WO2024162909A1)                   | WIPO (PCT), TR Patent   | WO2024162909A1              | TR1234567897        |
 | 9   | System to improve the image quality on monitors                                 | WIPO (PCT), TR Patent   | WO2024039323A1              | TR1234567898        |
 | 10  | A new system that detects the health status of leaves by analyzing tree leaves  | WIPO (PCT), TR Patent   | WO2024025488A1              | TR1234567899        |
 | 11  | On-unit solar charging system for electric passenger vehicles                   | WIPO (PCT), TR Patent   | WO2024025493A1              | TR1234567900        |
