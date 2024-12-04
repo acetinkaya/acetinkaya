@@ -19,7 +19,7 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
 
 - 📘 **Education**: Electronics Teaching (B.Sc., 2014) | Computer Engineering (Thesis-based Master’s, 2017)
 - 📌 **Expertise**: Artificial Intelligence, Deep Learning, Fuzzy Logic, Algorithm Development, Robotics
-- 🏫 **Research and Publications**: [Google Scholar](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ) || [University Avesis](https://avesis.gelisim.edu.tr/alcetinkaya) || [ResearchGate](https://www.researchgate.net/profile/Ali-Cetinkaya-3) || [DergiPark](
+- 🏫 **Research and Publications**: [Google Scholar](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ) || [University Avesis](https://avesis.gelisim.edu.tr/alcetinkaya) || [ResearchGate](https://www.researchgate.net/profile/Ali-Cetinkaya-3) || [DergiPark](https://dergipark.org.tr/tr/pub/@aalicetinkayaa)
 
 ---
 
