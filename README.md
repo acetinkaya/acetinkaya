@@ -15,7 +15,7 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
 ## 🌟 Hakkımda | About Me  
 - 📘 **Eğitim**: Elektronik Öğretmenliği (Lisans, 2014) | Bilgisayar Mühendisliği (Tezli Yüksek Lisans, 2017)
 - 📌 **Uzmanlık Alanları**: Yapay zeka, Derin Öğrenme, Bulanık Mantık, Algoritma Geliştirme, Robotik
-- 🏫 **Araştırma ve Yayın Platformları**: [Google Scholar](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ) || [Üniversite Avesis](https://avesis.gelisim.edu.tr/alcetinkaya) || [ResearchGate](https://www.researchgate.net/profile/Ali-Cetinkaya-3)  
+- 🏫 **Araştırma ve Yayın Platformları**: [Google Scholar](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ) || [Üniversite Avesis](https://avesis.gelisim.edu.tr/alcetinkaya) || [ResearchGate](https://www.researchgate.net/profile/Ali-Cetinkaya-3)  || 
 
 - 📘 **Education**: Electronics Teaching (B.Sc., 2014) | Computer Engineering (Thesis-based Master’s, 2017)
 - 📌 **Expertise**: Artificial Intelligence, Deep Learning, Fuzzy Logic, Algorithm Development, Robotics
