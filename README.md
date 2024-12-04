@@ -61,7 +61,7 @@ Below is a list of patents associated with my research and development activitie
 | 6   | [Portable oxygen breathing fresh air mask](https://patents.google.com/patent/WO2023229547A1)                                        | WIPO (PCT), TR Patent   | WO2023229547A1              | TR1234567895        |
 | 7   | [Optical anti-scrolling system](https://patents.google.com/patent/WO2023214946A1)                                                   | WIPO (PCT), TR Patent   | WO2023214946A1              | TR1234567896        |
 | 8   | [Artificial intelligence based electric current control system](https://patents.google.com/patent/WO2024162909A1)                   | WIPO (PCT), TR Patent   | WO2024162909A1              | TR1234567897        |
-| 9   | System to improve the image quality on monitors                                 | WIPO (PCT), TR Patent   | WO2024039323A1              | TR1234567898        |
+| 9   | [System to improve the image quality on monitors](https://patents.google.com/patent/WO2024039323A1)                                 | WIPO (PCT), TR Patent   | WO2024039323A1              | TR1234567898        |
 | 10  | A new system that detects the health status of leaves by analyzing tree leaves  | WIPO (PCT), TR Patent   | WO2024025488A1              | TR1234567899        |
 | 11  | On-unit solar charging system for electric passenger vehicles                   | WIPO (PCT), TR Patent   | WO2024025493A1              | TR1234567900        |
 | 12  | Health status analysis system on historical data                                | WIPO (PCT), TR Patent   | WO2024025489A1              | TR1234567901        |
