@@ -28,15 +28,18 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
    *Türkçe literatüre katkı sağlayan Python ile bulanık mantık uygulamaları.*  
    *A contribution to Turkish literature: Fuzzy logic applications using Python.*
 
-2. **[Face and Emotion Recognition](https://github.com/acetinkaya/Face-and-Emotion-Recognition-using-Deep-Learning-Based-on-Computer-Vision-Methods)**  
+2. Comparison of Machine Learning Algorithms for Cancer Diagnosis
+
+
+3. **[Face and Emotion Recognition](https://github.com/acetinkaya/Face-and-Emotion-Recognition-using-Deep-Learning-Based-on-Computer-Vision-Methods)**  
    *Derin öğrenme ve bilgisayarlı görü ile yüz ve duygu tanıma sistemi.*  
    *Face and emotion recognition system with deep learning and computer vision.*
 
-3. **[Fake News Detection](https://github.com/acetinkaya/Fake-News-Detection-via-Deep-Learning-TF-IDF)**  
+4. **[Fake News Detection](https://github.com/acetinkaya/Fake-News-Detection-via-Deep-Learning-TF-IDF)**  
    *TF-IDF ve derin öğrenme algoritmalarını kullanarak internet haberlerinin doğruluk analizi.*  
    *Analyzing the accuracy of online news using TF-IDF and deep learning algorithms.*
 
-4. **[Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü](https://github.com/acetinkaya/Otonom-bir-robotun-bulanik-kontrolor-yaklasimi-ile-konum-kontrolu)**  
+5. **[Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü](https://github.com/acetinkaya/Otonom-bir-robotun-bulanik-kontrolor-yaklasimi-ile-konum-kontrolu)**  
    *Bulanık kontrolör ile hedefe ulaşma ve konum kontrolü sağlamak için gömülü sistem üzerinde DC motor, servo motor, sensörler ve robot hareketlerinin kontrolü.*  
    *Fuzzy controller and embedded system applications for target reaching and position control, including control of DC motors, servo motors, sensors, and robot movements.*  
    *Fuzzy position control approach for an autonomous robot controller*  
