@@ -40,9 +40,10 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
    *TF-IDF ve derin öğrenme algoritmalarını kullanarak internet haberlerinin doğruluk analizi.*  
    *Analyzing the accuracy of online news using TF-IDF and deep learning algorithms.*
 
-5. **[Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü](https://github.com/acetinkaya/Otonom-bir-robotun-bulanik-kontrolor-yaklasimi-ile-konum-kontrolu)**       *Bulanık kontrolör kullanarak hedefe ulaşma ve konum kontrolü sağlamak amacıyla gömülü sistemde DC motor, servo motor, sensörler ve robot hareketlerinin yönetilmesi.*     
-   *Implementing fuzzy controller-based target reaching and position control in an embedded system, including control of DC motors, servo motors, sensors, and robot movements.*  
+5. **[Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü](https://github.com/acetinkaya/Otonom-bir-robotun-bulanik-kontrolor-yaklasimi-ile-konum-kontrolu)**
    *Fuzzy position control approach for an autonomous robot controller*  
+   *Bulanık kontrolör kullanarak hedefe ulaşma ve konum kontrolü sağlamak amacıyla gömülü sistemde DC motor, servo motor, sensörler ve robot hareketlerinin yönetilmesi.*     
+   *Implementing fuzzy controller-based target reaching and position control in an embedded system, including control of DC motors, servo motors, sensors, and robot movements.*  
 
 ---
 
