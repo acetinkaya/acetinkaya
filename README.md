@@ -47,6 +47,12 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
 
 ---
 
+### Patents
+
+
+
+---
+
 ## 📊 İstatistikler | Stats  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acetinkaya&layout=compact&theme=radical)  
 
