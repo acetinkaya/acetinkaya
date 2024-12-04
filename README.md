@@ -30,7 +30,7 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
 
 2. **[Comparison of Machine Learning Algorithms for Cancer Diagnosis](https://github.com/acetinkaya/Breast-Cancer-Classification-with-ML-Algorithms)
    *Türkçe literatüre katkı sağlayan Python ile bulanık mantık uygulamaları.*  
-   *A contribution to Turkish literature: Fuzzy logic applications using Python.*
+   *Comparison of Classification Success Rates of Different Machine Learning Algorithms in the Diagnosis of Breast Cancer*
 
 3. **[Face and Emotion Recognition](https://github.com/acetinkaya/Face-and-Emotion-Recognition-using-Deep-Learning-Based-on-Computer-Vision-Methods)**  
    *Derin öğrenme ve bilgisayarlı görü ile yüz ve duygu tanıma sistemi.*  
