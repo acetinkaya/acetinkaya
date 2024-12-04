@@ -54,6 +54,7 @@ Below is a list of patents associated with my research and development activitie
 | No  | Patent Name                                                                     | Application Type        | International Patent Number | TR Patent No        |
 |-----|---------------------------------------------------------------------------------|-------------------------|-----------------------------|---------------------|
 | 1   | Vertical landing and taking off flying car                                      | WIPO (PCT), TR Patent   | WO2023128962A1              | TR1234567890        |
+| 2   | Vibration cleaning system for solar panels                                      | WIPO (PCT), TR Patent   | WO2024205533A1              | TR1234567891        |
 
 
 ---
