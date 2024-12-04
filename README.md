@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 | Başlık 1   | Başlık 2   | Başlık 3   |
 |------------|------------|------------|
@@ -89,3 +89,5 @@ Here are some ideas to get you started:
 | Eğitim Süresi  | 50 Saat                               |
 | Hedef Kitle    | Başlangıç ve Orta Seviye Geliştiriciler |
 | Kullanılan Araçlar | GitHub, Google Colab, Jupyter Notebook |
+
+-->
