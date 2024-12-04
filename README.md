@@ -79,3 +79,13 @@ Here are some ideas to get you started:
 | Veri 1     | Veri 2     | Veri 3     |
 | Veri 4     | Veri 5     | Veri 6     |
 | Veri 7     | Veri 8     | Veri 9     |
+
+# Proje Bilgileri
+
+| Özellik         | Açıklama                              |
+|-----------------|---------------------------------------|
+| Proje Adı      | Veri Yapıları ve Algoritmalar         |
+| Programlama Dili | Python                               |
+| Eğitim Süresi  | 50 Saat                               |
+| Hedef Kitle    | Başlangıç ve Orta Seviye Geliştiriciler |
+| Kullanılan Araçlar | GitHub, Google Colab, Jupyter Notebook |
