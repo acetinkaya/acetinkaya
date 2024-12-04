@@ -65,6 +65,7 @@ Below is a list of patents associated with my research and development activitie
 | 10  | A new system that detects the health status of leaves by analyzing tree leaves  | WIPO (PCT), TR Patent   | WO2024025488A1              | TR1234567899        |
 | 11  | On-unit solar charging system for electric passenger vehicles                   | WIPO (PCT), TR Patent   | WO2024025493A1              | TR1234567900        |
 | 12  | Health status analysis system on historical data                                | WIPO (PCT), TR Patent   | WO2024025489A1              | TR1234567901        |
+| 13  | Artificial intelligence based emergency detection and notification system       | WIPO (PCT), TR Patent   | WO2024118006A1              | TR1234567902        |
 
 
 ---
