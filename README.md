@@ -51,6 +51,9 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
 
 Below is a list of patents associated with my research and development activities:
 
+| No  | Patent Adı                                                                            | Başvuru Türü  | Patent Numarası         | TR Patent No        |
+|-----|---------------------------------------------------------------------------------------|---------------|-------------------------|---------------------|
+| 1   | Vertical landing and taking off flying car                                            | WIPO (PCT)    | WO2023128962A1          | -                   |
 
 
 ---
