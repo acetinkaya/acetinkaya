@@ -47,7 +47,7 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
 
 ---
 
-### Patents
+### Intellectual Property and Innovative Works // 
 
 Below is a list of patents associated with my research and development activities:
 
