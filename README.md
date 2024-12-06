@@ -24,23 +24,27 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
 ---
 
 ## 🚀 Öne Çıkan Projeler | Highlighted Projects  
-1. **[Bulanık Mantık ve Python Uygulamaları](https://github.com/acetinkaya/python-fuzzy-logic)**  
+1. **[Bulanık Mantık ve Python Uygulamaları Kitabı, İGU Yayınevi](https://github.com/acetinkaya/python-fuzzy-logic)**  
    *Türkçe literatüre katkı sağlayan Python ile bulanık mantık uygulamaları.*  
    *A contribution to Turkish literature: Fuzzy logic applications using Python.*
 
-2. **[Comparison of Machine Learning Algorithms for Cancer Diagnosis](https://github.com/acetinkaya/Breast-Cancer-Classification-with-ML-Algorithms)**  
+2. **[Makine Öğrenmesi Algoritmaları Kitabı --> Bölüm 4.4. k-NN Siniflandirma Yontemi, Nobel Akademik Yayıncılık](https://github.com/acetinkaya/k-NN-Siniflandirma-Yontemi)**  
+   *Türkçe literatüre katkı sağlayan Python ile bulanık mantık uygulamaları.*  
+   *A contribution to Turkish literature: Fuzzy logic applications using Python.*
+
+3. **[Comparison of Machine Learning Algorithms for Cancer Diagnosis](https://github.com/acetinkaya/Breast-Cancer-Classification-with-ML-Algorithms)**  
    *Meme Kanseri Teşhisinde Farklı Makine Öğrenmesi Algoritmalarının Sınıflandırma Başarı Oranlarının Karşılaştırılması*    
    *Comparison of Classification Success Rates of Different Machine Learning Algorithms in the Diagnosis of Breast Cancer*  
 
-3. **[Face and Emotion Recognition](https://github.com/acetinkaya/Face-and-Emotion-Recognition-using-Deep-Learning-Based-on-Computer-Vision-Methods)**  
+4. **[Face and Emotion Recognition](https://github.com/acetinkaya/Face-and-Emotion-Recognition-using-Deep-Learning-Based-on-Computer-Vision-Methods)**  
    *Derin öğrenme ve bilgisayarlı görü ile yüz ve duygu tanıma sistemi.*  
    *Face and emotion recognition system with deep learning and computer vision.*
 
-4. **[Fake News Detection](https://github.com/acetinkaya/Fake-News-Detection-via-Deep-Learning-TF-IDF)**  
+5. **[Fake News Detection](https://github.com/acetinkaya/Fake-News-Detection-via-Deep-Learning-TF-IDF)**  
    *TF-IDF ve derin öğrenme algoritmalarını kullanarak internet haberlerinin doğruluk analizi.*  
    *Analyzing the accuracy of online news using TF-IDF and deep learning algorithms.*
 
-5. **[Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü](https://github.com/acetinkaya/Otonom-bir-robotun-bulanik-kontrolor-yaklasimi-ile-konum-kontrolu)**  
+6. **[Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü](https://github.com/acetinkaya/Otonom-bir-robotun-bulanik-kontrolor-yaklasimi-ile-konum-kontrolu)**  
    *Fuzzy position control approach for an autonomous robot controller*  
    *Bulanık kontrolör kullanarak hedefe ulaşma ve konum kontrolü sağlamak amacıyla gömülü sistemde DC motor, servo motor, sensörler ve robot hareketlerinin yönetilmesi.*     
    *Implementing fuzzy controller-based target reaching and position control in an embedded system, including control of DC motors, servo motors, sensors, and robot movements.*  
