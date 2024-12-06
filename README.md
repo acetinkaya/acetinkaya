@@ -25,12 +25,12 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
 
 ## 🚀 Öne Çıkan Projeler | Highlighted Projects  
 1. **[Bulanık Mantık ve Python Uygulamaları Kitabı, İGU Yayınevi](https://github.com/acetinkaya/python-fuzzy-logic)**  
-   *Türkçe Python Programlama Dili ile bulanık mantık uygulamaları kitabı*  
-   *Fuzzy Logic Applications with Python Programming Language in Turkish*
+   *Python Programlama Dili ile bulanık mantık uygulamaları kitabı*  
+   *Fuzzy Logic Applications with Python Programming Language (in Turkish)*
 
 2. **[Makine Öğrenmesi Algoritmaları Kitabı --> Bölüm 4.4. k-NN Siniflandirma Yontemi, Nobel Akademik Yayıncılık](https://github.com/acetinkaya/k-NN-Siniflandirma-Yontemi)**  
-   *Türkçe literatüre katkı sağlayan Python ile bulanık mantık uygulamaları.*  
-   *A contribution to Turkish literature: Fuzzy logic applications using Python.*
+   *Makine Öğrenmesi Algoritmaları Kitabı, Bölüm 4.4. k-NN Siniflandirma Yontemi*  
+   *Machine Learning Algorithms, Chapter 4.4. k-NN Classification Method (in Turkish)*
 
 3. **[Comparison of Machine Learning Algorithms for Cancer Diagnosis](https://github.com/acetinkaya/Breast-Cancer-Classification-with-ML-Algorithms)**  
    *Meme Kanseri Teşhisinde Farklı Makine Öğrenmesi Algoritmalarının Sınıflandırma Başarı Oranlarının Karşılaştırılması*    
