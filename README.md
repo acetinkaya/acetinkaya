@@ -85,7 +85,7 @@ Below is a list of patents associated with my research and development activitie
 - 🌱 **LinkedIn**: [Ali Çetinkaya](https://www.linkedin.com/in/aliçetinkaya)   
 - 🔭 **Kişisel Sayfa**: [Kişisel İnternet Sayfası](https://alicetinkaya.site/)   
 - 🔭 **Personal Page**: [Istanbul Gelisim University Profile](https://avesis.gelisim.edu.tr/ali.cetinkaya)   
-
+- 🔭 **Google Scholar Page**: [Google Scholar]( 
 ---
 
 <!--
