@@ -49,8 +49,8 @@ Görev süresi boyunca Önlisans Meslek Yüksekokulu'nda robotik & mikrodeneyley
 
 * TPMK 2024/009979 nolu fikri mülkiyet hakkı başvurunuz noktasındaki "Otomatik Saksı Sulama Sistemi"  isimli çalışmadaki buluşçu danışmanlar:  Öğr. Gör. Ali ÇETİNKAYA– İGÜ MYO – Elektronik Teknolojisi Prog. ve Öğr. Gör. İsmail Hakkı SERİ – İGÜ MYO Hibrid ve Elektrikli Taşıtlar Teknolojisi Prog., Buluşcu İGÜ MYO Bilgisayar Teknolojisi öğrencileri: Emirhan KAYABAŞ, Mertcan Şahin ve Zeki YILMAZ
 
-Kitap ve Kitap Bölümü yayınlarım; 
-*Bulanık Mantık ve Python Uygulamaları - İstanbul Gelişim Üniversitesi Yayınevi - ISBN: 978-605-4827-98-5  
+Kitap ve Kitap Bölümü yayınlarım;   
+* Bulanık Mantık ve Python Uygulamaları - İstanbul Gelişim Üniversitesi Yayınevi - ISBN: 978-605-4827-98-5    
 * Makine Öğrenmesi Algoritmaları - Bölüm 4.4, k-NN Sınıflandırma Yöntemi - Nobel Akademik Yayıncılık - ISBN: 978-625-371-882-4  
 * Interdisciplinary Studies on Contemporary Research Practices in Engineering in the 21st Century-II - Chapter 9, Algorithm Design In Programming Language Education - Özgür Yayıncılık, ISBN: 978-975-447-611-8  
 * International Research in Engineering Sciences - Chapter 5, Approaches with Artificial Intelligence (AI) Algorithms to Smart System Works - Platanus Publishing - ISBN: 978-625-6971-50-9  
