@@ -36,8 +36,7 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
   - Yapay Zeka Uygulamaları, Mikroişlemciler, Robotik, Algoritma, Bulanık Modelleme ve Kontrol dersilerini uygulamaları verme  
   - Öğrenci projelerine danışmanlık yapma   
   - Araştırma ve yayın faaliyetleri yürütme   
-Görev süresi boyunca ulusal ve uluslararası indeksli akademik yayınlar, kongre katılımları ve kitap çalışmaları dahil olmak üzere toplamda 14 adet çalışma gerçekleştirilmiştir.  8 adet kongre ve makale yayını, hem lisans hem de önlisans mezuniyetini yeni tamamlamış öğrencilerin kariyer gelişimlerine önemli katkılar sağlamıştır. Bu çalışmalar, öğrencilerin akademik bilgi birikimlerini artırırken, sektörel uygulama becerilerini geliştirmelerine de destek olmuştur.   
-
+Görev süresi boyunca ulusal ve uluslararası indeksli akademik yayınlar, kongre katılımları ve kitap çalışmaları dahil olmak üzere toplamda 14 adet çalışma gerçekleştirilmiştir.  8 adet kongre ve makale yayını, hem lisans hem de önlisans mezuniyetini yeni tamamlamış öğrencilerin kariyer gelişimlerine önemli katkılar sağlamıştır. Bu çalışmalar, öğrencilerin akademik bilgi birikimlerini artırırken, sektörel uygulama becerilerini geliştirmelerine de destek olmuştur.  
 Görev süresi boyunca Önlisans Meslek Yüksekokulu'nda robotik & mikrodeneyleyici araştırma ekibi 19 öğrenciyle birlikte fikri mülkiyet başvuru süreçleri başarıyla yürütülmüştür. Bu çalışmalar, öğrencilerin inovasyon ve girişimcilik konularındaki farkındalıklarını artırırken, akademik ve sektörel yetkinliklerine de önemli katkılar sağlamıştır.
 
 
