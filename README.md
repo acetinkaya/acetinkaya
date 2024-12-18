@@ -25,13 +25,13 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
 
 ## 💼 Profesyonel Deneyim | Professional Experience
 
-**Öğretim Görevlisi, İstanbul Gelişim Üniversitesi (İGÜ) Siber Akademi Eğitim Merkezi**   
+- **Öğretim Görevlisi, İstanbul Gelişim Üniversitesi (İGÜ) Siber Akademi Eğitim Merkezi**   
   **Haziran 2024 - Günümüz**    
   - Python programlama diliyle Veri Yapıları ve Algoritmalar ile Yapay Zeka derslerini uygulamalı olarak yürütmek.  
   - Öğrencilere, projelerinde danışmanlık yaparak kariyer gelişimlerine katkı sağlamak.  
   - Akademik araştırmalar ve yayın faaliyetleri gerçekleştirmek.  
 
-**Öğretim Görevlisi, İstanbul Gelişim Üniversitesi, MYO Elektronik Teknolojisi Bölümü**    
+- **Öğretim Görevlisi, İstanbul Gelişim Üniversitesi, MYO Elektronik Teknolojisi Bölümü**    
   **Eylül 2022 - Günümüz** 
   - Yapay Zeka Uygulamaları, Mikroişlemciler, Robotik, Algoritma, Bulanık Modelleme ve Kontrol dersilerini uygulamaları verme  
   - Öğrenci projelerine danışmanlık yapma   
@@ -39,7 +39,7 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
 
   Görev süresi boyunca ulusal ve uluslararası indeksli akademik yayınlar, kongre katılımları ve kitap çalışmaları dahil olmak üzere toplamda 14 adet çalışma gerçekleştirilmiştir.  8 adet kongre ve makale yayını, hem lisans hem de önlisans mezuniyetini yeni tamamlamış öğrencilerin kariyer gelişimlerine önemli katkılar sağlamıştır. Bu çalışmalar, öğrencilerin akademik bilgi birikimlerini artırırken, sektörel uygulama becerilerini geliştirmelerine de destek olmuştur.
 
-  Görev süresi boyunca Önlisans Meslek Yüksekokulu'nda robotik & mikrodenetleyici konulu araştırma ekibi 2 danışman Öğr. Gör. ve 16 öğrenciden oluşmaktadır. 2023-2024 bahar dönemi yapılan çalışmalar ile aşağıdaki tabloda belirtilen fikri mülkiyet başvuru süreçleri gerçekleştirilmiştir. Bu çalışmalar, öğrencilerin inovasyon ve girişimcilik konularındaki farkındalıklarını artırırken, akademik ve sektörel yetkinliklerine de önemli katkılar sağlamıştır.
+  Görev süresi boyunca Önlisans Meslek Yüksekokulu'nda robotik & mikrodenetleyici konulu araştırma ekibi 2 danışman Öğr. Gör. ve 16 öğrenciden oluşmaktadır. 2023-2024 bahar dönemi yapılan çalışmalar ile aşağıdaki tabloda belirtilen fikri mülkiyet başvuru süreçleri gerçekleştirilmiştir. Bu çalışmalar, öğrencilerimizin inovasyon ve girişimcilik konularındaki farkındalıklarını artırırken, akademik ve sektörel yetkinliklerine de önemli katkılar sağlamıştır.
   
 | Başvuru Numarası     | Çalışma İsmi                          | Buluşçu Danışmanlar                                                                                                                       | Buluşçu Öğrenciler                                                                 |
 |-----------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
@@ -77,7 +77,7 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
   - Disiplinler arası projeler geliştirerek farklı bölümlerden akademisyen ve öğrencilerle iş birliği sağlamak.  
   - Üniversite öğrencileriyle birlikte akademik yayınlar ve araştırma projeleri yürütmek, yayın süreçlerini koordine etmek.  
   - Bilimsel araştırmaların yürütülmesi ve proje geliştirme süreçlerinde mentörlük yapmak.  
-    ** Görev süresince toplam 18 adet çalışmanın ulusal ve uluslararası indeksli akademik yayın çalışması gerçekleştirilmiştir. Bu yayınlar, hem kurumun akademik kapasitesine hem de lisans mezuniyetini yeni tamamlamış öğrencilerin kariyer gelişimlerine önemli katkılar sağlamıştır.
+    ** Görev süresince toplam 18 adet çalışmanın ulusal ve uluslararası indeksli akademik yayın çalışması gerçekleştirilmiştir. Bu yayınlar lisans mezuniyetini yeni tamamlamış öğrencilerimizin kariyer gelişimlerine önemli katkılar sağlamıştır.
 
 ## 🚀 Öne Çıkan Projeler | Highlighted Projects  
 1. **[Bulanık Mantık ve Python Uygulamaları Kitabı, İGU Yayınevi](https://github.com/acetinkaya/python-fuzzy-logic)**  
