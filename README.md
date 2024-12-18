@@ -31,7 +31,7 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
   - Öğrencilere, projelerinde danışmanlık yaparak kariyer gelişimlerine katkı sağlamak.  
   - Akademik araştırmalar ve yayın faaliyetleri gerçekleştirmek.  
 
-**Öğretim Görevlisi, Elektronik Teknolojisi Bölümü**    
+**Öğretim Görevlisi, İstanbul Gelişim Üniversitesi, MYO Elektronik Teknolojisi Bölümü**    
   **Eylül 2022 - Günümüz** 
   - Yapay Zeka Uygulamaları, Mikroişlemciler, Robotik, Algoritma, Bulanık Modelleme ve Kontrol dersilerini uygulamaları verme  
   - Öğrenci projelerine danışmanlık yapma   
@@ -63,17 +63,17 @@ Kitap ve Kitap Bölümü yayınlarım;
   - Yurt içi ve dışı Patent, faydalı model, marka ve tasarım başvuru - tescil süreçlerinin yönetimi   
   - Türk Patent ve Marka Kurumu (TPMK) - İGÜ - Patent Ofisi arasında süreçlerin yürütülmesi.   
   - Araştırma ve inovasyon projelerinden elde edilen buluşların ticarileştirilmesi ve lisanslama stratejileri geliştirmek.  
-    ** 2023 yılı TPMK üniversiteler arasında fikri mülkiyet işlemlerinde (başvuru-tescil) Türkiye 1.liği derecesi elde edilmiştir.  
-    ** 2022 yılı TPMK üniversiteler arasında fikri mülkiyet işlemlerinde (başvuru-tescil) Türkiye 1.liği derecesi elde edilmiştir.  
+    ** 2023 yılı TPMK üniversiteler arasında fikri mülkiyet işlemlerinde (başvuru-tescil) Türkiye 1.liği derecesi elde edilmiştir.    
+    ** 2022 yılı TPMK üniversiteler arasında fikri mülkiyet işlemlerinde (başvuru-tescil) Türkiye 1.liği derecesi elde edilmiştir.    
 
-- **İstanbul Gelişim Üniversitesi (IGU) Teknoloji Transfer Ofisi (TTO)**  
-  *Araştırmacı*  
-  *Mart 2017 - Eylül 2021*  
-  - Ulusal ve uluslararası fon kaynakları için proje yazımı ve başvuru süreçlerini desteklemek.
-  - Akademisyenlerin ve öğrencilerin akademik kariyerlerini desteklemek için bilimsel toplantılar, çalıştaylar ve eğitimler düzenlemek.
-  - Disiplinler arası projeler geliştirerek farklı bölümlerden akademisyen ve öğrencilerle iş birliği sağlamak.
-  - Üniversite öğrencileriyle birlikte akademik yayınlar ve araştırma projeleri yürütmek, yayın süreçlerini koordine etmek.
-  - Bilimsel araştırmaların yürütülmesi ve proje geliştirme süreçlerinde mentörlük yapmak.
+- **İstanbul Gelişim Üniversitesi (IGU) Teknoloji Transfer Ofisi (TTO)**    
+  *Araştırmacı*    
+  *Mart 2017 - Eylül 2021*    
+  - Ulusal ve uluslararası fon kaynakları için proje yazımı ve başvuru süreçlerini desteklemek.  
+  - Akademisyenlerin ve öğrencilerin akademik kariyerlerini desteklemek için bilimsel toplantılar, çalıştaylar ve eğitimler düzenlemek.  
+  - Disiplinler arası projeler geliştirerek farklı bölümlerden akademisyen ve öğrencilerle iş birliği sağlamak.  
+  - Üniversite öğrencileriyle birlikte akademik yayınlar ve araştırma projeleri yürütmek, yayın süreçlerini koordine etmek.  
+  - Bilimsel araştırmaların yürütülmesi ve proje geliştirme süreçlerinde mentörlük yapmak.  
     ** Görev süresince toplam 18 adet çalışmanın ulusal ve uluslararası indeksli akademik yayın çalışması gerçekleştirilmiştir. Bu yayınlar, hem kurumun akademik kapasitesine hem de lisans mezuniyetini yeni tamamlamış öğrencilerin kariyer gelişimlerine önemli katkılar sağlamıştır.
 
 ## 🚀 Öne Çıkan Projeler | Highlighted Projects  
