@@ -25,7 +25,7 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
 
 ## 💼 Profesyonel Deneyim | Professional Experience
 
-**Öğretim Görevlisi, İGÜ Siber Akademi Eğitim Merkezi**   
+**Öğretim Görevlisi, İstanbul Gelişim Üniversitesi (İGÜ) Siber Akademi Eğitim Merkezi**   
   **Haziran 2024 - Günümüz**    
   - Python programlama diliyle Veri Yapıları ve Algoritmalar ile Yapay Zeka derslerini uygulamalı olarak yürütmek.  
   - Öğrencilere, projelerinde danışmanlık yaparak kariyer gelişimlerine katkı sağlamak.  
@@ -56,6 +56,15 @@ Kitap ve Kitap Bölümü yayınlarım;
 * International Research in Engineering Sciences - Chapter 5, Approaches with Artificial Intelligence (AI) Algorithms to Smart System Works - Platanus Publishing - ISBN: 978-625-6971-50-9  
 * Mühendislik Alanında Uluslararası Araştırmalar - I - Bölüm 10, Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştırmalarda Yaklaşımlar - Serüven Yayınevi - ISBN: 978-625-6399-08-2  
 
+- **İstanbul Gelişim Üniversitesi (IGU) Teknoloji Transfer Ofisi (TTO)**  
+  *Üniversite Fikri Mülkiyet Hakları Sorumlusu*  
+  *Haziran 2021 - Eylül 2024*  
+  - Üniversitenin akademik ve araştırma projelerinden doğan fikri mülkiyet haklarının yönetimi ve korunması süreçlerini koordine etmek.
+  - Yurt içi ve dışı Patent, faydalı model, marka ve tasarım başvuru - tescil süreçlerinin yönetimi
+  - Türk Patent ve Marka Kurumu (TPMK) - İGÜ - Patent Ofisi arasında süreçlerin yürütülmesi.
+  - Araştırma ve inovasyon projelerinden elde edilen buluşların ticarileştirilmesi ve lisanslama stratejileri geliştirmek.
+    ** 2023 yılı TPMK üniversiteler arasında fikri mülkiyet işlemlerinde (başvuru-tescil) Türkiye 1.liği derecesi elde edilmiştir.
+    ** 2022 yılı TPMK üniversiteler arasında fikri mülkiyet işlemlerinde (başvuru-tescil) Türkiye 1.liği derecesi elde edilmiştir.
 
 ## 🚀 Öne Çıkan Projeler | Highlighted Projects  
 1. **[Bulanık Mantık ve Python Uygulamaları Kitabı, İGU Yayınevi](https://github.com/acetinkaya/python-fuzzy-logic)**  
