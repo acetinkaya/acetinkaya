@@ -49,12 +49,15 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
 | TPMK 2024/009981      | Araçlarda Çarpışma Önleyici Sistem   | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ | Anıl AKSAKALOĞLU, Atilla Eren YILMAZ, Muhammet Berkay SUBAŞI, Duygu SARIBAŞ       |
 | TPMK 2024/009979      | Otomatik Saksı Sulama Sistemi        | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ | Emirhan KAYABAŞ, Mertcan Şahin, Zeki YILMAZ                                       |
 
-* Kitap ve Kitap Bölümü yayınlarım;   
-  - Bulanık Mantık ve Python Uygulamaları - İstanbul Gelişim Üniversitesi Yayınevi - ISBN: 978-605-4827-98-5    
-  - Makine Öğrenmesi Algoritmaları - Bölüm 4.4, k-NN Sınıflandırma Yöntemi - Nobel Akademik Yayıncılık - ISBN: 978-625-371-882-4  
-  - Interdisciplinary Studies on Contemporary Research Practices in Engineering in the 21st Century-II - Chapter 9, Algorithm Design In Programming Language Education - Özgür Yayıncılık, ISBN: 978-975-447-611-8  
-  - International Research in Engineering Sciences - Chapter 5, Approaches with Artificial Intelligence (AI) Algorithms to Smart System Works - Platanus Publishing - ISBN: 978-625-6971-50-9  
-  - Mühendislik Alanında Uluslararası Araştırmalar - I - Bölüm 10, Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştırmalarda Yaklaşımlar - Serüven Yayınevi - ISBN: 978-625-6399-08-2  
+* Kitap ve Kitap Bölümü yayınlarım
+  
+| Kitap / Bölüm Başlığı                                                                 | Yayıncı                     | ISBN                  |
+|--------------------------------------------------------------------------------------|-----------------------------|-----------------------|
+| Bulanık Mantık ve Python Uygulamaları                                                | İstanbul Gelişim Üniversitesi Yayınevi | 978-605-4827-98-5 |
+| Makine Öğrenmesi Algoritmaları - Bölüm 4.4, k-NN Sınıflandırma Yöntemi               | Nobel Akademik Yayıncılık   | 978-625-371-882-4    |
+| Interdisciplinary Studies on Contemporary Research Practices in Engineering in the 21st Century-II - Chapter 9, Algorithm Design In Programming Language Education | Özgür Yayıncılık            | 978-975-447-611-8    |
+| International Research in Engineering Sciences - Chapter 5, Approaches with Artificial Intelligence (AI) Algorithms to Smart System Works | Platanus Publishing         | 978-625-6971-50-9    |
+| Mühendislik Alanında Uluslararası Araştırmalar - I - Bölüm 10, Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştırmalarda Yaklaşımlar | Serüven Yayınevi            | 978-625-6399-08-2    |
 
 - **İstanbul Gelişim Üniversitesi (IGU) Teknoloji Transfer Ofisi (TTO)**    
   *Üniversite Fikri Mülkiyet Hakları Sorumlusu*    
