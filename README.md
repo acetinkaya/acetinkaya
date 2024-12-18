@@ -56,15 +56,25 @@ Kitap ve Kitap Bölümü yayınlarım;
 * International Research in Engineering Sciences - Chapter 5, Approaches with Artificial Intelligence (AI) Algorithms to Smart System Works - Platanus Publishing - ISBN: 978-625-6971-50-9  
 * Mühendislik Alanında Uluslararası Araştırmalar - I - Bölüm 10, Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştırmalarda Yaklaşımlar - Serüven Yayınevi - ISBN: 978-625-6399-08-2  
 
+- **İstanbul Gelişim Üniversitesi (IGU) Teknoloji Transfer Ofisi (TTO)**    
+  *Üniversite Fikri Mülkiyet Hakları Sorumlusu*    
+  *Haziran 2021 - Eylül 2024*    
+  - Üniversitenin akademik ve araştırma projelerinden doğan fikri mülkiyet haklarının yönetimi ve korunması süreçlerini koordine etmek.   
+  - Yurt içi ve dışı Patent, faydalı model, marka ve tasarım başvuru - tescil süreçlerinin yönetimi   
+  - Türk Patent ve Marka Kurumu (TPMK) - İGÜ - Patent Ofisi arasında süreçlerin yürütülmesi.   
+  - Araştırma ve inovasyon projelerinden elde edilen buluşların ticarileştirilmesi ve lisanslama stratejileri geliştirmek.  
+    ** 2023 yılı TPMK üniversiteler arasında fikri mülkiyet işlemlerinde (başvuru-tescil) Türkiye 1.liği derecesi elde edilmiştir.  
+    ** 2022 yılı TPMK üniversiteler arasında fikri mülkiyet işlemlerinde (başvuru-tescil) Türkiye 1.liği derecesi elde edilmiştir.  
+
 - **İstanbul Gelişim Üniversitesi (IGU) Teknoloji Transfer Ofisi (TTO)**  
-  *Üniversite Fikri Mülkiyet Hakları Sorumlusu*  
-  *Haziran 2021 - Eylül 2024*  
-  - Üniversitenin akademik ve araştırma projelerinden doğan fikri mülkiyet haklarının yönetimi ve korunması süreçlerini koordine etmek.
-  - Yurt içi ve dışı Patent, faydalı model, marka ve tasarım başvuru - tescil süreçlerinin yönetimi
-  - Türk Patent ve Marka Kurumu (TPMK) - İGÜ - Patent Ofisi arasında süreçlerin yürütülmesi.
-  - Araştırma ve inovasyon projelerinden elde edilen buluşların ticarileştirilmesi ve lisanslama stratejileri geliştirmek.
-    ** 2023 yılı TPMK üniversiteler arasında fikri mülkiyet işlemlerinde (başvuru-tescil) Türkiye 1.liği derecesi elde edilmiştir.
-    ** 2022 yılı TPMK üniversiteler arasında fikri mülkiyet işlemlerinde (başvuru-tescil) Türkiye 1.liği derecesi elde edilmiştir.
+  *Araştırmacı*  
+  *Mart 2017 - Eylül 2021*  
+  - Ulusal ve uluslararası fon kaynakları için proje yazımı ve başvuru süreçlerini desteklemek.
+  - Akademisyenlerin ve öğrencilerin akademik kariyerlerini desteklemek için bilimsel toplantılar, çalıştaylar ve eğitimler düzenlemek.
+  - Disiplinler arası projeler geliştirerek farklı bölümlerden akademisyen ve öğrencilerle iş birliği sağlamak.
+  - Üniversite öğrencileriyle birlikte akademik yayınlar ve araştırma projeleri yürütmek, yayın süreçlerini koordine etmek.
+  - Bilimsel araştırmaların yürütülmesi ve proje geliştirme süreçlerinde mentörlük yapmak.
+    ** Görev süresince toplam 18 adet çalışmanın ulusal ve uluslararası indeksli akademik yayın çalışması gerçekleştirilmiştir. Bu yayınlar, hem kurumun akademik kapasitesine hem de lisans mezuniyetini yeni tamamlamış öğrencilerin kariyer gelişimlerine önemli katkılar sağlamıştır.
 
 ## 🚀 Öne Çıkan Projeler | Highlighted Projects  
 1. **[Bulanık Mantık ve Python Uygulamaları Kitabı, İGU Yayınevi](https://github.com/acetinkaya/python-fuzzy-logic)**  
