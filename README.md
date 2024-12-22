@@ -53,7 +53,7 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
   
 | Kitap / Bölüm Başlığı                                                                 | Yayıncı                     | ISBN                  |
 |--------------------------------------------------------------------------------------|-----------------------------|-----------------------|
-| Bulanık Mantık ve Python Uygulamaları                                                | İstanbul Gelişim Üniversitesi Yayınevi | 978-605-4827-98-5 |
+| [Bulanık Mantık ve Python Uygulamaları](https://www.amazon.com.tr/Bulan%C4%B1k-Mant%C4%B1k-ve-Python-Uygulamalar%C4%B1/dp/6054827987)                                                | İstanbul Gelişim Üniversitesi Yayınevi | 978-605-4827-98-5 |
 | Makine Öğrenmesi Algoritmaları - Bölüm 4.4, k-NN Sınıflandırma Yöntemi               | Nobel Akademik Yayıncılık   | 978-625-371-882-4    |
 | Interdisciplinary Studies on Contemporary Research Practices in Engineering in the 21st Century-II - Chapter 9, Algorithm Design In Programming Language Education | Özgür Yayıncılık            | 978-975-447-611-8    |
 | International Research in Engineering Sciences - Chapter 5, Approaches with Artificial Intelligence (AI) Algorithms to Smart System Works | Platanus Publishing         | 978-625-6971-50-9    |
