@@ -136,7 +136,8 @@ Below is a list of patents associated with my research and development activitie
 
 * Python Programlama   
 * Veri Yapıları ve Algoritmalar   
-* Yapay Zeka ve Makine Öğrenimi   
+* Yapay Zeka ve Makine Öğrenimi
+* Elektrik-Elektronik Mühendisliği Programlama - MATLAB	
 * Temel Elektronik I
 
 ---
