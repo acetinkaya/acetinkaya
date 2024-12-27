@@ -136,6 +136,7 @@ Below is a list of patents associated with my research and development activitie
 
 Veri Yapıları ve Algoritmalar
 Python Programlama
+Temel Elektronik I
 
 
 ---
