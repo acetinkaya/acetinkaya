@@ -134,6 +134,7 @@ Below is a list of patents associated with my research and development activitie
 
 ## 💡 Academic Courses // Akademik Dersler
 
+Veri Yapıları ve Algoritmalar
 
 
 ---
