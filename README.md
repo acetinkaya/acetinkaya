@@ -134,12 +134,10 @@ Below is a list of patents associated with my research and development activitie
 
 ## 💡 Academic Courses // Akademik Dersler
 
-Veri Yapıları ve Algoritmalar
-Python Programlama
-Temel Elektronik I
-Yapay Zeka ve Makine Öğrenimi
-
-
+* Python Programlama   
+* Veri Yapıları ve Algoritmalar   
+* Yapay Zeka ve Makine Öğrenimi   
+* Temel Elektronik I
 
 ---
 
