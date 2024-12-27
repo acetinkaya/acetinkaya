@@ -132,6 +132,12 @@ Below is a list of patents associated with my research and development activitie
 
 ---
 
+## 💡 Academic Courses // Akademik Dersler
+
+
+
+---
+
 ## 📊 İstatistikler | Stats  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acetinkaya&layout=compact&theme=radical)  
 
