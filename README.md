@@ -135,7 +135,7 @@ Below is a list of patents associated with my research and development activitie
 ## 💡 Academic Courses // Akademik Dersler
 
 * Python Programlama   
-* Veri Yapıları ve Algoritmalar   
+* [Veri Yapıları ve Algoritmalar](https://github.com/acetinkaya/veriyapilari-algoritma)   
 * Yapay Zeka ve Makine Öğrenimi
 * [Elektrik-Elektronik Mühendisliği Programlama - MATLAB](https://github.com/acetinkaya/Elektrik-Elektronik-Muhendisligi-Programlama-MATLAB-)	
 * Temel Elektronik I
