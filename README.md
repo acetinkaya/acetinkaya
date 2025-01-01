@@ -27,7 +27,7 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
 
 - **Öğretim Görevlisi, İstanbul Gelişim Üniversitesi (İGÜ) Siber Akademi Eğitim Merkezi**   
   **Haziran 2024 - Günümüz**    
-  - Python programlama diliyle Veri Yapıları ve Algoritmalar ile Yapay Zeka derslerini uygulamalı olarak yürütmek.  
+  - Python programlama diliyle [Veri Yapıları ve Algoritmalar](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi) ile Yapay Zeka derslerini uygulamalı olarak yürütmek.  
   - Öğrencilere, projelerinde danışmanlık yaparak kariyer gelişimlerine katkı sağlamak.  
   - Akademik araştırmalar ve yayın faaliyetleri gerçekleştirmek.  
 
