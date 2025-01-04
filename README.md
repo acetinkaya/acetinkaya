@@ -37,7 +37,7 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
   - Öğrenci projelerine danışmanlık yapma   
   - Araştırma ve yayın faaliyetleri yürütme
 
-  - İstanbul Gelişim Üniversitesi 2023 yılı APSİS değerlendirmesi kapsamında, MYO çalışmalarındaki başarılarım nedeniyle 21 Mayıs 2024 tarihli ödül töreninde 'Üstün Başarı Belgesi'ni (Kurum Genelinde MYO 4. lüğü) aldım.
+  - İstanbul Gelişim Üniversitesi 2023 yılı APSİS(Akademik Performans Değerlendirme Sistemi) değerlendirmesi kapsamında, MYO çalışmalarındaki başarılarım nedeniyle 21 Mayıs 2024 tarihli ödül töreninde 'Üstün Başarı Belgesi'ni (Kurum Genelinde MYO 4. lüğü) aldım.
 
   Görev süresi boyunca ulusal ve uluslararası indeksli akademik yayınlar, kongre katılımları ve kitap çalışmaları dahil olmak üzere toplamda 14 adet çalışma gerçekleştirilmiştir.  8 adet kongre ve makale yayını, hem lisans hem de önlisans mezuniyetini yeni tamamlamış öğrencilerin kariyer gelişimlerine önemli katkılar sağlamıştır. Bu çalışmalar, öğrencilerin akademik bilgi birikimlerini artırırken, sektörel uygulama becerilerini geliştirmelerine de destek olmuştur.
 
