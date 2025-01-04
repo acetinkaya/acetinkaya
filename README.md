@@ -35,7 +35,9 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
   **Eylül 2022 - Günümüz** 
   - Yapay Zeka, Mikroişlemciler, Robotik, [Algoritma](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi), [Matlab](https://github.com/acetinkaya/Elektrik-Elektronik-Muhendisligi-Programlama-MATLAB-), Bulanık Modelleme ve Kontrol dersilerini uygulamaları verme  
   - Öğrenci projelerine danışmanlık yapma   
-  - Araştırma ve yayın faaliyetleri yürütme   
+  - Araştırma ve yayın faaliyetleri yürütme
+ 
+  -- İstanbul Gelişim Üniversitesi 2023 yılı APSİS değerlendirmesi kapsamında, MYO çalışmalarındaki başarılarım nedeniyle 21 Mayıs 2024 tarihli ödül töreninde 'Üstün Başarı Belgesi'ni (MYO 4. lüğü) aldım.
 
   Görev süresi boyunca ulusal ve uluslararası indeksli akademik yayınlar, kongre katılımları ve kitap çalışmaları dahil olmak üzere toplamda 14 adet çalışma gerçekleştirilmiştir.  8 adet kongre ve makale yayını, hem lisans hem de önlisans mezuniyetini yeni tamamlamış öğrencilerin kariyer gelişimlerine önemli katkılar sağlamıştır. Bu çalışmalar, öğrencilerin akademik bilgi birikimlerini artırırken, sektörel uygulama becerilerini geliştirmelerine de destek olmuştur.
 
