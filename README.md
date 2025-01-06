@@ -46,8 +46,8 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
 | Başvuru Numarası     | Çalışma İsmi                          | Buluşçu Öğrenciler                                                                                                                       | Buluşçu Danışmanlar                                                                 |
 |-----------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | TPMK 2024/009984      | Fizik Tedavi Sürecinde Kullanıcıyı Destekleyen ve İyileşmesine Katkı Sağlayan Bir Ayakkabı Tasarımı | İlyas YILDIZ, Salih GÜNDÜZ, Hasan Hüseyin SOYYİĞİT, Muhammet Ali SÜER | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ             |
-| TPMK 2024/011841      | Akıllı Ayakkabı                      | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ| Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ             |
-| TPMK 2024/009982      | Sensörlü Akıllı İlaç Kutusu          | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ           |
+| TPMK 2024/011841      | Akıllı Ayakkabı                      | İlyas YILDIZ, Salih GÜNDÜZ, Hasan Hüseyin SOYYİĞİT, Muhammet Ali SÜER | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ             |
+| TPMK 2024/009982      | Sensörlü Akıllı İlaç Kutusu          | Reyhan ASLANTAŞ, Ebru BOZKURT, Ahsen ÇOLAK, Elif UĞURLU, Feyzanur DOĞAN | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ           |
 | TPMK 2024/009981      | Araçlarda Çarpışma Önleyici Sistem   | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ       |
 | TPMK 2024/009979      | Otomatik Saksı Sulama Sistemi        | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ                                       |
 
