@@ -49,7 +49,7 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
 | TPMK 2024/011841      | Akıllı Ayakkabı                      | İlyas YILDIZ, Salih GÜNDÜZ, Hasan Hüseyin SOYYİĞİT, Muhammet Ali SÜER | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ             |
 | TPMK 2024/009982      | Sensörlü Akıllı İlaç Kutusu          | Reyhan ASLANTAŞ, Ebru BOZKURT, Ahsen ÇOLAK, Elif UĞURLU, Feyzanur DOĞAN | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ           |
 | TPMK 2024/009981      | Araçlarda Çarpışma Önleyici Sistem   | Anıl AKSAKALOĞLU, Atilla Eren YILMAZ, Muhammet Berkay SUBAŞI, Duygu SARIBAŞ | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ       |
-| TPMK 2024/009979      | Otomatik Saksı Sulama Sistemi        | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ                                       |
+| TPMK 2024/009979      | Otomatik Saksı Sulama Sistemi        | Emirhan KAYABAŞ, Mertcan ŞAHİN, Zeki YILMAZ | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ                                       |
 
 * Kitap ve Kitap Bölümü yayınlarım
   
