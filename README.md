@@ -25,6 +25,13 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
 
 ## 💼 Profesyonel Deneyim | Professional Experience
 
+- **Öğretim Görevlisi, Eğitmen [İstanbul Gelişim Üniversitesi (İGÜ) Bilim Teknoloji ve İnovasyon Akademisi](https://www.gelisim.edu.tr/tr/gelisim-anasayfa)**  
+  **Aralık 2024 - Haziran 2025**    
+  - Python programlama diliyle [Veri Yapıları ve Algoritmalar](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi) ile Yapay Zeka derslerini uygulamalı olarak yürütmek.  
+  - Öğrencilere, projelerinde danışmanlık yaparak kariyer gelişimlerine katkı sağlamak.  
+  - Akademik araştırmalar ve yayın faaliyetleri gerçekleştirmek.
+  * Gerçekleştirilen eğitimler yüz yüze gerçekleştiilip; [60 Saat Veri Yapıları & Python ve 60 Saat Uygulamalı Yapay Zeka eğitimleri](https://siberakademi.gelisim.edu.tr/tr/idari-icerik-mufredatimiz) verilmiştir. 
+
 - **Öğretim Görevlisi, Eğitmen [İstanbul Gelişim Üniversitesi (İGÜ) Siber Akademi Eğitim Merkezi](https://siberakademi.gelisim.edu.tr/tr/idari-anasayfa)**  
   **Haziran 2024 - Ocak 2025**    
   - Python programlama diliyle [Veri Yapıları ve Algoritmalar](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi) ile Yapay Zeka derslerini uygulamalı olarak yürütmek.  
