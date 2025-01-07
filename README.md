@@ -29,7 +29,8 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
   **Haziran 2024 - Günümüz**    
   - Python programlama diliyle [Veri Yapıları ve Algoritmalar](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi) ile Yapay Zeka derslerini uygulamalı olarak yürütmek.  
   - Öğrencilere, projelerinde danışmanlık yaparak kariyer gelişimlerine katkı sağlamak.  
-  - Akademik araştırmalar ve yayın faaliyetleri gerçekleştirmek.  
+  - Akademik araştırmalar ve yayın faaliyetleri gerçekleştirmek.
+  * Gerçekleştirilen Eğitimler noktasında 60 Saat Veri Yapıları & Python ve 60 Saat Uygulamalı Yapay Zeka eğitimleri verilmiştir. 
 
 - **Öğretim Görevlisi, İstanbul Gelişim Üniversitesi, MYO Elektronik Teknolojisi Bölümü**    
   **Eylül 2022 - Günümüz** 
