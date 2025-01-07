@@ -32,9 +32,7 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
   * Metaverse: Sanal dünyaların yeni ekonomisi ve deneyimleri
   * OpenAI Chat GPT: Yapay zeka ile verimliliği artıran uygulamalar ve kişiselleştirilmiş etkileşim çözümleri
   * Sanal Etkileyiciler: Bilgi iletişim teknolojilerindeki gelişmelerle şekillenen dijital karakterler ve markalar için yeni nesil pazarlama fırsatları
-
-📍 Yer: İstanbul Gelişim Üniversitesi Bilim, Teknoloji ve İnovasyon Akademisi
-
+ 
 - **Öğretim Görevlisi, Eğitmen [İstanbul Gelişim Üniversitesi (İGÜ) Siber Akademi Eğitim Merkezi](https://siberakademi.gelisim.edu.tr/tr/idari-anasayfa)**  
   **Haziran 2024 - Ocak 2025**    
   - Python programlama diliyle [Veri Yapıları ve Algoritmalar](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi) ile Yapay Zeka derslerini uygulamalı olarak yürütmek.  
