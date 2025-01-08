@@ -42,7 +42,7 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
 
 - **Öğretim Görevlisi, İstanbul Gelişim Üniversitesi, MYO Elektronik Teknolojisi Bölümü**    
   **Eylül 2022 - Günümüz** 
-  - Yapay Zeka, Mikroişlemciler, [Robotik](https://github.com/acetinkaya/robotik-arduino-uygulamalari), [Algoritma](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi), [Matlab](https://github.com/acetinkaya/Elektrik-Elektronik-Muhendisligi-Programlama-MATLAB-), [Bulanık Modelleme ve Kontrol](https://github.com/acetinkaya/BULANIK-MODELLEME-ve-KONTROL) dersilerini uygulamaları verme  
+  - Yapay Zeka, [Mikroişlemciler](https://github.com/acetinkaya/mikroislemciler), [Robotik](https://github.com/acetinkaya/robotik-arduino-uygulamalari), [Algoritma](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi), [Matlab](https://github.com/acetinkaya/Elektrik-Elektronik-Muhendisligi-Programlama-MATLAB-), [Bulanık Modelleme ve Kontrol](https://github.com/acetinkaya/BULANIK-MODELLEME-ve-KONTROL) dersilerini uygulamaları verme  
   - Öğrenci projelerine danışmanlık yapma   
   - Araştırma ve yayın faaliyetleri yürütme
 
