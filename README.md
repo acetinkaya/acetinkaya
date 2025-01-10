@@ -25,13 +25,10 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
 
 ## 💼 Profesyonel Deneyim | Professional Experience
 
-- **Öğretim Görevlisi, Eğitmen [İstanbul Gelişim Üniversitesi (İGÜ) Bilim Teknoloji ve İnovasyon Akademisi](https://www.gelisim.edu.tr/tr/gelisim-anasayfa)**  
-  **Aralık 2024 - Haziran 2025**    
-  -> İstanbul Gelişim Üniversitesi Bilim, Teknoloji ve İnovasyon Akademisi’nde, geleceğin teknolojilerini keşfetmek ve bu alanlarda farkındalık oluşturmak amacıyla kapsamlı bir eğitim serisidir. Eğitimin Haftalık Konuları:
-  * Üretken Yapay Zeka: Geleceği şekillendiren yaratıcı AI uygulamaları
-  * Metaverse: Sanal dünyaların yeni ekonomisi ve deneyimleri
-  * OpenAI Chat GPT: Yapay zeka ile verimliliği artıran uygulamalar ve kişiselleştirilmiş etkileşim çözümleri
-  * Sanal Etkileyiciler: Bilgi iletişim teknolojilerindeki gelişmelerle şekillenen dijital karakterler ve markalar için yeni nesil pazarlama fırsatları
+- **Öğretim Görevlisi, Eğitmen [Udemy](https://www.udemy.com/course/python-google-colab-algoritmalar-ve-veri-yapilari-egitimi/)**  
+  **Ocak 2025 - Devam Ediyor**    
+  -> Udemy çevrimişi platformunda, [Python + Google Colab: Algoritmalar ve Veri Yapıları Eğitimi](https://www.udemy.com/course/python-google-colab-algoritmalar-ve-veri-yapilari-egitimi/)'ni vermekteyim. 
+  * Bu eğitim içeriğinde teoriden, uygulamaya geniş kapsamlı bir Python prgoramlama dili üzerinde çalışılmıştır. 
 
 - **Öğretim Görevlisi, Eğitmen [İstanbul Gelişim Üniversitesi (İGÜ) Bilim Teknoloji ve İnovasyon Akademisi](https://www.gelisim.edu.tr/tr/gelisim-anasayfa)**  
   **Aralık 2024 - Haziran 2025**    
