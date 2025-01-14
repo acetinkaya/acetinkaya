@@ -18,7 +18,7 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
 - 🏫 **Araştırma ve Yayın Platformları**: [Google Scholar](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ) || [Üniversite Avesis](https://avesis.gelisim.edu.tr/alcetinkaya) || [ResearchGate](https://www.researchgate.net/profile/Ali-Cetinkaya-3)  || [DergiPark](https://dergipark.org.tr/tr/pub/@aalicetinkayaa)
 
 - 📘 **Education**: Master’s Degree in Computer Engineering (Thesis, 2017) | Bachelor’s Degree in Electronics and Computer Education (2014)
-- 📌 **Expertise**: [Artificial Intelligence (AI)](https://github.com/acetinkaya/ai_aLi), [Fuzzy Logic](https://github.com/acetinkaya/BULANIK-MODELLEME-ve-KONTROL), [Algorithm Development](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi), [Robotics](https://github.com/acetinkaya/robotik-arduino-uygulamalari)
+- 📌 **Expertise**: [Artificial Intelligence (AI)](https://github.com/acetinkaya/ai_aLi), [Fuzzy Logic (FL)](https://github.com/acetinkaya/BULANIK-MODELLEME-ve-KONTROL), [Algorithm Development](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi), [Robotics](https://github.com/acetinkaya/robotik-arduino-uygulamalari)
 - 🏫 **Research and Publications**: [Google Scholar](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ) || [University Avesis](https://avesis.gelisim.edu.tr/alcetinkaya) || [ResearchGate](https://www.researchgate.net/profile/Ali-Cetinkaya-3) || [DergiPark](https://dergipark.org.tr/tr/pub/@aalicetinkayaa)
 
 ---
