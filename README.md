@@ -106,21 +106,23 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
 
 3. **[Comparison of Machine Learning Algorithms for Cancer Diagnosis](https://github.com/acetinkaya/Breast-Cancer-Classification-with-ML-Algorithms)**  
    *Meme Kanseri Teşhisinde Farklı Makine Öğrenmesi Algoritmalarının Sınıflandırma Başarı Oranlarının Karşılaştırılması*    
-   *Comparison of Classification Success Rates of Different Machine Learning Algorithms in the Diagnosis of Breast Cancer*  
+   *Comparison of Classification Success Rates of Different Machine Learning Algorithms in the Diagnosis of Breast Cancer*
 
-4. **[Face and Emotion Recognition](https://github.com/acetinkaya/Face-and-Emotion-Recognition-using-Deep-Learning-Based-on-Computer-Vision-Methods)**  
+4. Twitter Financial 
+
+5. **[Face and Emotion Recognition](https://github.com/acetinkaya/Face-and-Emotion-Recognition-using-Deep-Learning-Based-on-Computer-Vision-Methods)**  
    *Derin öğrenme ve bilgisayarlı görü ile yüz ve duygu tanıma sistemi.*  
    *Face and emotion recognition system with deep learning and computer vision.*
 
-5. **[Fake News Detection](https://github.com/acetinkaya/Fake-News-Detection-via-Deep-Learning-TF-IDF)**     
+6. **[Fake News Detection](https://github.com/acetinkaya/Fake-News-Detection-via-Deep-Learning-TF-IDF)**     
    *TF-IDF ve derin öğrenme algoritmalarını kullanarak internet haberlerinin doğruluk analizi.*    
    *Analyzing the accuracy of online news using TF-IDF and deep learning algorithms.*   
 
-6. **[Faster RCNN Object Detection Application](https://github.com/acetinkaya/Faster-R-CNN-ile-Derin-Ogrenme-Tabanli-Nesne-Tespiti-ve-Dogruluk-Analizi)**   
+7. **[Faster RCNN Object Detection Application](https://github.com/acetinkaya/Faster-R-CNN-ile-Derin-Ogrenme-Tabanli-Nesne-Tespiti-ve-Dogruluk-Analizi)**   
    *Faster R-CNN Evrişimsel Sinir Ağı Üzerinde Geliştirilen Modelin Derin Öğrenme Yöntemleri ile Doğruluk Tahmini ve Analizi: Nesne Tespiti Uygulaması.*    
    *Accuracy Estimation and Analysis of The Model Developed on The Faster R-CNN Evolutionary Neural Network Using Deep Learning Methods: Object Detection Application.*    
     
-7. **[Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü](https://github.com/acetinkaya/Otonom-bir-robotun-bulanik-kontrolor-yaklasimi-ile-konum-kontrolu)**  
+8. **[Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü](https://github.com/acetinkaya/Otonom-bir-robotun-bulanik-kontrolor-yaklasimi-ile-konum-kontrolu)**  
    *Fuzzy position control approach for an autonomous robot controller*  
    *Bulanık kontrolör kullanarak hedefe ulaşma ve konum kontrolü sağlamak amacıyla gömülü sistemde DC motor, servo motor, sensörler ve robot hareketlerinin yönetilmesi.*     
    *Implementing fuzzy controller-based target reaching and position control in an embedded system, including control of DC motors, servo motors, sensors, and robot movements.*  
