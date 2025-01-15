@@ -109,6 +109,7 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
    *Comparison of Classification Success Rates of Different Machine Learning Algorithms in the Diagnosis of Breast Cancer*
 
 4. [Twitter Financial Sentiment Analysis](https://github.com/acetinkaya/Twitter-Finans-LSTM-Duygu-Analizi) 
+    Twitter Üzerindeki Finansal Tweetlerin 
 
 
 
