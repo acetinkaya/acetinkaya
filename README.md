@@ -116,9 +116,9 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
    *TF-IDF ve derin öğrenme algoritmalarını kullanarak internet haberlerinin doğruluk analizi.*  
    *Analyzing the accuracy of online news using TF-IDF and deep learning algorithms.*
 
-6. Faster RCNN Object Detection Application
-   Faster R-CNN Evrişimsel Sinir Ağı Üzerinde Geliştirilen Modelin Derin Öğrenme Yöntemleri ile Doğruluk Tahmini ve Analizi: Nesne Tespiti Uygulaması
-   Accuracy Estimation and Analysis of The Model Developed on The Faster R-CNN Evolutionary Neural Network Using Deep Learning Methods: Object Detection Application
+6. **[Faster RCNN Object Detection Application](
+   *Faster R-CNN Evrişimsel Sinir Ağı Üzerinde Geliştirilen Modelin Derin Öğrenme Yöntemleri ile Doğruluk Tahmini ve Analizi: Nesne Tespiti Uygulaması.*
+   *Accuracy Estimation and Analysis of The Model Developed on The Faster R-CNN Evolutionary Neural Network Using Deep Learning Methods: Object Detection Application.*
 
 7. **[Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü](https://github.com/acetinkaya/Otonom-bir-robotun-bulanik-kontrolor-yaklasimi-ile-konum-kontrolu)**  
    *Fuzzy position control approach for an autonomous robot controller*  
