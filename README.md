@@ -110,7 +110,7 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
 
 4. [Twitter Financial Sentiment Analysis](https://github.com/acetinkaya/Twitter-Finans-LSTM-Duygu-Analizi) 
     Twitter Üzerindeki Finansal Tweetlerin LSTM Sinir Ağı Algoritması ile Duygu Analizi
-    Sentiment Analysis of Financial Twitter Posts on Twitter
+    Sentiment Analysis of Financial Twitter Posts on Twitter with the LSTM Neural Network Algorithm
 
 
 
