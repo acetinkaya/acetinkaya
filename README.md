@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Visitor Count](
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=acetinkaya.acetinkaya)
 
 # Ali Çetinkaya 👋  
 
