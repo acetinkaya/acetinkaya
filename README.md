@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=acetinkaya.acetinkaya)
-
 # Ali Çetinkaya 👋  
 
 **🎓 Akademisyen | 💻 Algoritma Geliştirici | 🚀 Yapay Zeka Uzmanı**  
