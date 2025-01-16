@@ -30,7 +30,7 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
   -> Udemy platformunda, [Python + Google Colab: Algoritmalar ve Veri Yapıları Eğitimi](https://www.udemy.com/course/python-google-colab-algoritmalar-ve-veri-yapilari-egitimi/) isimli eğitimi vermekteyim.
   * Eğitim kapsamında, teorik bilgiler ve uygulamalar Python programlama dili kullanılarak Google Colab üzerinde gerçekleştirilmektedir.
  
-- **Instructor - Udemy**   
+- **Instructor - [Udemy]((https://www.udemy.com/course/python-google-colab-algoritmalar-ve-veri-yapilari-egitimi/))**   
   **January 2025 - Present**    
   -> I am teaching a course titled [Python + Google Colab: Algorithms and Data Structures](https://www.udemy.com/course/python-google-colab-algoritmalar-ve-veri-yapilari-egitimi/) in Turkish on the Udemy platform.   
   * The course includes theoretical knowledge and practical applications conducted using the Python programming language on Google Colab.    
