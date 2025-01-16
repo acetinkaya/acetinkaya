@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Visitor Count](
+
 # Ali Çetinkaya 👋  
 
 **🎓 Akademisyen | 💻 Algoritma Geliştirici | 🚀 Yapay Zeka Uzmanı**  
