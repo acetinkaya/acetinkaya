@@ -32,6 +32,8 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
  
 - **Instructor - Udemy**
   **January 2025 - Present**
+  -> I am teaching a course titled 
+
 
 
 - **Öğretim Görevlisi, Eğitmen [İstanbul Gelişim Üniversitesi (İGÜ) Bilim Teknoloji ve İnovasyon Akademisi](https://www.gelisim.edu.tr/tr/gelisim-anasayfa)**  
