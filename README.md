@@ -173,6 +173,11 @@ Below is a list of patents associated with my research and development activitie
 
 ---
 
+## 📊 İstatistikler | Stats  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acetinkaya&layout=compact&theme=radical)  
+
+---
+
 ## 📫 İletişim | Contact   
 - 🌱 **LinkedIn**: [Ali Çetinkaya](https://www.linkedin.com/in/aliçetinkaya)   
 - 🔭 **Kişisel Sayfa**: [Kişisel İnternet Sayfası](https://alicetinkaya.site/)   
