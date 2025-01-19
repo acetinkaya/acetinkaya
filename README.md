@@ -184,6 +184,10 @@ Below is a list of patents associated with my research and development activitie
 *  2025 yılı "Most active GitHub users in Turkey" sıralamasında Türkiye 5.'si -> https://committers.top/turkey   
 *  2024 yılı İstanbul Gelişim Üniversitesi Akademik Performans Ödülü, İstanbuk Gelişim Meslek Yüksekokulu 4.'lük Sıralaması.
 
+*  Ranked 5th in Turkey in the 2025 "Top GitHub Users By Public Contributions in Turkey" list -> Link
+
+
+
 ---
 
 ## 📫 İletişim | Contact   
