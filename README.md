@@ -186,8 +186,7 @@ Below is a list of patents associated with my research and development activitie
 
 *  Ranked 5th in Turkey in the 2025 "Top GitHub Users By Public Contributions in Turkey" list -> Link
 *  Ranked 5th in Turkey in the 2025 "Most Active GitHub Users in Turkey" list -> Link
-*  
-
+*  2024 Academic Performance Award from Istanbul Gelisim University, ranked 4th in Istanbul Gelisim Vocational School.
 
 ---
 
