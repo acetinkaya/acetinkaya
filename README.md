@@ -181,7 +181,7 @@ Below is a list of patents associated with my research and development activitie
 ## ⚡ Akademik ve Kariyer Başarılar | Academic and Career Achievements
   
 *  2025 yılı GitHub Top Users (Total Contributions) sıralamasında Türkiye 5.'si -> https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md     
-*  2025 yılı Committers Top sıralamasında Türkiye 5.'si -> https://committers.top/turkey   
+*  2025 yılı "Most active GitHub users in Turkey" sıralamasında Türkiye 5.'si -> https://committers.top/turkey   
 *  
 
 ---
