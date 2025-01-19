@@ -177,11 +177,11 @@ Below is a list of patents associated with my research and development activitie
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acetinkaya&layout=compact&theme=radical)  
 
 ---
-
-## ⚡ Alınan Derece ve Başarılar |   
-
-*  2025 yılı GitHub Top Users (Total Contributions) sıralamasında Türkiye 5.'si -> https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md
-*  2025 yılı Committers Top sıralamasında Türkiye 5.'si -> 
+  
+## ⚡ Alınan Derece ve Başarılar | Academic and Career Achievements
+  
+*  2025 yılı GitHub Top Users (Total Contributions) sıralamasında Türkiye 5.'si -> https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md     
+*  2025 yılı Committers Top sıralamasında Türkiye 5.'si -> https://committers.top/turkey   
 *  
 
 ---
