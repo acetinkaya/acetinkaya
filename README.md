@@ -187,7 +187,7 @@ Below is a list of patents associated with my research and development activitie
 ## English
 *  Ranked 5th in Turkey in the 2025 [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) list      
 *  Ranked 5th in Turkey in the 2025 [Most Active GitHub Users in Turkey](https://committers.top/turkey) list
-*  2024 Academic Performance Award from Istanbul Gelisim University, ranked 4th in Istanbul Gelisim Vocational School -> Link: https://gelisim.edu.tr/en/gelisim-news-academic-performance-awards-found-their-winners-igus-top-5-has-been-announced 
+*  [2024 Academic Performance Award from Istanbul Gelisim University](https://gelisim.edu.tr/en/gelisim-news-academic-performance-awards-found-their-winners-igus-top-5-has-been-announced), ranked 4th in Istanbul Gelisim Vocational School
 
 ---
 
