@@ -178,7 +178,7 @@ Below is a list of patents associated with my research and development activitie
 
 ---
   
-## ⚡ Akademik ve Kariyer Başarılar | Academic and Career Achievements
+## [⚡ Akademik ve Kariyer Başarılar | Academic and Career Achievements](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)
 ##  Türkçe  
 *  2025 yılı [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) sıralamasında Türkiye 5.'si olarak yer aldım.
 *  2025 yılı [Most active GitHub users in Turkey](https://committers.top/turkey ) sıralamasında Türkiye 5.'si olarak yer aldım.
