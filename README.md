@@ -182,7 +182,7 @@ Below is a list of patents associated with my research and development activitie
   
 *  2025 yılı "Top GitHub Users By Public Contributions in Turkey" sıralamasında Türkiye 5.'si -> https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md     
 *  2025 yılı "Most active GitHub users in Turkey" sıralamasında Türkiye 5.'si -> https://committers.top/turkey   
-*  2024 yılı İstanbul Gelişim Üniversitesi Akademik Performans Ödülü, İstanbuk Gelişim Meslek Yüksekokulu 4.'lük Sıralaması.
+*  2024 yılı İstanbul Gelişim Üniversitesi Akademik Performans Ödülü, İstanbuk Gelişim Meslek Yüksekokulu 4.'lük Sıralaması. --> https://gelisim.edu.tr/tr/gelisim-haber-akademik-performans-odulleri-sahiplerini-buldu-igunun-ilk-5i-aciklandi 
 
 *  Ranked 5th in Turkey in the 2025 "Top GitHub Users By Public Contributions in Turkey" list -> Link: https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md     
 *  Ranked 5th in Turkey in the 2025 "Most Active GitHub Users in Turkey" list -> Link:  https://committers.top/turkey   
