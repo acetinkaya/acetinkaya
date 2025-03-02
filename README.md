@@ -180,12 +180,12 @@ Below is a list of patents associated with my research and development activitie
 ---
   
 ## [⚡ Akademik ve Kariyer Başarılar | Academic and Career Achievements](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)
-##  Türkçe  
+###Türkçe  
 *  2025 yılı [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) sıralamasında Türkiye 5.'si olarak yer aldım.
 *  2025 yılı [Most active GitHub users in Turkey](https://committers.top/turkey ) sıralamasında Türkiye 5.'si olarak yer aldım.
 *  2024 yılı [İstanbul Gelişim Üniversitesi Akademik Performans Ödülü](https://gelisim.edu.tr/tr/gelisim-haber-akademik-performans-odulleri-sahiplerini-buldu-igunun-ilk-5i-aciklandi ), İstanbul Gelişim Meslek Yüksekokulu Akademik Performans sıralamasında 4. sırada yer aldım.
 
-## English
+###English
 *  Ranked 5th in Turkey in the 2025 [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) list      
 *  Ranked 5th in Turkey in the 2025 [Most Active GitHub Users in Turkey](https://committers.top/turkey) list
 *  Ranked 4th in Istanbul Gelisim Vocational School in the 2024, [2024 Academic Performance Award from Istanbul Gelisim University](https://gelisim.edu.tr/en/gelisim-news-academic-performance-awards-found-their-winners-igus-top-5-has-been-announced)
