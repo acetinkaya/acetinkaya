@@ -173,6 +173,12 @@ Below is a list of patents associated with my research and development activitie
 
 ---
 
+## 🧠 Kapsamlı Bir Kitap Listesi // A Comprehensive List of Books
+
+* [Yapay Zeka ve Makine Öğrenimi Alanında Kaynak Kitaplar Listesi // Artificial Intelligence (AI) and Machine Learning (ML): A List of Essential Books](https://github.com/acetinkaya/YapayZekaAlanindaKaynakKitaplar)
+
+---
+
 ## 📊 İstatistikler | Stats  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acetinkaya&layout=compact&theme=radical)  
 
