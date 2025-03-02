@@ -178,11 +178,6 @@ Below is a list of patents associated with my research and development activitie
 * [Yapay Zeka ve Makine Öğrenimi Alanında Kaynak Kitaplar Listesi // Artificial Intelligence (AI) and Machine Learning (ML): A List of Essential Books](https://github.com/acetinkaya/YapayZekaAlanindaKaynakKitaplar)
 
 ---
-
-## 📊 İstatistikler | Stats  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acetinkaya&layout=compact&theme=radical)  
-
----
   
 ## [⚡ Akademik ve Kariyer Başarılar | Academic and Career Achievements](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)
 ##  Türkçe  
@@ -201,6 +196,11 @@ Below is a list of patents associated with my research and development activitie
 - 🌱 **LinkedIn**: [Ali Çetinkaya](https://www.linkedin.com/in/ogrgoralicetinkaya/)
 - 🔭 **Kişisel Sayfa**: [Kişisel İnternet Sayfası](https://alicetinkaya.site/)   
 - 🔭 **Google Scholar Page**: [Google Scholar](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)
+---
+
+## 📊 İstatistikler | Stats  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acetinkaya&layout=compact&theme=radical)  
+
 ---
 
 <!--
