@@ -177,7 +177,8 @@ Below is a list of patents associated with my research and development activitie
 
 * [Yapay Zeka, Makine Öğrenimi ve Veri Bilimi Alanında Kaynak Kitaplar Listesi // Artificial Intelligence (AI), Machine Learning (ML) and Data Science: A List of Essential Books](https://github.com/acetinkaya/YapayZekaAlanindaKaynakKitaplar)
 * [C Programmlama Dili Alanında Kaynak Kitaplar Listesi // C Programming Language : A List of Essential Books](https://github.com/acetinkaya/CProgramlamaKaynaklari)
-
+* [Python Programmlama Dili Alanında Kaynak Kitaplar Listesi // Python Programming Language : A List of Essential Books](https://github.com/acetinkaya/PythonProgramlamaKaynaklari)
+  
 ---
   
 ## [⚡ Akademik ve Kariyer Başarılar | Academic and Career Achievements](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)    
