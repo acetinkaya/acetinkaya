@@ -179,7 +179,7 @@ Below is a list of patents associated with my research and development activitie
 * [C Programmlama Dili Alanında Kaynak Kitaplar Listesi // C Programming Language : A List of Essential Books](https://github.com/acetinkaya/CProgramlamaKaynaklari)
 * [Python Programmlama Dili Alanında Kaynak Kitaplar Listesi // Python Programming Language : A List of Essential Books](https://github.com/acetinkaya/PythonProgramlamaKaynaklari)
 * [Matlab Programmlama Dili Alanında Kaynak Kitaplar Listesi // Matlab Programming Language : A List of Essential Books](https://github.com/acetinkaya/MatlabProgramlamaKaynaklari)
-* [Görüntü İşleme Alanında Kaynak Kitaplar Listesi // İmage Processing : A List of Essential Books]
+* [Görüntü İşleme Alanında Kaynak Kitaplar Listesi // İmage Processing : A List of Essential Books](https://github.com/acetinkaya/goruntuislemekaynaklari)
 
 ---
   
