@@ -181,6 +181,7 @@ Below is a list of patents associated with my research and development activitie
 * [Matlab Programmlama Dili Alanında Kaynak Kitaplar Listesi // Matlab Programming Language : A List of Essential Books](https://github.com/acetinkaya/MatlabProgramlamaKaynaklari)
 * [Görüntü İşleme Alanında Kaynak Kitaplar Listesi // Image Processing : A List of Essential Books](https://github.com/acetinkaya/goruntuislemekaynaklari)
 * [Elektronik Alanında Kaynak Kitaplar Listesi // Electronics : A List of Essential Books](https://github.com/acetinkaya/temelelektronikkaynaklari)
+* [Arduino Alanında Kaynak Kitaplar Listesi // Arduino : A List of Essential Books](https://github.com/acetinkaya/arduinokaynaklari)
 
 ---
   
