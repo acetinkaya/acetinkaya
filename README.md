@@ -176,9 +176,10 @@ Below is a list of patents associated with my research and development activitie
 ## 🧠 Kapsamlı Bir Kitap Listesi // A Comprehensive List of Books
 
 * [Yapay Zeka, Makine Öğrenimi ve Veri Bilimi Alanında Kaynak Kitaplar Listesi // Artificial Intelligence (AI), Machine Learning (ML) and Data Science: A List of Essential Books](https://github.com/acetinkaya/YapayZekaAlanindaKaynakKitaplar)
-* [C Programmlama Dili Alanında Kaynak Kitaplar Listesi // C Programming Language : A List of Essential Books](https://github.com/acetinkaya/CProgramlamaKaynaklari)
+* [Bulanık Mantık Alanında Kaynak Kitaplar Listesi // Fuzzy Logic : A List of Essential Books](https://github.com/acetinkaya/Bulanikmantikkaynaklari)
 * [Python Programmlama Dili Alanında Kaynak Kitaplar Listesi // Python Programming Language : A List of Essential Books](https://github.com/acetinkaya/PythonProgramlamaKaynaklari)
 * [Matlab Programmlama Dili Alanında Kaynak Kitaplar Listesi // Matlab Programming Language : A List of Essential Books](https://github.com/acetinkaya/MatlabProgramlamaKaynaklari)
+* [C ve C++ Programmlama Dili Alanında Kaynak Kitaplar Listesi // C Programming Language : A List of Essential Books](https://github.com/acetinkaya/CProgramlamaKaynaklari)
 * [Görüntü İşleme Alanında Kaynak Kitaplar Listesi // Image Processing : A List of Essential Books](https://github.com/acetinkaya/goruntuislemekaynaklari)
 * [Otomatik Kontrol Alanında Kaynak Kitaplar Listesi // Automatic Control : A List of Essential Books](https://github.com/acetinkaya/otomatikkontrolkaynaklari)
 * [Elektronik Alanında Kaynak Kitaplar Listesi // Electronics : A List of Essential Books](https://github.com/acetinkaya/temelelektronikkaynaklari)
