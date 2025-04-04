@@ -224,7 +224,7 @@ Below is a list of patents associated with my research and development activitie
 
 ---
 
-
+> 🚀 **Bilgiyi oluşturalım, yayalım, koruyalım ve birlikte geliştirelim!**
 
 <!--
 **acetinkaya/acetinkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
