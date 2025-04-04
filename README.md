@@ -219,7 +219,7 @@ Below is a list of patents associated with my research and development activitie
 - 🎓 **Udemy**: [udemy.com/user/ali-cetinkaya-53](https://www.udemy.com/user/ali-cetinkaya-53/)  
 - 📸 **Instagram (Danışmanlı Öğrenme)**: [instagram.com/danismanliogrenme](https://www.instagram.com/danismanliogrenme/)  
 - 💼 **LinkedIn**: [linkedin.com/in/ogrgoralicetinkaya](https://www.linkedin.com/in/ogrgoralicetinkaya/)  
-- 📚 **Google 
+- 📚 **Google Scholar**: [Google Akademik Profilim](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)
 
 
 <!--
