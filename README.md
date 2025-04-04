@@ -221,7 +221,7 @@ Below is a list of patents associated with my research and development activitie
 - 🎥 **YouTube (Danışmanlı Öğrenme)**: [youtube.com/@danismanliogrenme](https://www.youtube.com/@danismanliogrenme)  
 - 💼 **LinkedIn**: [linkedin.com/in/ogrgoralicetinkaya](https://www.linkedin.com/in/ogrgoralicetinkaya/)  
 - 📚 **Google Scholar**: [Google Akademik Profilim](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)
-- 🏫 **Avesis 
+- 🏫 **Avesis Akademik Profil**: 
 
 ---
 
