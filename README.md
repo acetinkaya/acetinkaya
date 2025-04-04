@@ -222,6 +222,9 @@ Below is a list of patents associated with my research and development activitie
 - 💼 **LinkedIn**: [linkedin.com/in/ogrgoralicetinkaya](https://www.linkedin.com/in/ogrgoralicetinkaya/)  
 - 📚 **Google Scholar**: [Google Akademik Profilim](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)
 
+---
+
+
 
 <!--
 **acetinkaya/acetinkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
