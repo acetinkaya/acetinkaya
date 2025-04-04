@@ -216,7 +216,7 @@ Below is a list of patents associated with my research and development activitie
 ### 🌐 Bağlantılar
 
 - 🧠 **GitHub**: [github.com/acetinkaya](https://github.com/acetinkaya)  
-- 🎓 **Udemy**: 
+- 🎓 **Udemy**: [udemy.com/user/ali-cetinkaya-53](https://www.udemy.com/user/ali-cetinkaya-53/)  
 
 
 <!--
