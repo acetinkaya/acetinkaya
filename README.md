@@ -202,18 +202,12 @@ Below is a list of patents associated with my research and development activitie
    
 ---
 
-## 📫 İletişim | Contact   
-- 🌱 **LinkedIn**: [Ali Çetinkaya](https://www.linkedin.com/in/ogrgoralicetinkaya/)
-- 🔭 **Kişisel Sayfa**: [Kişisel İnternet Sayfası](https://alicetinkaya.site/)   
-- 🔭 **Google Scholar Page**: [Google Scholar](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)
----
-
 ## 📊 İstatistikler | Stats  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acetinkaya&layout=compact&theme=radical)  
 
 ---
 
-### 🌐 Bağlantılar
+### 🌐 İletişim
 
 - 🧠 **GitHub**: [github.com/acetinkaya](https://github.com/acetinkaya)  
 - 🎓 **Udemy**: [udemy.com/user/ali-cetinkaya-53](https://www.udemy.com/user/ali-cetinkaya-53/)  
