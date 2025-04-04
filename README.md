@@ -215,6 +215,7 @@ Below is a list of patents associated with my research and development activitie
 
 ### 🌐 Bağlantılar
 
+- 🧠 **GitHub**: 
 
 
 <!--
