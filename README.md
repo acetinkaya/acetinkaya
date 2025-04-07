@@ -35,8 +35,8 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
   -> I am teaching a course titled [Python + Google Colab: Algorithms and Data Structures](https://www.udemy.com/course/python-google-colab-algoritmalar-ve-veri-yapilari-egitimi/) in Turkish on the Udemy platform.   
   * The course includes theoretical knowledge and practical applications conducted using the Python programming language on Google Colab.    
 
-- **Öğretim Görevlisi, Eğitmen [İstanbul Gelişim Üniversitesi (İGÜ) Kariyer Gelişimi Akademileri ](https://www.gelisim.edu.tr/tr/gelisim-anasayfa)**  
-  **Aralık 2024 - Haziran 2025**    
+- **Öğretim Görevlisi, Eğitmen [İstanbul Gelişim Üniversitesi (İGÜ) Kariyer Gelişimi Akademileri ](https://gelisim.edu.tr/tr/gelisim-icerik-kariyer-gelisimi-akademileri)**  
+  **Aralık 2024 - Nisan 2025**    
   -> İstanbul Gelişim Üniversitesi Bilim, Teknoloji ve İnovasyon Akademisi’nde, geleceğin teknolojilerini keşfetmek ve bu alanlarda farkındalık oluşturmak amacıyla kapsamlı bir eğitim serisidir. Eğitimin Haftalık Konuları:
   * Üretken Yapay Zeka: Geleceği şekillendiren yaratıcı AI uygulamaları
   * Metaverse: Sanal dünyaların yeni ekonomisi ve deneyimleri
