@@ -42,6 +42,7 @@ Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technol
   * Metaverse: Sanal dünyaların yeni ekonomisi ve deneyimleri
   * OpenAI Chat GPT: Yapay zeka ile verimliliği artıran uygulamalar ve kişiselleştirilmiş etkileşim çözümleri
   * Sanal Etkileyiciler: Bilgi iletişim teknolojilerindeki gelişmelerle şekillenen dijital karakterler ve markalar için yeni nesil pazarlama fırsatları
+  * "Yapay Zeka
  
 - **Öğretim Görevlisi, Eğitmen [İstanbul Gelişim Üniversitesi (İGÜ) Siber Akademi Eğitim Merkezi](https://siberakademi.gelisim.edu.tr/tr/idari-anasayfa)**  
   **Haziran 2024 - Ocak 2025**    
