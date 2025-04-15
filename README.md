@@ -203,7 +203,7 @@ Below is a list of patents associated with my research and development activitie
    
 ---
 
-🎓 Etkinlikler ve Faaliyetler
+[🎓 Etkinlikler ve Faaliyetler](https://github.com/acetinkaya/etkinliklervefaaliyetler)
 
 ---
 
