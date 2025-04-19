@@ -183,7 +183,7 @@ Below is a list of patents associated with my research and development activitie
 * [C ve C++ Programmlama Dili Alanında Kaynak Kitaplar Listesi // C Programming Language : A List of Essential Books](https://github.com/acetinkaya/CProgramlamaKaynaklari)
 * [Görüntü İşleme Alanında Kaynak Kitaplar Listesi // Image Processing : A List of Essential Books](https://github.com/acetinkaya/goruntuislemekaynaklari)
 * [Otomatik Kontrol Alanında Kaynak Kitaplar Listesi // Automatic Control : A List of Essential Books](https://github.com/acetinkaya/otomatikkontrolkaynaklari)
-* [Elektronik Alanında Kaynak Kitaplar Listesi // Electronics : A List of Essential Books](https://github.com/acetinkaya/temelelektronikkaynaklari)
+* [Temel Elektronik Alanında Kaynak Kitaplar Listesi // Electronics : A List of Essential Books](https://github.com/acetinkaya/temelelektronikkaynaklari)
 * [STM32F4 ARM Mikrokontrolcü Alanında Kaynak Kitaplar Listesi // STM32F4 ARM Microcontroller : A List of Essential Books](https://github.com/acetinkaya/stm32f4-kaynaklari)
 * [Arduino Alanında Kaynak Kitaplar Listesi // Arduino : A List of Essential Books](https://github.com/acetinkaya/arduinokaynaklari)
 
