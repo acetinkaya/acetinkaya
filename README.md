@@ -207,6 +207,7 @@ Below is a list of patents associated with my research and development activitie
 
 * [C Programlama Dili Rehberi](https://github.com/acetinkaya/C-Programlama-Rehberi)
 * [Python + Google Colab: Algoritmalar ve Veri Yapıları Eğitimi (Sıfırdan İleriye)](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi)
+* [Arduino ile Robotik Uygulamalar Rehberi](https://github.com/acetinkaya/robotik-arduino-uygulamalari)
 
 ---
 
