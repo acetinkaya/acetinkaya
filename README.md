@@ -205,6 +205,9 @@ Below is a list of patents associated with my research and development activitie
 
 ## 🎓 [Konuşmalar, Eğitimler ve Katkılarım || Talks, Trainings & Contributions](https://github.com/acetinkaya/etkinliklervefaaliyetler)
 
+* [C Programlama Dili Rehberi](https://github.com/acetinkaya/C-Programlama-Rehberi)
+* 
+
 ---
 
 ## 📊 İstatistikler | Stats  
