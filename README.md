@@ -168,6 +168,7 @@ Below is a list of patents associated with my research and development activitie
 * [Yapay Zeka ve Uygulamaları](https://github.com/acetinkaya/ai_aLi)
 * [Bulanık Mantık](https://github.com/acetinkaya/BULANIK-MODELLEME-ve-KONTROL) 
 * [Elektrik-Elektronik Mühendisliği Programlama - MATLAB](https://github.com/acetinkaya/Elektrik-Elektronik-Muhendisligi-Programlama-MATLAB-)
+* [Bilgisayarda Programlama - C Dili](https://github.com/acetinkaya/C-Programlama-Rehberi)
 * [Robotik](https://github.com/acetinkaya/robotik-arduino-uygulamalari)
 * [Mikroişlemciler](https://github.com/acetinkaya/mikroislemciler)
 * [Temel Elektronik I](https://github.com/acetinkaya/Temel-Elektronik)
