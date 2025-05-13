@@ -210,7 +210,8 @@ Below is a list of patents associated with my research and development activitie
 * [Arduino ile Robotik Uygulamalar Rehberi](https://github.com/acetinkaya/robotik-arduino-uygulamalari)    
 * [C Programlama Dili Rehberi](https://github.com/acetinkaya/C-Programlama-Rehberi)   
 * [Python Programlama Dili Rehberi](https://github.com/acetinkaya/Python-Programlama-Rehberi)   
- 
+* [Açık Kaynak Veri ve Veri Setleri](https://github.com/acetinkaya/Python-Programlama-Rehberi)   
+
 ---
 
 ## 📊 İstatistikler | Stats  
