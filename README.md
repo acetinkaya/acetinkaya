@@ -2,7 +2,7 @@
 
 # Ali Çetinkaya 
 
-AI Instructor | Algorithm Developer | Lecturer & Open-Source Contributor
+# AI Instructor | Algorithm Developer | Lecturer & Open-Source Contributor
 
 Merhaba! Ben Ali Çetinkaya. İstanbul Gelişim Üniversitesi Elektronik Teknolojisi Bölümü'nde öğretim görevlisiyim. Python programlama, yapay zeka, bulanık mantık ve veri yapıları konularında eğitimler veriyor ve projeler yürütüyorum.
 
