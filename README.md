@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-# Ali Çetinkaya 👋  
+# Ali Çetinkaya 
 
-**🎓 Akademisyen | 💻 Algoritma Geliştirici | 🚀 Yapay Zeka Uzmanı**  
-
-**🎓 Academician | 💻 Algorithm Developer | 🚀 AI Specialist**
+AI Instructor | Algorithm Developer | Lecturer & Open-Source Contributor
 
 Merhaba! Ben Ali Çetinkaya. İstanbul Gelişim Üniversitesi Elektronik Teknolojisi Bölümü'nde öğretim görevlisiyim. Python programlama, yapay zeka, bulanık mantık ve veri yapıları konularında eğitimler veriyor ve projeler yürütüyorum.
 
