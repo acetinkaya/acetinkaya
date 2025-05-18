@@ -4,9 +4,10 @@
 
 ## AI Instructor | Algorithm Developer | Lecturer & Open-Source Contributor
 
-Merhaba! Ben Ali Çetinkaya. İstanbul Gelişim Üniversitesi Elektronik Teknolojisi Bölümü'nde öğretim görevlisiyim. Python programlama, yapay zeka, bulanık mantık ve veri yapıları konularında eğitimler veriyor ve projeler yürütüyorum.
+Ben Ali Çetinkaya; İstanbul Gelişim Üniversitesi’nde Öğretim Görevlisi ve IGU Siber Akademi’de Eğitmen olarak görev yapıyorum. Akademik ve mesleki çalışmalarım, algoritma tasarımı, veri yapıları ve Python programlama üzerine yoğunlaşmaktadır. Derin öğrenme, Python dili ve bulanık mantık sistemleri konularında uzmanlığa sahibim. Bu GitHub profili üzerinden, algoritmik düşünme becerilerini geliştirmek isteyen öğrenci, geliştirici ve araştırmacılar için açık kaynak projeler, eğitsel içerikler ve uygulamalı örnekler sunuyorum. "Yaparak öğrenmenin" gücüne inanıyor, algoritma geliştirme ve programlama alanlarında bilgiyi erişilebilir ve uygulanabilir hâle getirmeyi amaçlıyorum.
 
-Hello! I’m Ali Çetinkaya, a lecturer in the Department of Electronics Technology at Istanbul Gelisim University. I specialize in Python programming, artificial intelligence, fuzzy logic and data structures, conducting both educational activities and innovative projects.
+
+I’m Ali Çetinkaya, a Lecturer at Istanbul Gelisim University and an AI Instructor at IGU Cyber Academy. My academic and professional interests focus on artificial intelligence, algorithm design, and data structures. I specialize in Python programming, deep learning, and fuzzy logic systems. Through this GitHub profile, I contribute open-source projects, educational materials, and practical examples to support students, developers, and researchers working in machine learning, intelligent systems, and algorithmic thinking. I believe in the power of learning by doing and strive to make knowledge in algorithm development and programming more accessible and applicable.
 
 ---
 
