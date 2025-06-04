@@ -205,7 +205,8 @@ Below is a list of patents associated with my research and development activitie
 
 ## 🎓 [Konuşmalar, Eğitimler ve Katkılarım || Talks, Trainings & Contributions](https://github.com/acetinkaya/etkinliklervefaaliyetler)   
 
-* [Python + Google Colab: Algoritmalar ve Veri Yapıları Eğitimi (Sıfırdan İleriye)](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi)    
+* [Algoritmadan İlham’a: Üretken Yapay Zekanın Sanatsal Kodları](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari)
+* [Python + Google Colab: Algoritmalar ve Veri Yapıları Eğitimi (Sıfırdan İleriye)](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi) 
 * [Arduino ile Robotik Uygulamalar Rehberi](https://github.com/acetinkaya/robotik-arduino-uygulamalari)    
 * [C Programlama Dili Rehberi](https://github.com/acetinkaya/C-Programlama-Rehberi)   
 * [Python Programlama Dili Rehberi](https://github.com/acetinkaya/Python-Programlama-Rehberi)   
