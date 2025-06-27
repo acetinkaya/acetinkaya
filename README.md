@@ -24,6 +24,8 @@ I’m Ali Çetinkaya, a Lecturer at Istanbul Gelisim University and an AI Instru
 
 ## 💼 Profesyonel Deneyim | Professional Experience
 
+- **Program Başkanı, Otonom Sistemler Teknikerliği 
+
 - **Eğitmen [Udemy](https://www.udemy.com/course/python-google-colab-algoritmalar-ve-veri-yapilari-egitimi/)**  
   **Ocak 2025 - Devam Ediyor**    
   -> Udemy platformunda, [Python + Google Colab: Algoritmalar ve Veri Yapıları Eğitimi](https://www.udemy.com/course/python-google-colab-algoritmalar-ve-veri-yapilari-egitimi/) isimli eğitimi vermekteyim.
