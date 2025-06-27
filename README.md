@@ -24,7 +24,7 @@ I’m Ali Çetinkaya, a Lecturer at Istanbul Gelisim University and an AI Instru
 
 ## 💼 Profesyonel Deneyim | Professional Experience
 
-- **Program Başkanı, Otonom Sistemler Teknikerliği [İstanbul Gelişim Üniversitesi MYO ](https://myo.gelisim.edu.tr/tr/akademik-bolum-otonom-sistemler-teknikerligi)**  
+- **Program Başkanı, Otonom Sistemler Teknikerliği, [İstanbul Gelişim Üniversitesi MYO ](https://myo.gelisim.edu.tr/tr/akademik-bolum-otonom-sistemler-teknikerligi)**  
   **Haziran 2025 - Şuan**    
 
 - **Eğitmen [Udemy](https://www.udemy.com/course/python-google-colab-algoritmalar-ve-veri-yapilari-egitimi/)**  
