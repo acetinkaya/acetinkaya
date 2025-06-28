@@ -11,7 +11,7 @@ I’m Ali Çetinkaya, a Lecturer at Istanbul Gelisim University and an AI Instru
 
 ---
 
-## [⚡ Akademik ve Kariyer Başarılar | Academic and Career Achievements](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)    
+## [🎯 Akademik ve Profesyonel Başarılar | Academic and Professional Achievements](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)  
 
 [Türkçe](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)   
 *  2025 yılı [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) sıralamasında Türkiye 4.'sü olarak yer aldım.
