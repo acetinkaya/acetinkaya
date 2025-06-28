@@ -11,6 +11,20 @@ I’m Ali Çetinkaya, a Lecturer at Istanbul Gelisim University and an AI Instru
 
 ---
 
+## [⚡ Akademik ve Kariyer Başarılar | Academic and Career Achievements](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)    
+
+[Türkçe](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)   
+*  2025 yılı [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) sıralamasında Türkiye 4.'sü olarak yer aldım.
+*  2025 yılı [Most active GitHub users in Turkey](https://committers.top/turkey ) sıralamasında Türkiye 3.'sü olarak yer aldım.
+*  2024 yılı [İstanbul Gelişim Üniversitesi Akademik Performans Ödülü](https://gelisim.edu.tr/tr/gelisim-haber-akademik-performans-odulleri-sahiplerini-buldu-igunun-ilk-5i-aciklandi ), İstanbul Gelişim Meslek Yüksekokulu Akademik Performans sıralamasında 4. sırada yer aldım.
+
+[English](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)    
+*  Ranked 4th in Turkey in the 2025 [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) list      
+*  Ranked 3rd in Turkey in the 2025 [Most Active GitHub Users in Turkey](https://committers.top/turkey) list
+*  Ranked 4th in Istanbul Gelisim Vocational School in the 2024, [2024 Academic Performance Award from Istanbul Gelisim University](https://gelisim.edu.tr/en/gelisim-news-academic-performance-awards-found-their-winners-igus-top-5-has-been-announced)
+   
+---
+
 ## 🌟 Hakkımda | About Me  
 - 📘 **Eğitim**: Bilgisayar Mühendisliği (Tezli Yüksek Lisans, 2017) | Elektronik ve Bilgisayar Eğitimi (Lisans, 2014)
 - 📌 **Uzmanlık Alanları**: [Yapay Zeka (YZ)](https://github.com/acetinkaya/ai_aLi), [Bulanık Mantık (BM)](https://github.com/acetinkaya/BULANIK-MODELLEME-ve-KONTROL), [Algoritma Geliştirme](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi), [Robotik Bilimi (RB)](https://github.com/acetinkaya/robotik-arduino-uygulamalari)
@@ -190,20 +204,6 @@ Below is a list of patents associated with my research and development activitie
 * [STM32F4 ARM Mikrokontrolcü Alanında Kaynak Kitaplar Listesi // STM32F4 ARM Microcontroller : A List of Essential Books](https://github.com/acetinkaya/stm32f4-kaynaklari)
 * [Arduino Alanında Kaynak Kitaplar Listesi // Arduino : A List of Essential Books](https://github.com/acetinkaya/arduinokaynaklari)
 
----
-  
-## [⚡ Akademik ve Kariyer Başarılar | Academic and Career Achievements](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)    
-
-[Türkçe](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)   
-*  2025 yılı [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) sıralamasında Türkiye 4.'sü olarak yer aldım.
-*  2025 yılı [Most active GitHub users in Turkey](https://committers.top/turkey ) sıralamasında Türkiye 3.'sü olarak yer aldım.
-*  2024 yılı [İstanbul Gelişim Üniversitesi Akademik Performans Ödülü](https://gelisim.edu.tr/tr/gelisim-haber-akademik-performans-odulleri-sahiplerini-buldu-igunun-ilk-5i-aciklandi ), İstanbul Gelişim Meslek Yüksekokulu Akademik Performans sıralamasında 4. sırada yer aldım.
-
-[English](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)    
-*  Ranked 4th in Turkey in the 2025 [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) list      
-*  Ranked 3rd in Turkey in the 2025 [Most Active GitHub Users in Turkey](https://committers.top/turkey) list
-*  Ranked 4th in Istanbul Gelisim Vocational School in the 2024, [2024 Academic Performance Award from Istanbul Gelisim University](https://gelisim.edu.tr/en/gelisim-news-academic-performance-awards-found-their-winners-igus-top-5-has-been-announced)
-   
 ---
 
 ## 🎓 [Konuşmalar, Eğitimler ve Katkılarım || Talks, Trainings & Contributions](https://github.com/acetinkaya/etkinliklervefaaliyetler)   
