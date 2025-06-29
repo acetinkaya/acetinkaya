@@ -3,14 +3,19 @@
 # Ali Çetinkaya 
 
 ## AI Instructor | Algorithm Developer | Lecturer & Open-Source Contributor
+    
+📌 Algoritma Geliştirici & Öğretim Görevlisi @ IGU    
+🚀 Otonom Sistemler Teknikerliği Program Başkanı / IGU MYO   
+🎯 Yapay Zeka, Gömülü Sistemler, Fuzzy Logic, AI & GenAI üzerine yoğunlaşan bir akademisyenim.   
+🔍 İstanbul Gelişim Üniversitesi Meslek Yüksekokulu’nda; algoritma geliştirme temelli yayın, proje, patent ve akademik çalışmalar gerçekleştirmekteyim.    
 
-Ben Ali Çetinkaya; İstanbul Gelişim Üniversitesi’nde Öğretim Görevlisi ve IGU Siber Akademi’de Eğitmen olarak görev yapıyorum. Akademik ve mesleki çalışmalarım, algoritma tasarımı, veri yapıları ve Python programlama üzerine yoğunlaşmaktadır. Derin öğrenme, Python dili ve bulanık mantık sistemleri konularında uzmanlığa sahibim. Bu GitHub profili üzerinden, algoritmik düşünme becerilerini geliştirmek isteyen öğrenci, geliştirici ve araştırmacılar için açık kaynak projeler, eğitsel içerikler ve uygulamalı örnekler sunuyorum. "Yaparak öğrenmenin" gücüne inanıyor, algoritma geliştirme ve programlama alanlarında bilgiyi erişilebilir ve uygulanabilir hâle getirmeyi amaçlıyorum.
-
-
-I’m Ali Çetinkaya, a Lecturer at Istanbul Gelisim University and an AI Instructor at IGU Cyber Academy. My academic and professional interests focus on artificial intelligence, algorithm design, and data structures. I specialize in Python programming, deep learning, and fuzzy logic systems. Through this GitHub profile, I contribute open-source projects, educational materials, and practical examples to support students, developers, and researchers working in machine learning, intelligent systems, and algorithmic thinking. I believe in the power of learning by doing and strive to make knowledge in algorithm development and programming more accessible and applicable.
-
----
-
+📌 Algorithm Developer & Lecturer @ IGU    
+🚀 Head of the Autonomous Systems Program / IGU MYO     
+🎯 An academic specializing in AI, Embedded Systems, Fuzzy Logic, AI & GenAI.   
+🔍 I conduct research publications, projects, patents, and academic studies centered on algorithm development at Istanbul Gelisim University Vocational School.   
+    
+---   
+   
 ## [🎯 Akademik ve Profesyonel Başarılar | Academic and Professional Achievements](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)  
 
 [Türkçe](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)   
