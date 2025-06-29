@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Ali Çetinkaya 
+## 👋 Hi there, I'm Ali Çetinkaya | Merhaba, Ben Ali Çetinkaya
 
 ## AI Instructor | Algorithm Developer | Lecturer & Open-Source Contributor
     
