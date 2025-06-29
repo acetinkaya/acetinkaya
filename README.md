@@ -4,7 +4,7 @@
     
 📌 Algoritma Geliştirici & Öğretim Görevlisi @ IGU    
 🚀 Otonom Sistemler Teknikerliği Program Başkanı / IGU MYO   
-🎯 Yapay Zeka, Gömülü Sistemler, Fuzzy Logic, AI & GenAI üzerine yoğunlaşan bir akademisyenim.   
+🎯 Gömülü Sistemler, Bulanık Mantık, Yapay Zeka & Üretken Yapay Zeka (GenAI) üzerine yoğunlaşan bir akademisyenim.   
 🔍 İstanbul Gelişim Üniversitesi Meslek Yüksekokulu’nda; algoritma geliştirme temelli yayın, proje, patent ve akademik çalışmalar gerçekleştirmekteyim.    
 
 📌 Algorithm Developer & Lecturer @ IGU    
