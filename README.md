@@ -11,7 +11,7 @@
 
 📌 Algorithm Developer & Lecturer @ IGU    
 🚀 Head of the Autonomous Systems Program / IGU MYO     
-🎯 As an academic, I focus on Artificial Intelligence, Embedded Systems, Fuzzy Logic, and next-generation AI (GenAI) technologies.    
+🎯 As an academic, I focus on Embedded Systems, Fuzzy Logic, Artificial Intelligence (AI) and Generative Artificial Intelligence (GenAI) technologies.    
 🔍 I conduct research publications, projects, patents, and academic studies centered on algorithm development at Istanbul Gelisim University Vocational School.   
     
 ---   
