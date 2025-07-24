@@ -30,7 +30,7 @@
 *  [Within the scope of the 2025 Istanbul Gelisim University Academic Performance Awards rankings](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar);   
   *- 🏆 Ranked 2nd university-wide in the Project, Patent, and Design Category.*   
   *- 🏅 Ranked 31st university-wide in the Overall Academic Performance Ranking.* 
-*  Ranked 4th in Turkey in the 2025 [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) list      
+*  Ranked 3rd in Turkey in the 2025 [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) list      
 *  Ranked 3rd in Turkey in the 2025 [Most Active GitHub Users in Turkey](https://committers.top/turkey) list
 *  Ranked 4th in Istanbul Gelisim Vocational School in the 2024, [2024 Academic Performance Award from Istanbul Gelisim University](https://gelisim.edu.tr/en/gelisim-news-academic-performance-awards-found-their-winners-igus-top-5-has-been-announced)
 *  Ranked 5th in Turkey in the 2024 [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) list      
