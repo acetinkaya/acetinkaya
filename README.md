@@ -201,6 +201,8 @@ Below is a list of patents associated with my research and development activitie
 * [Robotik](https://github.com/acetinkaya/robotik-arduino-uygulamalari)
 * [Mikroişlemciler](https://github.com/acetinkaya/mikroislemciler)
 * [Temel Elektronik I](https://github.com/acetinkaya/Temel-Elektronik)
+* [Dogru Akım Devreleri](https://github.com/acetinkaya/dogruakimdevreleri)
+
 
 ---
 
