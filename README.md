@@ -35,7 +35,7 @@
 *  Ranked 4th in Istanbul Gelisim Vocational School in the 2024, [2024 Academic Performance Award from Istanbul Gelisim University](https://gelisim.edu.tr/en/gelisim-news-academic-performance-awards-found-their-winners-igus-top-5-has-been-announced)
 *  Ranked 5th in Turkey in the 2024 [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) list      
 *  Ranked 5th in Turkey in the 2024 [Most Active GitHub Users in Turkey](https://committers.top/turkey) list
-   
+
 ---
 
 ## 🌟 Hakkımda | About Me  
@@ -101,7 +101,7 @@
 | TPMK 2024/009979      | Otomatik Saksı Sulama Sistemi        | Emirhan KAYABAŞ, Mertcan ŞAHİN, Zeki YILMAZ | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ                                       |
 
 * Kitap ve Kitap Bölümü yayınlarım
-  
+
 | Kitap / Bölüm Başlığı                                                                 | Yayıncı                     | ISBN                  |
 |--------------------------------------------------------------------------------------|-----------------------------|-----------------------|
 | [Bulanık Mantık ve Python Uygulamaları](https://www.amazon.com.tr/Bulan%C4%B1k-Mant%C4%B1k-ve-Python-Uygulamalar%C4%B1/dp/6054827987)                                                | IGU Yayınları | 978-605-4827-98-5 |
@@ -188,7 +188,6 @@ Below is a list of patents associated with my research and development activitie
 | 14  | [Self-electric and energy saving street light](https://patents.google.com/patent/WO2024039327A1)                                    | WIPO (PCT), TR Patent   | WO2024039327A1              | TR2022/013014       |
 | 15  | [A smart cane that increases environmental awareness, has a monitoring system and is suitable for every size](https://patents.google.com/patent/WO2023214945A1) | WIPO (PCT), TR Patent     | WO2023214945A1        | TR2022/007332        |
 
-
 ---
 
 ## 💡 Academic Courses // Akademik Dersler
@@ -202,7 +201,6 @@ Below is a list of patents associated with my research and development activitie
 * [Mikroişlemciler](https://github.com/acetinkaya/mikroislemciler)
 * [Temel Elektronik I](https://github.com/acetinkaya/Temel-Elektronik)
 * [Dogru Akım Devreleri](https://github.com/acetinkaya/dogruakimdevreleri)
-
 
 ---
 
