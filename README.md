@@ -237,7 +237,7 @@ Below is a list of patents associated with my research and development activitie
 ---
 
 ### 🌐 İletişim ve Platformlar | Contact & Platforms
-
+- 🚀 **NextSosyal**: [Danışmanlı Öğrenme](ttps://sosyal.teknofest.app/@danismanliogrenme)
 - 🧠 **GitHub**: [github.com/acetinkaya](https://github.com/acetinkaya)  
 - 🎓 **Udemy**: [udemy.com/user/ali-cetinkaya-53](https://www.udemy.com/user/ali-cetinkaya-53/)  
 - 📸 **Instagram (Danışmanlı Öğrenme)**: [instagram.com/danismanliogrenme](https://www.instagram.com/danismanliogrenme/)
