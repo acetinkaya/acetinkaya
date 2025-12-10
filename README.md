@@ -238,11 +238,6 @@ Below is a list of patents associated with my research and development activitie
 
 ---
 
-## 📊 İstatistikler | Stats  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acetinkaya&layout=compact&theme=radical)  
-
----
-
 ### 🌐 İletişim ve Platformlar | Contact & Platforms
 - 🚀 **NextSosyal (Danışmanlı Öğrenme)**: [@danismanliogrenme](https://sosyal.teknofest.app/@danismanliogrenme)   
 - 🧠 **GitHub**: [github.com/acetinkaya](https://github.com/acetinkaya)  
