@@ -92,8 +92,9 @@
 
   Görev süresi boyunca Önlisans Meslek Yüksekokulu'nda robotik & mikrodenetleyici konulu araştırma ekibi 2 danışman Öğr. Gör. ve 16 öğrenciden oluşmaktadır. 2023-2024 bahar dönemi yapılan çalışmalar ile aşağıdaki tabloda belirtilen fikri mülkiyet başvuru süreçleri gerçekleştirilmiştir. Bu çalışmalar, öğrencilerimizin inovasyon ve girişimcilik konularındaki farkındalıklarını artırırken, akademik ve sektörel yetkinliklerine de önemli katkılar sağlamıştır.
   
-| Başvuru Numarası     | Çalışma İsmi                          | Buluşçu Öğrenciler                                                                                                                       | Buluşçu Danışmanlar                                                                 |
+| Başvuru Numarası     | Çalışma İsmi                          | Buluşçu Öğrenciler                                                                                                                       | Buluşçu Danışman // Danışmanlar                                                                 |
 |-----------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| TPMK 2025/004333      | 
 | TPMK 2024/009984      | Fizik Tedavi Sürecinde Kullanıcıyı Destekleyen ve İyileşmesine Katkı Sağlayan Bir Ayakkabı Tasarımı | İlyas YILDIZ, Salih GÜNDÜZ, Hasan Hüseyin SOYYİĞİT, Muhammet Ali SÜER | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ             |
 | TPMK 2024/011841      | Akıllı Ayakkabı                      | İlyas YILDIZ, Salih GÜNDÜZ, Hasan Hüseyin SOYYİĞİT, Muhammet Ali SÜER | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ             |
 | TPMK 2024/009982      | Sensörlü Akıllı İlaç Kutusu          | Reyhan ASLANTAŞ, Ebru BOZKURT, Ahsen ÇOLAK, Elif UĞURLU, Feyzanur DOĞAN | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ           |
