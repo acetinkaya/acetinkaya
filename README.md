@@ -111,10 +111,9 @@
 |-----------------------------------------------|-----------------------------|-----------------------|
 | Dikey İniş-Kalkış Yapabilen Uçan Araba / TUSI | 2018–2020 / İstanbul Gelişim Üniversitesi | Araştırmacı – Elektronik Tasarım, Gömülü Yazılım, Algoritma Geliştircisi | 
 | Eczamatik İlaç Otomat Makinesinin Kullanılabilirliğinin Geliştirilmesi Projesi | 2021 - 2022 / İGU BAP Araştırma Projesi | Araştırmacı – Elektronik Tasarım, Gömülü Yazılım, Algoritma Geliştircisi | 
-| İstanbul Gelişim Üniversitesi Kule Binasının Karbon Ayak İzinin Hesaplanması ve Yapay Zeka Yöntemleri ile Kısa - Orta ve Uzun Dönem Yük Tahmini Gerçekleştirmesi | 2024 - 2025 / İGU BAP Araştırma Projesi | Araştırmacı - Algoritma Geliştircisi | | Temelden Uygulamaya MATLAB Eğitimi | TÜBİTAK Projesi, 2237 - Proje Eğitimi Etkinliklerini Destekleme Programı, 2026 - 2026 | Eğitmen - Fuzzy Lojik / Bulanık Mantık |
-
-
-
+| İstanbul Gelişim Üniversitesi Kule Binasının Karbon Ayak İzinin Hesaplanması ve Yapay Zeka Yöntemleri ile Kısa - Orta ve Uzun Dönem Yük Tahmini Gerçekleştirmesi | 2024-2025 / İGU BAP Araştırma Projesi | Araştırmacı - Algoritma Geliştircisi | 
+| Temelden Uygulamaya MATLAB Eğitimi | TÜBİTAK Projesi, 2237 - Proje Eğitimi Etkinliklerini Destekleme Programı, 2026 - 2026 | Eğitmen - Fuzzy Lojik / Bulanık Mantık |
+|-----------------------------------------------|-----------------------------|-----------------------|
 
 * Kitap ve Kitap Bölümü yayınlarım
 
