@@ -239,9 +239,9 @@ Below is a list of patents associated with my research and development activitie
 ---
 
 ### 🌐 İletişim ve Platformlar | Contact & Platforms   
-- 🚀 **NextSosyal (Danışmanlı Öğrenme)**: [@danismanliogrenme](https://sosyal.teknofest.app/@danismanliogrenme)   
 - 📸 **Instagram (Danışmanlı Öğrenme)**: [instagram.com/danismanliogrenme](https://www.instagram.com/danismanliogrenme/)
 - 🎥 **YouTube (Danışmanlı Öğrenme)**: [youtube.com/@danismanliogrenme](https://www.youtube.com/@danismanliogrenme)
+- 🚀 **NextSosyal (Danışmanlı Öğrenme)**: [@danismanliogrenme](https://sosyal.teknofest.app/@danismanliogrenme)   
 - 📸 **TikTok (Danışmanlı Öğrenme)**: [tiktok.com/@danismanliogrenme](https://www.tiktok.com/@danismanliogrenme)
 - 💼 **LinkedIn**: [linkedin.com/in/ogrgoralicetinkaya](https://www.linkedin.com/in/ogrgoralicetinkaya/)  
 - 📚 **Google Scholar**: [Google Akademik Profilim](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)
