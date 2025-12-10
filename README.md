@@ -105,6 +105,12 @@
 | TPMK 2024/009981      | Araçlarda Çarpışma Önleyici Sistem   | Anıl AKSAKALOĞLU, Atilla Eren YILMAZ, Muhammet Berkay SUBAŞI, Duygu SARIBAŞ | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ       |
 | TPMK 2024/009979      | Otomatik Saksı Sulama Sistemi        | Emirhan KAYABAŞ, Mertcan ŞAHİN, Zeki YILMAZ | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ                                       |
 
+* Tamamlanan ve Devam Eden Projeler
+
+| Proje Adı / Teknoloji Alanı                   |
+
+
+
 * Kitap ve Kitap Bölümü yayınlarım
 
 | Kitap / Bölüm Başlığı                                                                 | Yayıncı                     | ISBN                  |
