@@ -94,7 +94,7 @@
   
 | Başvuru Numarası     | Çalışma İsmi                          | Buluşçu Öğrenciler                                                                                                                       | Buluşçu Danışman // Danışmanlar                                                                 |
 |-----------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| TPMK 2025/004333      | Kişisel Vücüt Analizi İçin Yapay Zeka Destekli 
+| TPMK 2025/004333      | Kişisel Vücüt Analizi İçin Yapay Zeka Destekli Akıllı Vücüt Ölçümü ve Gelişim Takip Sistemi | 
 | TPMK 2024/009984      | Fizik Tedavi Sürecinde Kullanıcıyı Destekleyen ve İyileşmesine Katkı Sağlayan Bir Ayakkabı Tasarımı | İlyas YILDIZ, Salih GÜNDÜZ, Hasan Hüseyin SOYYİĞİT, Muhammet Ali SÜER | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ             |
 | TPMK 2024/011841      | Akıllı Ayakkabı                      | İlyas YILDIZ, Salih GÜNDÜZ, Hasan Hüseyin SOYYİĞİT, Muhammet Ali SÜER | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ             |
 | TPMK 2024/009982      | Sensörlü Akıllı İlaç Kutusu          | Reyhan ASLANTAŞ, Ebru BOZKURT, Ahsen ÇOLAK, Elif UĞURLU, Feyzanur DOĞAN | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ           |
