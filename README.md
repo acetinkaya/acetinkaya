@@ -94,7 +94,7 @@
   
 | Başvuru Numarası     | Çalışma İsmi                          | Buluşçu Öğrenciler                                                                                                                       | Buluşçu Danışman // Danışmanlar                                                                 |
 |-----------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| TPMK 2025/014364      | Yapay Zeka Destekli Akıllı Ev Güvenlik 
+| TPMK 2025/014364      | Yapay Zeka Destekli Akıllı Ev Güvenlik ve Otomasyon Sistemi | 
 | TPMK 2025/004333      | Kişisel Vücüt Analizi İçin Yapay Zeka Destekli Akıllı Vücüt Ölçümü ve Gelişim Takip Sistemi | Cemil İLYAS, Aslı TÜRK, Barış KÖSE | Öğr. Gör. Ali ÇETİNKAYA |
 | TPMK 2024/009984      | Fizik Tedavi Sürecinde Kullanıcıyı Destekleyen ve İyileşmesine Katkı Sağlayan Bir Ayakkabı Tasarımı | İlyas YILDIZ, Salih GÜNDÜZ, Hasan Hüseyin SOYYİĞİT, Muhammet Ali SÜER | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ             |
 | TPMK 2024/011841      | Akıllı Ayakkabı                      | İlyas YILDIZ, Salih GÜNDÜZ, Hasan Hüseyin SOYYİĞİT, Muhammet Ali SÜER | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. İsmail Hakkı SERİ             |
