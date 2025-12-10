@@ -109,7 +109,7 @@
 
 | Proje Adı / Teknoloji Alanı                   | Yıl – Kurum / Destek Türü    | Proje İçi Rol ve Sorumluluklar |
 |-----------------------------------------------|-----------------------------|-----------------------|
-| Dikey İniş-Kalkış Yapabilen Uçan Araba / TUSI | 
+| Dikey İniş-Kalkış Yapabilen Uçan Araba / TUSI | 2018–2020 / İstanbul Gelişim Üniversitesi | Araştırmacı – Elektronik Tasarım, Gömülü Yazılım, Algoritma | 
 
 
 
