@@ -114,6 +114,7 @@
 | İstanbul Gelişim Üniversitesi Kule Binasının Karbon Ayak İzinin Hesaplanması ve Yapay Zeka Yöntemleri ile Kısa - Orta ve Uzun Dönem Yük Tahmini Gerçekleştirmesi | 2024-2025 / İGU BAP Araştırma Projesi | Araştırmacı - Algoritma Geliştircisi | 
 | Temelden Uygulamaya MATLAB Eğitimi | 2025 - 2026, TÜBİTAK Projesi, 2237 - Proje Eğitimi Etkinliklerini Destekleme Programı | Eğitmen - Fuzzy Lojik / Bulanık Mantık |
 | Kullanıcıların Güvenliğini Arttıran Sensör Tabanlı Bir AI Çözümü | 2026 - 2027, Tübitak 2209-A Projesi | Danışman |
+| Sürdürülebilir Enerji Üretimi İçin Yenilikçi Bir Yaklaşım Önerisi | 2026 - 2027, Tübitak 2209-A Projesi | Danışman |
 
 * Kitap ve Kitap Bölümü yayınlarım
 
