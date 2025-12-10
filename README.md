@@ -107,7 +107,8 @@
 
 * Tamamlanan ve Devam Eden Projeler
 
-| Proje Adı / Teknoloji Alanı                   |
+| Proje Adı / Teknoloji Alanı                   | Yıl – Kurum / Destek Türü    | Proje İçi Rol ve Sorumluluklar |
+
 
 
 
