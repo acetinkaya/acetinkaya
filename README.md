@@ -110,7 +110,7 @@
 | Proje Adı / Teknoloji Alanı                   | Yıl – Kurum / Destek Türü    | Proje İçi Rol ve Sorumluluklar |
 |-----------------------------------------------|-----------------------------|-----------------------|
 | Dikey İniş-Kalkış Yapabilen Uçan Araba / TUSI | 2018–2020 / İstanbul Gelişim Üniversitesi | Araştırmacı – Elektronik Tasarım, Gömülü Yazılım, Algoritma Geliştircisi | 
-| Eczamatik İlaç Otomat Makinesinin Kullanılabilirliğinin Geliştirilmesi Projesi / HD-200220 | 
+| Eczamatik İlaç Otomat Makinesinin Kullanılabilirliğinin Geliştirilmesi Projesi / HD-200220 | 2021 - 2022 / İGU BAP Araştırma Projesi | Araştırmacı – Elektronik Tasarım, Gömülü Yazılım, Algoritma Geliştircisi | 
 
 
 
