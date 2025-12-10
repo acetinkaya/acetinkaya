@@ -92,7 +92,7 @@
 
   Görev süresi boyunca Önlisans Meslek Yüksekokulu'nda robotik & mikrodenetleyici konulu araştırma ekibi 2 danışman Öğr. Gör. ve 16 öğrenciden oluşmaktadır. 2023-2024 bahar dönemi yapılan çalışmalar ile aşağıdaki tabloda belirtilen fikri mülkiyet başvuru süreçleri gerçekleştirilmiştir. Bu çalışmalar, öğrencilerimizin inovasyon ve girişimcilik konularındaki farkındalıklarını artırırken, akademik ve sektörel yetkinliklerine de önemli katkılar sağlamıştır.
   
-| Başvuru Numarası     | Çalışma İsmi                          | Buluşçu Öğrenciler                                                                                                                       | Buluşçu Danışman // Danışmanlar                                                                 |
+| Başvuru Numarası     | Çalışma İsmi                          | Buluşçu Öğrenci // Öğrenciler                                                                                                                       | Buluşçu Danışman // Danışmanlar                                                                 |
 |-----------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | TPMK 2025/014364      | Yapay Zeka Destekli Akıllı Ev Güvenlik ve Otomasyon Sistemi | Furkan YAŞAR | Öğr. Gör. Ali ÇETİNKAYA |
 | TPMK 2025/004333      | Kişisel Vücüt Analizi İçin Yapay Zeka Destekli Akıllı Vücüt Ölçümü ve Gelişim Takip Sistemi | Cemil İLYAS, Aslı TÜRK, Barış KÖSE | Öğr. Gör. Ali ÇETİNKAYA |
