@@ -109,6 +109,7 @@
 
 | Proje Adı / Teknoloji Alanı                   | Yıl – Kurum / Destek Türü    | Proje İçi Rol ve Sorumluluklar |
 |-----------------------------------------------|-----------------------------|-----------------------|
+| Dikey İniş-Kalkış Yapabilen Uçan Araba / TUSI | 
 
 
 
