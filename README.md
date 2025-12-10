@@ -94,7 +94,7 @@
   
 | Başvuru Numarası     | Çalışma İsmi                          | Buluşçu Öğrenci // Öğrenciler                                                                                                                       | Buluşçu Danışman // Danışmanlar                                                                 |
 |-----------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| TPMK 2025/016743      | Devriye Robotu | Elasu DOĞAN, 
+| TPMK 2025/016743      | Devriye Robotu | Elasu DOĞAN, Birsen Irmak ÇOŞKUN, Helin DEMİR, 
 | TPMK 2025/014437      | Kullanıcı Tarafından Karar Destek Mekanizmalı Manuel ve Otonom Kontrol İçeren Hibrit Oyun Modülü | Kerem KAÇMAZ | Öğr. Gör. Ali ÇETİNKAYA |
 | TPMK 2025/014370      | Görüntü İşleme ile Kombin Öneri Sistemi | Korkut Efe ALTUNTAŞ | Öğr. Gör. Ali ÇETİNKAYA, Öğr. Gör. Esen TURUNÇ |
 | TPMK 2025/014364      | Yapay Zeka Destekli Akıllı Ev Güvenlik ve Otomasyon Sistemi | Furkan YAŞAR | Öğr. Gör. Ali ÇETİNKAYA |
