@@ -118,9 +118,9 @@
 
 * Kitap ve Kitap Bölümü yayınlarım
 
-| Kitap / Bölüm Başlığı                                                                 | Yayıncı                     | ISBN                  |
+| Kitap / Bölüm Başlığı                                                                 | Yayıncı                     | ISBN No                 |
 |--------------------------------------------------------------------------------------|-----------------------------|-----------------------|
-| [Bulanık Mantık ve Python Uygulamaları](https://www.amazon.com.tr/Bulan%C4%B1k-Mant%C4%B1k-ve-Python-Uygulamalar%C4%B1/dp/6054827987)                                                | IGU Yayınları | 978-605-4827-98-5 |
+| [Bulanık Mantık ve Python Uygulamaları](https://www.amazon.com.tr/Bulan%C4%B1k-Mant%C4%B1k-ve-Python-Uygulamalar%C4%B1/dp/6054827987)                                                | IGU Yayınları | ISBN: 978-605-4827-98-5 |
 | [Makine Öğrenmesi Algoritmaları](https://www.nobelyayin.com/makine-ogrenmesi-algoritmalari-21633.html) - Bölüm 4.4, k-NN Sınıflandırma Yöntemi               | Nobel Akademik Yayıncılık   | 978-625-371-882-4    |
 | [Yapay Zeka Çalışmaları](https://www.cizgikitabevi.com/kitap/2234-yapay-zeka-calismalari) - Bölüm 2, Yenilenebilir Enerji Kaynaklarının Kullanımında Yapay Zeka Destekli Yaklaşımların Karşılaştırılması ve Analizi | Çizgi Kitapevi | ISBN: 978-625-396-758-1 |
 | [Yeni Nesil Yapay Zekâ Yaklaşımları: Yazılım, Kariyer ve Sinirsel Mimariler Üzerine](https://panel.bidgecongress.org/doi-8468946834) - Bölüm 2, ÜRETKEN YAPAY ZEKA İLE DİJİTAL DÖNÜŞÜM: GELECEĞİN KARİYER ALANLARI	              | BİDGE Yayınları | ISBN: 978-625-372-677-5    |
