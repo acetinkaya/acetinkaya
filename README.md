@@ -122,7 +122,7 @@
 |--------------------------------------------------------------------------------------|-----------------------------|-----------------------|
 | [Bulanık Mantık ve Python Uygulamaları](https://www.amazon.com.tr/Bulan%C4%B1k-Mant%C4%B1k-ve-Python-Uygulamalar%C4%B1/dp/6054827987)                                                | IGU Yayınları | 978-605-4827-98-5 |
 | [Makine Öğrenmesi Algoritmaları](https://www.nobelyayin.com/makine-ogrenmesi-algoritmalari-21633.html) - Bölüm 4.4, k-NN Sınıflandırma Yöntemi               | Nobel Akademik Yayıncılık   | 978-625-371-882-4    |
-| [Yapay Zeka Çalışmaları](https://www.cizgikitabevi.com/kitap/2234-yapay-zeka-calismalari)
+| [Yapay Zeka Çalışmaları](https://www.cizgikitabevi.com/kitap/2234-yapay-zeka-calismalari) - Bölüm 2,
 | [Yeni Nesil Yapay Zekâ Yaklaşımları: Yazılım, Kariyer ve Sinirsel Mimariler Üzerine](https://panel.bidgecongress.org/doi-8468946834) - Bölüm 2, ÜRETKEN YAPAY ZEKA İLE DİJİTAL DÖNÜŞÜM: GELECEĞİN KARİYER ALANLARI	              | BİDGE Yayınları | 978-625-372-677-5    |
 | [Interdisciplinary Studies on Contemporary Research Practices in Engineering in the 21st Century-II](https://www.ozguryayinlari.com/site/catalog/book/95) - Chapter 9, Algorithm Design In Programming Language Education | Özgür Yayıncılık            | 978-975-447-611-8    |
 | [International Research in Engineering Sciences](https://www.gazikitabevi.com.tr/international-research-in-engineering-sciences) - Chapter 5, Approaches with Artificial Intelligence (AI) Algorithms to Smart System Works | Platanus Publishing         | 978-625-6971-50-9    |
