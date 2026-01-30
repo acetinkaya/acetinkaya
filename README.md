@@ -75,7 +75,7 @@ AI & Autonomous Systems Researcher | Algorithm Developer
   * Gerçekleştirilen eğitimler yüz yüze gerçekleştiilip; [60 Saat Veri Yapıları & Python ve 60 Saat Uygulamalı Yapay Zeka eğitimleri](https://siberakademi.gelisim.edu.tr/tr/idari-icerik-mufredatimiz) verilmiştir. 
 
 - **Öğretim Görevlisi, İstanbul Gelişim Üniversitesi, MYO Elektronik Teknolojisi Bölümü**    
-  **Eylül 2022 - Günümüz** 
+  **Eylül 2022 - Ocak 2026** 
   - [Yapay Zeka](https://github.com/acetinkaya/ai_aLi), [Mikroişlemciler](https://github.com/acetinkaya/mikroislemciler), [Robotik](https://github.com/acetinkaya/robotik-arduino-uygulamalari), [Algoritma](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi), [Matlab](https://github.com/acetinkaya/Elektrik-Elektronik-Muhendisligi-Programlama-MATLAB-), [Bulanık Modelleme ve Kontrol](https://github.com/acetinkaya/BULANIK-MODELLEME-ve-KONTROL) dersilerini uygulamaları verme  
   - Öğrenci projelerine danışmanlık yapma   
   - Araştırma ve yayın faaliyetleri yürütme
