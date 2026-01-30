@@ -1,6 +1,6 @@
 👋 Hi there, I'm Ali Çetinkaya | Merhaba, Ben Ali Çetinkaya
 
-AI & Autonomous Systems Researcher | Algorithm Developer | Lecturer | Open-Source Contributor
+AI & Autonomous Systems Researcher | Algorithm Developer 
 
 🚀 Algorithm Developer & AI Specialist   
 🎯 Embedded Systems, Fuzzy Logic, Artificial Intelligence (AI) & Generative AI (GenAI)   
@@ -46,10 +46,10 @@ AI & Autonomous Systems Researcher | Algorithm Developer | Lecturer | Open-Sourc
 ## 💼 Profesyonel Deneyim | Professional Experience
 
 - **Program Başkanı, Otonom Sistemler Teknikerliği, [İstanbul Gelişim Üniversitesi MYO ](https://myo.gelisim.edu.tr/tr/akademik-bolum-otonom-sistemler-teknikerligi)**  
-  **Haziran 2025 - Şuan**    
+  **Haziran 2025 - Ocak 2026**    
 
 - **Eğitmen [Udemy](https://www.udemy.com/course/python-google-colab-algoritmalar-ve-veri-yapilari-egitimi/)**  
-  **Ocak 2025 - Devam Ediyor**    
+  **Ocak 2025 - Devam Ediyor**
   -> Udemy platformunda, [Python + Google Colab: Algoritmalar ve Veri Yapıları Eğitimi](https://www.udemy.com/course/python-google-colab-algoritmalar-ve-veri-yapilari-egitimi/) isimli eğitimi vermekteyim.
   * Eğitim kapsamında, teorik bilgiler ve uygulamalar Python programlama dili kullanılarak Google Colab üzerinde gerçekleştirilmektedir.
  
