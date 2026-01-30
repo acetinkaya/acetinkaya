@@ -1,16 +1,10 @@
-## 👋 Hi there, I'm Ali Çetinkaya | Merhaba, Ben Ali Çetinkaya
+👋 Hi there, I'm Ali Çetinkaya | Merhaba, Ben Ali Çetinkaya
 
-## AI Instructor | Algorithm Developer | Lecturer & Open-Source Contributor
-    
-📌 Algoritma Geliştirici & Öğretim Görevlisi @ IGU    
-🚀 Otonom Sistemler Teknikerliği Program Başkanı / IGU MYO   
-🎯 Gömülü Sistemler, Bulanık Mantık, Yapay Zeka & Üretken Yapay Zeka (GenAI) üzerine yoğunlaşan bir akademisyenim.   
-🔍 İstanbul Gelişim Üniversitesi Meslek Yüksekokulu’nda; algoritma geliştirme temelli yayın, proje, patent ve akademik çalışmalar gerçekleştirmekteyim.    
+AI & Autonomous Systems Researcher | Algorithm Developer | Lecturer | Open-Source Contributor
 
-📌 Algorithm Developer & Lecturer @ IGU    
-🚀 Head of the Autonomous Systems Program / IGU MYO     
-🎯 As an academic, I focus on Embedded Systems, Fuzzy Logic, Artificial Intelligence (AI) and Generative Artificial Intelligence (GenAI) technologies.    
-🔍 I conduct research publications, projects, patents, and academic studies centered on algorithm development at Istanbul Gelisim University Vocational School.   
+🚀 Algorithm Developer & AI Specialist   
+🎯 Embedded Systems, Fuzzy Logic, Artificial Intelligence (AI) & Generative AI (GenAI)   
+🔍 Autonomous Systems, Robotics, Industrial Automation       
     
 ---   
    
