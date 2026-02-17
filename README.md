@@ -14,6 +14,8 @@ I design intelligent algorithms and deploy them into real-world systems, with re
 Building the bridge between algorithmic theory and real-world engineering.
 
 ---
+
+---
    
 ## [🎯 Akademik ve Profesyonel Başarılar | Academic and Professional Achievements](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)  
 
