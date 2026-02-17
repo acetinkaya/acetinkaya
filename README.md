@@ -17,6 +17,8 @@ Building the bridge between algorithmic theory and real-world engineering.
 
 🌐 Research & Engineering Portfolio
 
+🐙 GitHub: https://github.com/acetinkaya  
+
 💼 LinkedIn: https://www.linkedin.com/in/ogrgoralicetinkaya/  
 
 📚 Google Scholar: https://scholar.google.com/citations?user=GXJajLgAAAAJ    
