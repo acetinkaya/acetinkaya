@@ -7,6 +7,9 @@ AI & Autonomous Systems Researcher | Algorithm Developer
 🔍 Autonomous Systems, Robotics, Industrial Automation       
     
 ---   
+
+
+---
    
 ## [🎯 Akademik ve Profesyonel Başarılar | Academic and Professional Achievements](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)  
 
