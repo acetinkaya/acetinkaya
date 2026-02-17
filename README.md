@@ -2,9 +2,10 @@
 
 AI Researcher | Autonomous Systems Engineer | Algorithm Architect
 
-🚀 Algorithm Developer & AI Specialist   
-🎯 Embedded Systems, Fuzzy Logic, Artificial Intelligence (AI) & Generative AI (GenAI)   
-🔍 Autonomous Systems, Robotics, Industrial Automation       
+🚀 Machine Learning, Deep Learning & Generative AI  
+🎯 Autonomous Systems & Robotics  
+🔧 Algorithm Design, Optimization & Fuzzy Logic  
+⚙️ Embedded Systems & Real-Time Intelligent Applications       
     
 ---   
 
