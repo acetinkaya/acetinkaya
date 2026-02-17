@@ -52,7 +52,7 @@ Building the bridge between algorithmic theory and real-world engineering.
 ## 🌟 Hakkımda | About Me  
 - 📘 **Eğitim**: Bilgisayar Mühendisliği (Tezli Yüksek Lisans, 2017) | Elektronik ve Bilgisayar Eğitimi (Lisans, 2014)
 - 📌 **Uzmanlık Alanları**: [Yapay Zeka (YZ)](https://github.com/acetinkaya/ai_aLi), [Bulanık Mantık (BM)](https://github.com/acetinkaya/BULANIK-MODELLEME-ve-KONTROL), [Algoritma Geliştirme](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi), [Robotik Bilimi (RB)](https://github.com/acetinkaya/robotik-arduino-uygulamalari)
-- 🏫 **Araştırma ve Yayın Platformları**: [Google Scholar](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ) || [Üniversite Avesis](https://avesis.gelisim.edu.tr/alcetinkaya) || [ResearchGate](https://www.researchgate.net/profile/Ali-Cetinkaya-3)  || [DergiPark](https://dergipark.org.tr/tr/pub/@aalicetinkayaa)
+- 🏫 **Araştırma ve Yayın Platformları**: [Google Scholar](https://scholar.google.com/citations?user=GXJajLgAAAAJ) || [Avesis](https://avesis.gelisim.edu.tr/alcetinkaya) || [DergiPark](https://dergipark.org.tr/tr/pub/@aalicetinkayaa)
 
 - 📘 **Education**: Master’s Degree in Computer Engineering (Thesis, 2017) | Bachelor’s Degree in Electronics and Computer Education (2014)
 - 📌 **Expertise**: [Artificial Intelligence (AI)](https://github.com/acetinkaya/ai_aLi), [Fuzzy Logic (FL)](https://github.com/acetinkaya/BULANIK-MODELLEME-ve-KONTROL), [Algorithm Development](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi), [Robotics Science (RB)](https://github.com/acetinkaya/robotik-arduino-uygulamalari)
