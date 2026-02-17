@@ -4,13 +4,14 @@ AI Researcher | Autonomous Systems Engineer | Algorithm Architect
 
 I design intelligent algorithms and deploy them into real-world systems, with research focused on Artificial Intelligence, Autonomous Systems, Algorithm Optimization, and Embedded AI.
 
+---   
+
 🚀 Machine Learning, Deep Learning & Generative AI  
 🎯 Autonomous Systems & Robotics  
 🔧 Algorithm Design, Optimization & Fuzzy Logic  
-⚙️ Embedded Systems & Real-Time Intelligent Applications       
-    
----   
+⚙️ Embedded Systems & Real-Time Intelligent Applications    
 
+Building the bridge between algorithmic theory and real-world engineering.
 
 ---
    
