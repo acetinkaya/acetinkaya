@@ -58,6 +58,8 @@ Building the bridge between algorithmic theory and real-world engineering.
 - 📌 **Expertise**: [Artificial Intelligence (AI)](https://github.com/acetinkaya/ai_aLi), [Fuzzy Logic (FL)](https://github.com/acetinkaya/BULANIK-MODELLEME-ve-KONTROL), [Algorithm Development](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi), [Robotics Science (RB)](https://github.com/acetinkaya/robotik-arduino-uygulamalari)
 - 🏫 **Research and Publications**: [Google Scholar](https://scholar.google.com/citations?user=GXJajLgAAAAJ) || [Avesis](https://avesis.gelisim.edu.tr/alcetinkaya) || [DergiPark](https://dergipark.org.tr/tr/pub/@aalicetinkayaa)
 
+Ali Çetinkaya is an academic and researcher specializing in Artificial Intelligence, Algorithm Design, and Autonomous Systems. He holds an M.Sc. degree in Computer Engineering and conducts interdisciplinary research integrating embedded systems with intelligent algorithms. He served as the Head of the Autonomous Systems Technician Program and has provided consultancy for academic and industry-based AI projects. His research interests include Machine Learning, Deep Learning, Fuzzy Logic Systems, and Autonomous Systems.
+
 ---
 
 ## 💼 Profesyonel Deneyim | Professional Experience
