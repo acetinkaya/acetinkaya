@@ -19,6 +19,9 @@ Building the bridge between algorithmic theory and real-world engineering.
 
 💼 LinkedIn: https://www.linkedin.com/in/ogrgoralicetinkaya/  
 
+📚 Google Scholar: https://scholar.google.com/citations?user=GXJajLgAAAAJ    
+
+📝 DergiPark Publications: https://dergipark.org.tr/en/pub/@aalicetinkayaa    
 
 ---
    
