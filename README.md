@@ -268,7 +268,7 @@ Below is a list of patents associated with my research and development activitie
 - 🚀 **NextSosyal (Danışmanlı Öğrenme)**: [@danismanliogrenme](https://sosyal.teknofest.app/@danismanliogrenme)   
 - 📸 **TikTok (Danışmanlı Öğrenme)**: [tiktok.com/@danismanliogrenme](https://www.tiktok.com/@danismanliogrenme)
 - 💼 **LinkedIn**: [linkedin.com/in/ogrgoralicetinkaya](https://www.linkedin.com/in/ogrgoralicetinkaya/)  
-- 📚 **Google Scholar**: [Google Akademik Profilim](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)
+- 📚 **Google Scholar**: [Google Akademik Profilim](https://scholar.google.com/citations?user=GXJajLgAAAAJ)
 - 🏫 **Avesis Akademik Profil**: [avesis.gelisim.edu.tr/alcetinkaya](https://avesis.gelisim.edu.tr/alcetinkaya)
 - 🧠 **GitHub**: [github.com/acetinkaya](https://github.com/acetinkaya)  
 - 🎓 **Udemy**: [udemy.com/user/ali-cetinkaya-53](https://www.udemy.com/user/ali-cetinkaya-53/)  
