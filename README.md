@@ -1,4 +1,4 @@
-##👋 Hi, I'm Ali Çetinkaya
+## 👋 Hi, I'm Ali Çetinkaya
 
 AI Researcher | Autonomous Systems Engineer | Algorithm Architect
 
