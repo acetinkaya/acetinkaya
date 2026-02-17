@@ -1,4 +1,4 @@
-👋 Hi there, I'm Ali Çetinkaya | Merhaba, Ben Ali Çetinkaya
+👋 Hi, I'm Ali Çetinkaya
 
 AI & Autonomous Systems Researcher | Algorithm Developer 
 
