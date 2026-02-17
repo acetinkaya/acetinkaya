@@ -15,6 +15,11 @@ Building the bridge between algorithmic theory and real-world engineering.
 
 ---
 
+🌐 Research & Engineering Portfolio
+
+💼 LinkedIn: https://www.linkedin.com/in/ogrgoralicetinkaya/  
+
+
 ---
    
 ## [🎯 Akademik ve Profesyonel Başarılar | Academic and Professional Achievements](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)  
