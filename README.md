@@ -1,6 +1,6 @@
 👋 Hi, I'm Ali Çetinkaya
 
-AI & Autonomous Systems Researcher | Algorithm Developer 
+AI Researcher | Autonomous Systems Engineer | Algorithm Architect
 
 🚀 Algorithm Developer & AI Specialist   
 🎯 Embedded Systems, Fuzzy Logic, Artificial Intelligence (AI) & Generative AI (GenAI)   
