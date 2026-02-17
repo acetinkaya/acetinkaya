@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ali Çetinkaya
 
-AI Researcher | Autonomous Systems Engineer | Algorithm Architect
+Autonomous Systems Researcher | Algorithmic Systems Architect
 
 I design intelligent algorithms and deploy them into real-world systems, with research focused on Artificial Intelligence, Autonomous Systems, Algorithm Optimization, and Embedded AI.
 
