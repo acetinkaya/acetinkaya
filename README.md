@@ -37,7 +37,11 @@ Building the bridge between algorithmic theory and real-world engineering.
   - [Eğitim programı kapsamında “MATLAB ile Yapay Zekâ Uygulamaları” modülü 07.01.2026 tarhinde tarafımdan verilmiştir.](https://matlabegitimi.gelisim.edu.tr/tr/konferans-icerik-projeTakvimi)     
 * [Davetli Konuşmacı – IDAF’25 – Dijital Sanat Festivali İstanbul 2025](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari)   
   - T.C. Kültür ve Turizm Bakanlığı destekleriyle 13-15 Haziran 2025 Tarihleri arasında Atatürk Kültür Merkezi (AKM), Taksim, İstanbul'da gerçekleştirilmiştir.   
-  - “Algoritmadan İlham’a: Üretken Yapay Zekânın Sanatsal Kodları” başlıklı ders/atölye kapsamında; algoritmik yaratıcılık yaklaşımları, üretken yapay zekâ modellerinin temel prensipleri ve mühendislik ile dijital sanat arasındaki disiplinlerarası uygulama alanları ele alınmıştır.      
+  - “Algoritmadan İlham’a: Üretken Yapay Zekânın Sanatsal Kodları” başlıklı ders/atölye kapsamında; algoritmik yaratıcılık yaklaşımları, üretken yapay zekâ modellerinin temel prensipleri ve mühendislik ile dijital sanat arasındaki disiplinlerarası uygulama alanları ele alınmıştır.
+* [Danışman – TÜBİTAK 2209-A/B Üniversite Öğrencileri Araştırma Projelerim (2025)]
+  - 1. Proje: İGÜ MMF, Elektronik Mühendisliği 4. sınıf Öğrencisi "H. ÖZTÜRK", “Güvenli Sürüş Kaskı” başlıklı proje kapsamında danışmanlığı yapılmıştır.
+  - 2. Proje: İGÜ MYO Otonom Sistemler Teknikerliği Programı 1. Sınıf Öğrencileri, "Z. S. KARAER", "M. R. ÖZTÜRK", "G. A. ÜRÜÇOĞLU" ve "S. Kanıboz", “Yürüyüş Basıncından Oluşan Elektrik Üretim ve Tüketim Mekanizması” başlıklı proje kapsamında danışmanlığı yapılmıştır.
+  - Proje geliştirme sürecinde problem tanımlama, sistem tasarımı, yöntem geliştirme ve mühendislik uygulamasının geliştirilmesine yönelik akademik danışmanlık verilmiştir.     
 *  2025 yılı [İstanbul Gelişim Üniversitesi Akademik Performans Ödülleri kapsamında](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar) sıralamalarda;     
   -🏆 Üniversite Genelinde Proje, Patent ve Tasarım Kategorisinde 2. olarak yer aldım.  
   -🏅 Üniversite Genelinde Akademik Performans sıralamasında 31. sırada olarak yer aldım.     
@@ -57,7 +61,11 @@ Building the bridge between algorithmic theory and real-world engineering.
   - [Delivered the module “Artificial Intelligence Applications with MATLAB” on 07 January 2026, focusing on engineering-oriented AI modelling and applied computational workflows.](https://matlabegitimi.gelisim.edu.tr/tr/konferans-icerik-projeTakvimi)   
 * [Invited Instructor – Digital Art Festival Istanbul (2025)](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari)       
   - Supported by the Republic of Türkiye Ministry of Culture and Tourism, the event was held between 13–15 June 2025 at the Atatürk Cultural Center (AKM), Taksim, Istanbul.     
-  - Delivered a lecture/workshop titled “From Algorithm to Inspiration: The Artistic Codes of Generative Artificial Intelligence”, exploring algorithmic creativity, generative AI models and interdisciplinary applications between engineering and digital arts.        
+  - Delivered a lecture/workshop titled “From Algorithm to Inspiration: The Artistic Codes of Generative Artificial Intelligence”, exploring algorithmic creativity, generative AI models and interdisciplinary applications between engineering and digital arts.
+* [Project Advisor – TÜBİTAK 2209-A/B Undergraduate Research Project Funding Applications (2025)]
+  - Supervised H. Öztürk (Istanbul Gelisim University, Faculty of Engineering and Architecture, Department of Electronics Engineering, senior year) on the project titled “Safe Driving Helmet”.
+  - Supervised Z. S. Karaer, M. R. Öztürk, G. A. Ürüçoğlu and S. Kanıboz (Istanbul Gelisim University, Vocational School, Autonomous Systems Technician Program, first year) on the project titled “Electrical Energy Generation and Consumption Mechanism from Walking Pressure”.
+  - Provided academic supervision on problem formulation, system design and engineering-oriented implementation processes.         
 *  [Within the scope of the 2025 Istanbul Gelisim University Academic Performance Awards rankings](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)   
    -🏆 Ranked 2nd university-wide in the Project, Patent, and Design Category.     
    -🏅 Ranked 31st university-wide in the Overall Academic Performance Ranking.   
