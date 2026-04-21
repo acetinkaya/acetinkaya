@@ -28,8 +28,8 @@ Building the bridge between algorithmic theory and real-world engineering.
 ## [🎯 Araştırma Portföyü ve Teknik Çalışmalar | Research Portfolio and Technical Developments ](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)  
 
 [Türkçe](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)   
-* Invited Instructor – Digital Art Festival Istanbul (2025)   
-  *- Atatürk Cultural Center (AKM), Istanbul (supported by the Republic of Türkiye Ministry of Culture and Tourism)   
+* Eğitmen (Davetli Konuşmacı) – IDAF’25 – Dijital Sanat Festivali İstanbul 2025   
+  *- T.C. Kültür ve Turizm Bakanlığı desteğiyle 13-15 Haziran 2025 Tarihleri arasında Atatürk Kültür Merkezi (AKM), İstanbul'de yapılmıştır.   
   *- Delivered a lecture/workshop titled “From Algorithm to Inspiration: The Artistic Codes of Generative Artificial Intelligence”, exploring algorithmic creativity, generative AI models and interdisciplinary applications between engineering and digital arts.      
 *  2025 yılı [İstanbul Gelişim Üniversitesi Akademik Performans Ödülleri kapsamında](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar) sıralamalarda;    
   *- 🏆 Üniversite Genelinde Proje, Patent ve Tasarım Kategorisinde 2. olarak yer aldım.*   
