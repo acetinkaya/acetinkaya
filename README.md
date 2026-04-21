@@ -38,7 +38,7 @@ Building the bridge between algorithmic theory and real-world engineering.
 * [Davetli Konuşmacı – IDAF’25 – Dijital Sanat Festivali İstanbul 2025](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari)   
   - T.C. Kültür ve Turizm Bakanlığı destekleriyle 13-15 Haziran 2025 Tarihleri arasında Atatürk Kültür Merkezi (AKM), Taksim, İstanbul'da gerçekleştirilmiştir.   
   - “Algoritmadan İlham’a: Üretken Yapay Zekânın Sanatsal Kodları” başlıklı ders/atölye kapsamında; algoritmik yaratıcılık yaklaşımları, üretken yapay zekâ modellerinin temel prensipleri ve mühendislik ile dijital sanat arasındaki disiplinlerarası uygulama alanları ele alınmıştır.
-* [Danışman – TÜBİTAK 2209-A/B Üniversite Öğrencileri Araştırma Projelerim (2025)]
+* Danışman – TÜBİTAK 2209-A/B Üniversite Öğrencileri Araştırma Projelerim (2025)
   - 1. Proje: İGÜ MMF, Elektronik Mühendisliği 4. sınıf Öğrencisi "H. ÖZTÜRK", “Güvenli Sürüş Kaskı” başlıklı proje kapsamında danışmanlığı yapılmıştır.
   - 2. Proje: İGÜ MYO Otonom Sistemler Teknikerliği Programı 1. Sınıf Öğrencileri, "Z. S. KARAER", "M. R. ÖZTÜRK", "G. A. ÜRÜÇOĞLU" ve "S. Kanıboz", “Yürüyüş Basıncından Oluşan Elektrik Üretim ve Tüketim Mekanizması” başlıklı proje kapsamında danışmanlığı yapılmıştır.
   - Proje geliştirme sürecinde problem tanımlama, sistem tasarımı, yöntem geliştirme ve mühendislik uygulamasının geliştirilmesine yönelik akademik danışmanlık verilmiştir.     
@@ -62,7 +62,7 @@ Building the bridge between algorithmic theory and real-world engineering.
 * [Invited Instructor – Digital Art Festival Istanbul (2025)](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari)       
   - Supported by the Republic of Türkiye Ministry of Culture and Tourism, the event was held between 13–15 June 2025 at the Atatürk Cultural Center (AKM), Taksim, Istanbul.     
   - Delivered a lecture/workshop titled “From Algorithm to Inspiration: The Artistic Codes of Generative Artificial Intelligence”, exploring algorithmic creativity, generative AI models and interdisciplinary applications between engineering and digital arts.
-* [Project Advisor – TÜBİTAK 2209-A/B Undergraduate Research Project Funding Applications (2025)]
+* Project Advisor – TÜBİTAK 2209-A/B Undergraduate Research Project Funding Applications (2025)
   - Supervised H. Öztürk (Istanbul Gelisim University, Faculty of Engineering and Architecture, Department of Electronics Engineering, senior year) on the project titled “Safe Driving Helmet”.
   - Supervised Z. S. Karaer, M. R. Öztürk, G. A. Ürüçoğlu and S. Kanıboz (Istanbul Gelisim University, Vocational School, Autonomous Systems Technician Program, first year) on the project titled “Electrical Energy Generation and Consumption Mechanism from Walking Pressure”.
   - Provided academic supervision on problem formulation, system design and engineering-oriented implementation processes.         
