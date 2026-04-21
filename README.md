@@ -32,8 +32,8 @@ Building the bridge between algorithmic theory and real-world engineering.
   - T.C. Kültür ve Turizm Bakanlığı destekleriyle 13-15 Haziran 2025 Tarihleri arasında Atatürk Kültür Merkezi (AKM), Taksim, İstanbul'da gerçekleştirilmiştir.   
   - “Algoritmadan İlham’a: Üretken Yapay Zekânın Sanatsal Kodları” başlıklı ders/atölye kapsamında; algoritmik yaratıcılık yaklaşımları, üretken yapay zekâ modellerinin temel prensipleri ve mühendislik ile dijital sanat arasındaki disiplinlerarası uygulama alanları ele alınmıştır.      
 *  2025 yılı [İstanbul Gelişim Üniversitesi Akademik Performans Ödülleri kapsamında](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar) sıralamalarda;    
-  - 🏆 Üniversite Genelinde Proje, Patent ve Tasarım Kategorisinde 2. olarak yer aldım.*   
-  - 🏅 Üniversite Genelinde Akademik Performans sıralamasında 31. sırada olarak yer aldım.*    
+  - 🏆 Üniversite Genelinde Proje, Patent ve Tasarım Kategorisinde 2. olarak yer aldım.   
+  - 🏅 Üniversite Genelinde Akademik Performans sıralamasında 31. sırada olarak yer aldım.    
 *  2025 yılı [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) sıralamasında Türkiye 3.'sü olarak yer aldım.   
 *  2025 yılı [Most active GitHub users in Turkey](https://committers.top/turkey ) sıralamasında Türkiye 3.'sü olarak yer aldım.   
 *  2024 yılı [İstanbul Gelişim Üniversitesi Akademik Performans Ödülü](https://gelisim.edu.tr/tr/gelisim-haber-akademik-performans-odulleri-sahiplerini-buldu-igunun-ilk-5i-aciklandi ), İstanbul Gelişim Meslek Yüksekokulu Akademik Performans sıralamasında 4. sırada yer aldım.   
@@ -42,11 +42,11 @@ Building the bridge between algorithmic theory and real-world engineering.
 
 [English](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)    
 * Invited Instructor – Digital Art Festival Istanbul (2025)    
-  - Supported by the Republic of Türkiye Ministry of Culture and Tourism, the event was held between 13–15 June 2025 at the Atatürk Cultural Center (AKM), Taksim, Istanbul.   
+  - Supported by the Republic of Türkiye Ministry of Culture and Tourism, the event was held between 13–15 June 2025 at the Atatürk Cultural Center (AKM), Taksim, Istanbul.     
   - Delivered a lecture/workshop titled “From Algorithm to Inspiration: The Artistic Codes of Generative Artificial Intelligence”, exploring algorithmic creativity, generative AI models and interdisciplinary applications between engineering and digital arts.        
-*  [Within the scope of the 2025 Istanbul Gelisim University Academic Performance Awards rankings](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar);   
-  - 🏆 Ranked 2nd university-wide in the Project, Patent, and Design Category.*    
-  - 🏅 Ranked 31st university-wide in the Overall Academic Performance Ranking.*  
+*  [Within the scope of the 2025 Istanbul Gelisim University Academic Performance Awards rankings](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)   
+  - 🏆 Ranked 2nd university-wide in the Project, Patent, and Design Category.    
+  - 🏅 Ranked 31st university-wide in the Overall Academic Performance Ranking.  
 *  Ranked 3rd in Turkey in the 2025 [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) list      
 *  Ranked 3rd in Turkey in the 2025 [Most Active GitHub Users in Turkey](https://committers.top/turkey) list
 *  Ranked 4th in Istanbul Gelisim Vocational School in the 2024, [2024 Academic Performance Award from Istanbul Gelisim University](https://gelisim.edu.tr/en/gelisim-news-academic-performance-awards-found-their-winners-igus-top-5-has-been-announced)
