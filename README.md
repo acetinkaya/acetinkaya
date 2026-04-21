@@ -44,6 +44,9 @@ Building the bridge between algorithmic theory and real-world engineering.
 *  2024 yılı [Most active GitHub users in Turkey](https://committers.top/turkey ) sıralamasında Türkiye 5.'si olarak yer aldım.   
 
 [English](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)    
+* [Instructor – TÜBİTAK 2237-A Scientific Training Program – From Fundamentals to Applications: MATLAB Training (2026)](https://gelisim.edu.tr/tr/gelisim-haber-istanbul-gelisim-universitesi-nde-temelden-uygulamaya-matlab-egitimi-basladi)
+  - Conducted within the scope of the TÜBİTAK 2237-A Scientific Training Activities Program at Istanbul Gelisim University between 05–09 January 2026.
+  - [Delivered the module “Artificial Intelligence Applications with MATLAB” on 07 January 2026, focusing on engineering-oriented AI modelling and applied computational workflows.](https://matlabegitimi.gelisim.edu.tr/tr/konferans-icerik-projeTakvimi)   
 * [Invited Instructor – Digital Art Festival Istanbul (2025)](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari)       
   - Supported by the Republic of Türkiye Ministry of Culture and Tourism, the event was held between 13–15 June 2025 at the Atatürk Cultural Center (AKM), Taksim, Istanbul.     
   - Delivered a lecture/workshop titled “From Algorithm to Inspiration: The Artistic Codes of Generative Artificial Intelligence”, exploring algorithmic creativity, generative AI models and interdisciplinary applications between engineering and digital arts.        
