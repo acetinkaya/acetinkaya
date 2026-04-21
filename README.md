@@ -42,10 +42,10 @@ Building the bridge between algorithmic theory and real-world engineering.
   - 1 Proje: İGÜ MMF, Elektronik Mühendisliği 4. sınıf Öğrencisi "H. ÖZTÜRK", “Güvenli Sürüş Kaskı” başlıklı proje kapsamında danışmanlığı yapılmıştır.
   - 2 Proje: İGÜ MYO Otonom Sistemler Teknikerliği Programı 1. Sınıf Öğrencileri, "Z. S. KARAER", "M. R. ÖZTÜRK", "G. A. ÜRÜÇOĞLU" ve "S. Kanıboz", “Yürüyüş Basıncından Oluşan Elektrik Üretim ve Tüketim Mekanizması” başlıklı proje kapsamında danışmanlığı yapılmıştır.
   - Proje geliştirme sürecinde problem tanımlama, sistem tasarımı, yöntem geliştirme ve mühendislik uygulamasının geliştirilmesine yönelik akademik danışmanlık verilmiştir.     
-*  2025 yılı [İstanbul Gelişim Üniversitesi Akademik Performans Ödülleri kapsamında](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar) sıralamalarda;     
-  -🏆 Üniversite Genelinde Proje, Patent ve Tasarım Kategorisinde 2. olarak yer aldım.  
-  -🏅 Üniversite Genelinde Akademik Performans sıralamasında 31. sırada olarak yer aldım.
-* [GitHub Açık Kaynak Katkı Başarıları 2025]
+* [İstanbul Gelişim Üniversitesi Akademik Performans Ödülleri 2025](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)   
+  - Üniversite genelinde Proje, Patent ve Tasarım kategorisinde 2.’lik derecesi elde edilmiştir.   
+  - Üniversite genelinde Akademik Performans sıralamasında 31. sırada yer alınmıştır.  
+* [GitHub Açık Kaynak Katkı Başarıları 2025](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)    
   - 2025 yılı [“Top GitHub Users by Public Contributions in Turkey”](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) sıralamasında Türkiye 3.’sü olarak yer alınmıştır.
   - 2025 yılı [“Most Active GitHub Users in Turkey”](https://committers.top/turkey) sıralamasında Türkiye 3.’sü olarak yer alınmıştır.
 * [Eğitmen & Proje Danışmanı – İSTKA Destekli “İGÜ Siber Akademi” Projesi 2024](https://siberakademi.gelisim.edu.tr/tr/idari-icerik-mufredatimiz)
