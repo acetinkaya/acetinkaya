@@ -75,6 +75,10 @@ Building the bridge between algorithmic theory and real-world engineering.
    -🏅 Ranked 31st university-wide in the Overall Academic Performance Ranking.   
 *  Ranked 3rd in Turkey in the 2025 [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) list      
 *  Ranked 3rd in Turkey in the 2025 [Most Active GitHub Users in Turkey](https://committers.top/turkey) list
+* [Instructor & Project Advisor – ISTKA-Funded “IGU Cyber Academy” Project (2023–2025)](https://siberakademi.gelisim.edu.tr/tr/idari-icerik-mufredatimiz)
+  - Contributed as an instructor and project advisor within the scope of the Istanbul Development Agency (ISTKA) funded regional training project implemented by Istanbul Gelisim University.
+  - Delivered 40 hours of Data Structures and Algorithms training, 40 hours of Artificial Intelligence instruction and 20 hours of project mentoring and supervision as part of the official project curriculum.
+  - Training activities focused on algorithmic thinking, machine learning fundamentals, intelligent systems development and engineering-oriented computational problem-solving workflows.
 *  Ranked 4th in Istanbul Gelisim Vocational School in the 2024, [2024 Academic Performance Award from Istanbul Gelisim University](https://gelisim.edu.tr/en/gelisim-news-academic-performance-awards-found-their-winners-igus-top-5-has-been-announced)
 *  Ranked 5th in Turkey in the 2024 [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) list      
 *  Ranked 5th in Turkey in the 2024 [Most Active GitHub Users in Turkey](https://committers.top/turkey) list
