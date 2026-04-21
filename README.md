@@ -25,7 +25,7 @@ Building the bridge between algorithmic theory and real-world engineering.
 
 ---
    
-## [🎯 Akademik ve Profesyonel Başarılar | Academic and Professional Achievements](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)  
+## [🎯 Araştırma Portföyü ve Teknik Çalışmalar | Research Portfolio and Technical Developments ](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)  
 
 [Türkçe](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)   
 *  2025 yılı [İstanbul Gelişim Üniversitesi Akademik Performans Ödülleri kapsamında](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar) sıralamalarda;    
