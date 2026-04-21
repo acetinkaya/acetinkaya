@@ -33,7 +33,7 @@ Building the bridge between algorithmic theory and real-world engineering.
   - “Algoritmadan İlham’a: Üretken Yapay Zekânın Sanatsal Kodları” başlıklı ders/atölye kapsamında; algoritmik yaratıcılık yaklaşımları, üretken yapay zekâ modellerinin temel prensipleri ve mühendislik ile dijital sanat arasındaki disiplinlerarası uygulama alanları ele alınmıştır.      
 *  2025 yılı [İstanbul Gelişim Üniversitesi Akademik Performans Ödülleri kapsamında](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar) sıralamalarda;     
   -🏆 Üniversite Genelinde Proje, Patent ve Tasarım Kategorisinde 2. olarak yer aldım.  
-  - 🏅 Üniversite Genelinde Akademik Performans sıralamasında 31. sırada olarak yer aldım.     
+  -🏅 Üniversite Genelinde Akademik Performans sıralamasında 31. sırada olarak yer aldım.     
 *  2025 yılı [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) sıralamasında Türkiye 3.'sü olarak yer aldım.   
 *  2025 yılı [Most active GitHub users in Turkey](https://committers.top/turkey ) sıralamasında Türkiye 3.'sü olarak yer aldım.   
 *  2024 yılı [İstanbul Gelişim Üniversitesi Akademik Performans Ödülü](https://gelisim.edu.tr/tr/gelisim-haber-akademik-performans-odulleri-sahiplerini-buldu-igunun-ilk-5i-aciklandi ), İstanbul Gelişim Meslek Yüksekokulu Akademik Performans sıralamasında 4. sırada yer aldım.   
