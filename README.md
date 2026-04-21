@@ -28,6 +28,9 @@ Building the bridge between algorithmic theory and real-world engineering.
 ## [🎯 Araştırma Portföyü ve Teknik Çalışmalar | Research Portfolio and Technical Developments ](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)  
 
 [Türkçe](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)   
+* [Eğitmen – TÜBİTAK 2237-A – Temelden Uygulamaya MATLAB Eğitimi (2026)](https://gelisim.edu.tr/tr/gelisim-haber-istanbul-gelisim-universitesi-nde-temelden-uygulamaya-matlab-egitimi-basladi)     
+  - TÜBİTAK 2237-A Bilimsel Eğitim Etkinliği kapsamında 05–09 Ocak 2026 tarihleri arasında İstanbul Gelişim Üniversitesi’nde gerçekleştirilmiştir.     
+  - [Eğitim programı kapsamında “MATLAB ile Yapay Zekâ Uygulamaları” modülü 07.01.2026 tarhinde tarafımdan verilmiştir.](https://matlabegitimi.gelisim.edu.tr/tr/konferans-icerik-projeTakvimi)     
 * [Davetli Konuşmacı – IDAF’25 – Dijital Sanat Festivali İstanbul 2025](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari)   
   - T.C. Kültür ve Turizm Bakanlığı destekleriyle 13-15 Haziran 2025 Tarihleri arasında Atatürk Kültür Merkezi (AKM), Taksim, İstanbul'da gerçekleştirilmiştir.   
   - “Algoritmadan İlham’a: Üretken Yapay Zekânın Sanatsal Kodları” başlıklı ders/atölye kapsamında; algoritmik yaratıcılık yaklaşımları, üretken yapay zekâ modellerinin temel prensipleri ve mühendislik ile dijital sanat arasındaki disiplinlerarası uygulama alanları ele alınmıştır.      
