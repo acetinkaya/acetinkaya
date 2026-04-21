@@ -44,7 +44,7 @@ Building the bridge between algorithmic theory and real-world engineering.
 * Invited Instructor – Digital Art Festival Istanbul (2025)    
   - Supported by the Republic of Türkiye Ministry of Culture and Tourism, the event was held between 13–15 June 2025 at the Atatürk Cultural Center (AKM), Taksim, Istanbul.     
   - Delivered a lecture/workshop titled “From Algorithm to Inspiration: The Artistic Codes of Generative Artificial Intelligence”, exploring algorithmic creativity, generative AI models and interdisciplinary applications between engineering and digital arts.        
-*  [Within the scope of the 2025 Istanbul Gelisim University Academic Performance Awards rankings](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)
+*  [Within the scope of the 2025 Istanbul Gelisim University Academic Performance Awards rankings](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)   
    -🏆 Ranked 2nd university-wide in the Project, Patent, and Design Category.     
    -🏅 Ranked 31st university-wide in the Overall Academic Performance Ranking.   
 *  Ranked 3rd in Turkey in the 2025 [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) list      
