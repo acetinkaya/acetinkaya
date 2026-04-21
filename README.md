@@ -93,7 +93,11 @@ Building the bridge between algorithmic theory and real-world engineering.
 
 ## 🌟 Hakkımda | About Me    
 
-Ali Çetinkaya, yapay zeka, algoritma tasarımı ve otonom sistemler alanlarında çalışan bir akademisyen ve araştırmacıdır. Bilgisayar Mühendisliği yüksek lisans derecesine sahiptir ve elektronik temelli gömülü sistemler ile akıllı algoritmalar üzerine disiplinler arası çalışmalar yürütmektedir. Otonom Sistemler Teknikerliği Program Başkanlığı görevini yürütmüş; akademik projelerde ve sektörel uygulamalarda danışmanlık yapmıştır. Çalışma alanları Artificial Intelligence, Machine Learning, Deep Learning, Fuzzy Logic Systems ve Autonomous Systems konularını kapsamaktadır.
+Ali Çetinkaya, yapay zekâ, algoritma tasarımı ve otonom sistemler alanlarında çalışan bir akademisyen ve araştırmacıdır. Bilgisayar Mühendisliği yüksek lisans derecesine sahip olup elektronik temelli gömülü sistemler, akıllı algoritmalar ve mühendislik odaklı yapay zekâ uygulamaları üzerine disiplinler arası çalışmalar yürütmektedir.
+
+Otonom Sistemler Teknikerliği Program Başkanlığı görevini yürütmüş; TÜBİTAK ve İSTKA destekli projelerde eğitmen ve danışman olarak görev almış; veri yapıları, algoritmalar ve yapay zekâ temelli uygulamalı eğitimler gerçekleştirmiştir.
+
+Çalışma alanları yapay zekâ, makine öğrenmesi, derin öğrenme, bulanık mantık sistemleri, robotik ve otonom sistemler ile akıllı sistem geliştirme süreçlerini kapsamaktadır. Akademik çalışmalarında algoritmik düşünme, mühendislik tabanlı modelleme ve uygulamalı yapay zekâ çözümlerinin eğitim ve araştırma süreçlerine entegrasyonu üzerine odaklanmaktadır.
 
 - 📘 **Eğitim**: Bilgisayar Mühendisliği (Tezli Yüksek Lisans, 2017) | Elektronik ve Bilgisayar Eğitimi (Lisans, 2014)
 - 📌 **Uzmanlık Alanları**: [Yapay Zeka (YZ)](https://github.com/acetinkaya/ai_aLi), [Bulanık Mantık (BM)](https://github.com/acetinkaya/BULANIK-MODELLEME-ve-KONTROL), [Algoritma Geliştirme](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi), [Robotik Bilimi (RB)](https://github.com/acetinkaya/robotik-arduino-uygulamalari)
@@ -101,7 +105,11 @@ Ali Çetinkaya, yapay zeka, algoritma tasarımı ve otonom sistemler alanlarınd
 
 --
 
-Ali Cetinkaya is an academic and researcher specializing in Artificial Intelligence, Algorithm Design, and Autonomous Systems. He holds an M.Sc. degree in Computer Engineering and conducts interdisciplinary research integrating embedded systems with intelligent algorithms. He served as the Head of the Autonomous Systems Technician Program and has provided consultancy for academic and industry-based AI projects. His research interests include Machine Learning, Deep Learning, Fuzzy Logic Systems, and Autonomous Systems.
+Ali Çetinkaya is an academic and researcher working in the fields of artificial intelligence, algorithm design and autonomous systems. He holds an MSc degree in Computer Engineering and conducts interdisciplinary studies on embedded electronic systems and engineering-oriented intelligent algorithms.
+
+He previously served as the Head of the Autonomous Systems Technician Program and has contributed as an instructor and project advisor in externally funded training initiatives supported by TÜBİTAK and the Istanbul Development Agency (ISTKA). He has delivered applied training in data structures, algorithms and artificial intelligence with a focus on intelligent systems development.
+
+His research and teaching interests include artificial intelligence, machine learning, deep learning, fuzzy logic systems, robotics and autonomous systems. His work focuses on integrating algorithmic thinking, engineering-based modelling approaches and applied AI solutions into education and research environments.
 
 - 📘 **Education**: Master’s Degree in Computer Engineering (Thesis, 2017) | Bachelor’s Degree in Electronics and Computer Education (2014)
 - 📌 **Expertise**: [Artificial Intelligence (AI)](https://github.com/acetinkaya/ai_aLi), [Fuzzy Logic (FL)](https://github.com/acetinkaya/BULANIK-MODELLEME-ve-KONTROL), [Algorithm Development](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi), [Robotics Science (RB)](https://github.com/acetinkaya/robotik-arduino-uygulamalari)
