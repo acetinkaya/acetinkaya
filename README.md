@@ -46,7 +46,11 @@ Building the bridge between algorithmic theory and real-world engineering.
   -🏆 Üniversite Genelinde Proje, Patent ve Tasarım Kategorisinde 2. olarak yer aldım.  
   -🏅 Üniversite Genelinde Akademik Performans sıralamasında 31. sırada olarak yer aldım.     
 *  2025 yılı [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) sıralamasında Türkiye 3.'sü olarak yer aldım.   
-*  2025 yılı [Most active GitHub users in Turkey](https://committers.top/turkey ) sıralamasında Türkiye 3.'sü olarak yer aldım.   
+*  2025 yılı [Most active GitHub users in Turkey](https://committers.top/turkey ) sıralamasında Türkiye 3.'sü olarak yer aldım.   ,
+* [Eğitmen & Proje Danışmanı – İSTKA Destekli “İGÜ Siber Akademi” Projesi 2024](https://siberakademi.gelisim.edu.tr/tr/idari-icerik-mufredatimiz)
+  - İstanbul Kalkınma Ajansı (İSTKA) Yetenek İstanbul Mali Destek Programı kapsamında İstanbul Gelişim Üniversitesi yürütücülüğünde gerçekleştirilen bölgesel eğitim projesinde görev alınmıştır.
+  - Proje müfredatı kapsamında 40 saat Veri Yapıları ve Algoritmalar, 40 saat Yapay Zekâ eğitimi ile 20 saat proje danışmanlığı ve uygulama destek süreçleri yürütülmüştür.
+  - Eğitim içerikleri kapsamında algoritmik düşünme, veri yapıları, makine öğrenmesi temelleri, otonom sistem geliştirme süreçleri ve mühendislik temelli hesaplamalı problem çözme yaklaşımlarına yönelik uygulamalı kazanımlar aktarılmıştır.
 *  2024 yılı [İstanbul Gelişim Üniversitesi Akademik Performans Ödülü](https://gelisim.edu.tr/tr/gelisim-haber-akademik-performans-odulleri-sahiplerini-buldu-igunun-ilk-5i-aciklandi ), İstanbul Gelişim Meslek Yüksekokulu Akademik Performans sıralamasında 4. sırada yer aldım.   
 *  2024 yılı [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) sıralamasında Türkiye 5.'si olarak yer aldım.   
 *  2024 yılı [Most active GitHub users in Turkey](https://committers.top/turkey ) sıralamasında Türkiye 5.'si olarak yer aldım.   
