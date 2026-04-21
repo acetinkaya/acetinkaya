@@ -70,12 +70,13 @@ Building the bridge between algorithmic theory and real-world engineering.
 * [Project Advisor – TÜBİTAK 2209-A/B Undergraduate Research Project Funding Applications 2025](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)
   - Supervised H. Öztürk (Istanbul Gelisim University, Faculty of Engineering and Architecture, Department of Electronics Engineering, senior year) on the project titled “Safe Driving Helmet”.
   - Supervised Z. S. Karaer, M. R. Öztürk, G. A. Ürüçoğlu and S. Kanıboz (Istanbul Gelisim University, Vocational School, Autonomous Systems Technician Program, first year) on the project titled “Electrical Energy Generation and Consumption Mechanism from Walking Pressure”.
-  - Provided academic supervision on problem formulation, system design and engineering-oriented implementation processes.         
-*  [Within the scope of the 2025 Istanbul Gelisim University Academic Performance Awards rankings](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)   
-   -🏆 Ranked 2nd university-wide in the Project, Patent, and Design Category.     
-   -🏅 Ranked 31st university-wide in the Overall Academic Performance Ranking.   
-*  Ranked 3rd in Turkey in the 2025 [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) list      
-*  Ranked 3rd in Turkey in the 2025 [Most Active GitHub Users in Turkey](https://committers.top/turkey) list
+  - Provided academic supervision on problem formulation, system design and engineering-oriented implementation processes. 
+* [Istanbul Gelisim University Academic Performance Awards (2025)](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)
+  - Ranked 2nd university-wide in the Project, Patent and Design Performance category.
+  - Ranked 31st in the overall Academic Performance ranking across the university.
+* [Open-Source Contributions & Technical Visibility – GitHub Rankings (2025)](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)
+  - Ranked 3rd in Turkey in the [“Top GitHub Users by Public Contributions in Turkey” ranking (2025).](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md)
+  - Ranked 3rd in Turkey in the [“Most Active GitHub Users in Turkey” ranking (2025).](https://committers.top/turkey)
 * [Instructor & Project Advisor – ISTKA-Funded “IGU Cyber Academy” Project (2023–2025)](https://siberakademi.gelisim.edu.tr/tr/idari-icerik-mufredatimiz)
   - Contributed as an instructor and project advisor within the scope of the Istanbul Development Agency (ISTKA) funded regional training project implemented by Istanbul Gelisim University.
   - Delivered 40 hours of Data Structures and Algorithms training, 40 hours of Artificial Intelligence instruction and 20 hours of project mentoring and supervision as part of the official project curriculum.
