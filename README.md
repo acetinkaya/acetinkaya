@@ -28,7 +28,7 @@ Bridging algorithmic intelligence with applied autonomous systems engineering.
 ## [🎯 Araştırma Portföyü ve Teknik Çalışmalar | Research Portfolio and Technical Developments ](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)  
 
 [Türkçe](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar) 
-* [Danışman & Eğitmen – Algoritmalar, Veri Yapıları ve Yapay Zeka Uygulamaları Atölyesi 2026](https://github.com/acetinkaya/Algoritmalar-Veri-Yapilari-ve-Yapay-Zeka-Uygulamalari-Atolyesi)   
+* [Danışman & Eğitmen – İYC - Algoritmalar, Veri Yapıları ve Yapay Zeka Uygulamaları Atölyesi 2026](https://github.com/acetinkaya/Algoritmalar-Veri-Yapilari-ve-Yapay-Zeka-Uygulamalari-Atolyesi)   
   - Atölye çalışması İlim Yayma Cemiyeti Genel Merkezi, Eyüpsultan / İstanbul’da gerçekleştirilmektedir.   
   - Atölye kapsamında algoritmik düşünme, veri yapıları, yapay zekâ, bulanık mantık, robotik ve otonom sistemlere yönelik mühendislik odaklı uygulamalı eğitim içerikleri aktarılmıştır.   
   - Eğitim sürecinde yapılandırılmış programlama yaklaşımı, hesaplamalı problem çözme stratejileri ve akıllı sistem geliştirmeye yönelik modelleme ve uygulama örnekleri ele alınmıştır.     
@@ -59,7 +59,7 @@ Bridging algorithmic intelligence with applied autonomous systems engineering.
   - 2024 yılı [“Most Active GitHub Users in Turkey”](https://committers.top/turkey) sıralamasında Türkiye 5.’si olarak yer alınmıştır. 
 
 [English](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)    
-* [Academic Advisor & Instructor – Algorithms, Data Structures and Artificial Intelligence Applications Workshop 2026](https://github.com/acetinkaya/Algoritmalar-Veri-Yapilari-ve-Yapay-Zeka-Uygulamalari-Atolyesi)   
+* [Academic Advisor & Instructor – IYC - Algorithms, Data Structures and Artificial Intelligence Applications Workshop 2026](https://github.com/acetinkaya/Algoritmalar-Veri-Yapilari-ve-Yapay-Zeka-Uygulamalari-Atolyesi)   
   - The workshop was delivered at the headquarters of Ilim Yayma Cemiyeti, Eyupsultan / Istanbul.   
   - Covered engineering-oriented training content including algorithmic thinking, data structures, artificial intelligence, fuzzy logic, robotics and autonomous systems.   
   - Focused on computational problem-solving strategies, structured programming approaches and applied modelling workflows for intelligent systems development.       
