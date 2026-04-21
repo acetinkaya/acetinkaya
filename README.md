@@ -27,7 +27,11 @@ Building the bridge between algorithmic theory and real-world engineering.
    
 ## [🎯 Araştırma Portföyü ve Teknik Çalışmalar | Research Portfolio and Technical Developments ](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)  
 
-[Türkçe](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)   
+[Türkçe](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar) 
+* [Davetli Eğitmen – Algoritmalar, Veri Yapıları ve Yapay Zekâ Uygulamaları Atölyesi (2026)](https://github.com/acetinkaya/Algoritmalar-Veri-Yapilari-ve-Yapay-Zeka-Uygulamalari-Atolyesi)
+  - İlim Yayma Cemiyeti Genel Merkezi, Eyüpsultan / İstanbul’da gerçekleştirilmiştir.
+  - Algoritmik düşünme, veri yapıları ve mühendislik odaklı yapay zekâ uygulamalarını kapsayan uygulamalı içerikler aktarılmıştır.
+  - Yapılandırılmış programlama yaklaşımı, hesaplamalı problem çözme stratejileri ve akıllı sistem geliştirmeye yönelik danışmanlık ve eğitmenlik süreçleri ele alınmıştır.   
 * [Eğitmen – TÜBİTAK 2237-A – Temelden Uygulamaya MATLAB Eğitimi (2026)](https://gelisim.edu.tr/tr/gelisim-haber-istanbul-gelisim-universitesi-nde-temelden-uygulamaya-matlab-egitimi-basladi)     
   - TÜBİTAK 2237-A Bilimsel Eğitim Etkinliği kapsamında 05–09 Ocak 2026 tarihleri arasında İstanbul Gelişim Üniversitesi’nde gerçekleştirilmiştir.     
   - [Eğitim programı kapsamında “MATLAB ile Yapay Zekâ Uygulamaları” modülü 07.01.2026 tarhinde tarafımdan verilmiştir.](https://matlabegitimi.gelisim.edu.tr/tr/konferans-icerik-projeTakvimi)     
