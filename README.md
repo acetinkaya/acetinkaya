@@ -29,8 +29,8 @@ Building the bridge between algorithmic theory and real-world engineering.
 
 [Türkçe](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)   
 * Invited Instructor – Digital Art Festival Istanbul (2025)   
-   *- Atatürk Cultural Center (AKM), Istanbul (supported by the Republic of Türkiye Ministry of Culture and Tourism)   
-   *- Delivered a lecture/workshop titled “From Algorithm to Inspiration: The Artistic Codes of Generative Artificial Intelligence”, exploring algorithmic creativity, generative AI models and interdisciplinary applications between engineering and digital arts.      
+  *- Atatürk Cultural Center (AKM), Istanbul (supported by the Republic of Türkiye Ministry of Culture and Tourism)   
+  *- Delivered a lecture/workshop titled “From Algorithm to Inspiration: The Artistic Codes of Generative Artificial Intelligence”, exploring algorithmic creativity, generative AI models and interdisciplinary applications between engineering and digital arts.      
 *  2025 yılı [İstanbul Gelişim Üniversitesi Akademik Performans Ödülleri kapsamında](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar) sıralamalarda;    
   *- 🏆 Üniversite Genelinde Proje, Patent ve Tasarım Kategorisinde 2. olarak yer aldım.*   
   *- 🏅 Üniversite Genelinde Akademik Performans sıralamasında 31. sırada olarak yer aldım.*
@@ -42,8 +42,8 @@ Building the bridge between algorithmic theory and real-world engineering.
 
 [English](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)    
 * Invited Instructor – Digital Art Festival Istanbul (2025)    
-   *- Atatürk Cultural Center (AKM), Istanbul (supported by the Republic of Türkiye Ministry of Culture and Tourism)    
-   *- Delivered a lecture/workshop titled “From Algorithm to Inspiration: The Artistic Codes of Generative Artificial Intelligence”, exploring algorithmic creativity, generative AI models and interdisciplinary applications between engineering and digital arts.      
+  *- Atatürk Cultural Center (AKM), Istanbul (supported by the Republic of Türkiye Ministry of Culture and Tourism)    
+  *- Delivered a lecture/workshop titled “From Algorithm to Inspiration: The Artistic Codes of Generative Artificial Intelligence”, exploring algorithmic creativity, generative AI models and interdisciplinary applications between engineering and digital arts.      
 *  [Within the scope of the 2025 Istanbul Gelisim University Academic Performance Awards rankings](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar);   
   *- 🏆 Ranked 2nd university-wide in the Project, Patent, and Design Category.*   
   *- 🏅 Ranked 31st university-wide in the Overall Academic Performance Ranking.* 
