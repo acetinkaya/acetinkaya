@@ -1,15 +1,15 @@
 ## 👋 Hi, I'm Ali Çetinkaya
 
-AI & Intelligent Systems | Technical Instructor
+AI & Autonomous Systems Researcher | Robotics Instructor | Algorithm Developer
 
-I design intelligent algorithms and deploy them into real-world systems, with research focused on Artificial Intelligence, Autonomous Systems, Algorithm Optimization, and Embedded AI.
+My work focuses on designing intelligent algorithms and applying them to robotics, autonomous systems and embedded AI environments, integrating algorithmic thinking with real-world engineering applications.
 
 🚀 Machine Learning, Deep Learning & Generative AI  
-🎯 Autonomous Systems & Robotics  
+🤖 Autonomous Systems, Robotics & Intelligent Control  
 🔧 Algorithm Design, Optimization & Fuzzy Logic  
-⚙️ Embedded Systems & Real-Time Intelligent Applications    
+⚙️ Embedded AI & Real-Time Engineering Applications  
 
-Building the bridge between algorithmic theory and real-world engineering.
+Bridging algorithmic intelligence with applied autonomous systems engineering.
 
 ---
 
