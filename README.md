@@ -44,9 +44,10 @@ Building the bridge between algorithmic theory and real-world engineering.
   - Proje geliştirme sürecinde problem tanımlama, sistem tasarımı, yöntem geliştirme ve mühendislik uygulamasının geliştirilmesine yönelik akademik danışmanlık verilmiştir.     
 *  2025 yılı [İstanbul Gelişim Üniversitesi Akademik Performans Ödülleri kapsamında](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar) sıralamalarda;     
   -🏆 Üniversite Genelinde Proje, Patent ve Tasarım Kategorisinde 2. olarak yer aldım.  
-  -🏅 Üniversite Genelinde Akademik Performans sıralamasında 31. sırada olarak yer aldım.     
-*  2025 yılı [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) sıralamasında Türkiye 3.'sü olarak yer aldım.   
-*  2025 yılı [Most active GitHub users in Turkey](https://committers.top/turkey ) sıralamasında Türkiye 3.'sü olarak yer aldım.   ,
+  -🏅 Üniversite Genelinde Akademik Performans sıralamasında 31. sırada olarak yer aldım.
+* [GitHub Açık Kaynak Katkı Başarıları 2025]
+  - 2025 yılı [“Top GitHub Users by Public Contributions in Turkey”](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) sıralamasında Türkiye 3.’sü olarak yer alınmıştır.
+  - 2025 yılı [“Most Active GitHub Users in Turkey”](https://committers.top/turkey) sıralamasında Türkiye 3.’sü olarak yer alınmıştır.
 * [Eğitmen & Proje Danışmanı – İSTKA Destekli “İGÜ Siber Akademi” Projesi 2024](https://siberakademi.gelisim.edu.tr/tr/idari-icerik-mufredatimiz)
   - İstanbul Kalkınma Ajansı (İSTKA) Yetenek İstanbul Mali Destek Programı kapsamında İstanbul Gelişim Üniversitesi yürütücülüğünde gerçekleştirilen bölgesel eğitim projesinde görev alınmıştır.
   - Proje müfredatı kapsamında 40 saat Veri Yapıları ve Algoritmalar, 40 saat Yapay Zekâ eğitimi ile 20 saat proje danışmanlığı ve uygulama destek süreçleri yürütülmüştür.
