@@ -39,8 +39,8 @@ Building the bridge between algorithmic theory and real-world engineering.
   - T.C. Kültür ve Turizm Bakanlığı destekleriyle 13-15 Haziran 2025 Tarihleri arasında Atatürk Kültür Merkezi (AKM), Taksim, İstanbul'da gerçekleştirilmiştir.   
   - “Algoritmadan İlham’a: Üretken Yapay Zekânın Sanatsal Kodları” başlıklı ders/atölye kapsamında; algoritmik yaratıcılık yaklaşımları, üretken yapay zekâ modellerinin temel prensipleri ve mühendislik ile dijital sanat arasındaki disiplinlerarası uygulama alanları ele alınmıştır.
 * Danışman – TÜBİTAK 2209-A/B Üniversite Öğrencileri Araştırma Projelerim (2025)
-  - 1. Proje: İGÜ MMF, Elektronik Mühendisliği 4. sınıf Öğrencisi "H. ÖZTÜRK", “Güvenli Sürüş Kaskı” başlıklı proje kapsamında danışmanlığı yapılmıştır.
-  - 2. Proje: İGÜ MYO Otonom Sistemler Teknikerliği Programı 1. Sınıf Öğrencileri, "Z. S. KARAER", "M. R. ÖZTÜRK", "G. A. ÜRÜÇOĞLU" ve "S. Kanıboz", “Yürüyüş Basıncından Oluşan Elektrik Üretim ve Tüketim Mekanizması” başlıklı proje kapsamında danışmanlığı yapılmıştır.
+  - 1 Proje: İGÜ MMF, Elektronik Mühendisliği 4. sınıf Öğrencisi "H. ÖZTÜRK", “Güvenli Sürüş Kaskı” başlıklı proje kapsamında danışmanlığı yapılmıştır.
+  - 2 Proje: İGÜ MYO Otonom Sistemler Teknikerliği Programı 1. Sınıf Öğrencileri, "Z. S. KARAER", "M. R. ÖZTÜRK", "G. A. ÜRÜÇOĞLU" ve "S. Kanıboz", “Yürüyüş Basıncından Oluşan Elektrik Üretim ve Tüketim Mekanizması” başlıklı proje kapsamında danışmanlığı yapılmıştır.
   - Proje geliştirme sürecinde problem tanımlama, sistem tasarımı, yöntem geliştirme ve mühendislik uygulamasının geliştirilmesine yönelik akademik danışmanlık verilmiştir.     
 *  2025 yılı [İstanbul Gelişim Üniversitesi Akademik Performans Ödülleri kapsamında](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar) sıralamalarda;     
   -🏆 Üniversite Genelinde Proje, Patent ve Tasarım Kategorisinde 2. olarak yer aldım.  
