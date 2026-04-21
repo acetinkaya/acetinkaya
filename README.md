@@ -52,9 +52,11 @@ Building the bridge between algorithmic theory and real-world engineering.
   - İstanbul Kalkınma Ajansı (İSTKA) Yetenek İstanbul Mali Destek Programı kapsamında İstanbul Gelişim Üniversitesi yürütücülüğünde gerçekleştirilen bölgesel eğitim projesinde görev alınmıştır.
   - Proje müfredatı kapsamında 40 saat Veri Yapıları ve Algoritmalar, 40 saat Yapay Zekâ eğitimi ile 20 saat proje danışmanlığı ve uygulama destek süreçleri yürütülmüştür.
   - Eğitim içerikleri kapsamında algoritmik düşünme, veri yapıları, makine öğrenmesi temelleri, otonom sistem geliştirme süreçleri ve mühendislik temelli hesaplamalı problem çözme yaklaşımlarına yönelik uygulamalı kazanımlar aktarılmıştır.
-*  2024 yılı [İstanbul Gelişim Üniversitesi Akademik Performans Ödülü](https://gelisim.edu.tr/tr/gelisim-haber-akademik-performans-odulleri-sahiplerini-buldu-igunun-ilk-5i-aciklandi ), İstanbul Gelişim Meslek Yüksekokulu Akademik Performans sıralamasında 4. sırada yer aldım.   
-*  2024 yılı [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) sıralamasında Türkiye 5.'si olarak yer aldım.   
-*  2024 yılı [Most active GitHub users in Turkey](https://committers.top/turkey ) sıralamasında Türkiye 5.'si olarak yer aldım.   
+* [İstanbul Gelişim Üniversitesi Akademik Performans Ödülü (2024)](https://gelisim.edu.tr/tr/gelisim-haber-akademik-performans-odulleri-sahiplerini-buldu-igunun-ilk-5i-aciklandi)
+  - İstanbul Gelişim Meslek Yüksekokulu akademik performans sıralamasında 4. sırada yer alınmıştır. 
+* [GitHub Açık Kaynak Katkı Başarıları (2024)](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)
+  - 2024 yılı [“Top GitHub Users by Public Contributions in Turkey”](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) sıralamasında Türkiye 5.’si olarak yer alınmıştır.
+  - 2024 yılı [“Most Active GitHub Users in Turkey”](https://committers.top/turkey) sıralamasında Türkiye 5.’si olarak yer alınmıştır. 
 
 [English](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)    
 * [Academic Advisor & Instructor – Algorithms, Data Structures and Artificial Intelligence Applications Workshop 2026](https://github.com/acetinkaya/Algoritmalar-Veri-Yapilari-ve-Yapay-Zeka-Uygulamalari-Atolyesi)   
