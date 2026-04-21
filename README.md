@@ -28,7 +28,7 @@ Building the bridge between algorithmic theory and real-world engineering.
 ## [🎯 Araştırma Portföyü ve Teknik Çalışmalar | Research Portfolio and Technical Developments ](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)  
 
 [Türkçe](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar) 
-* [Danışman & Eğitmen – Algoritmalar, Veri Yapıları ve Yapay Zekâ Uygulamaları Atölyesi 2026](https://github.com/acetinkaya/Algoritmalar-Veri-Yapilari-ve-Yapay-Zeka-Uygulamalari-Atolyesi)   
+* [Danışman & Eğitmen – Algoritmalar, Veri Yapıları ve Yapay Zeka Uygulamaları Atölyesi 2026](https://github.com/acetinkaya/Algoritmalar-Veri-Yapilari-ve-Yapay-Zeka-Uygulamalari-Atolyesi)   
   - Atölye çalışması İlim Yayma Cemiyeti Genel Merkezi, Eyüpsultan / İstanbul’da gerçekleştirilmektedir.   
   - Atölye kapsamında algoritmik düşünme, veri yapıları, yapay zekâ, bulanık mantık, robotik ve otonom sistemlere yönelik mühendislik odaklı uygulamalı eğitim içerikleri aktarılmıştır.   
   - Eğitim sürecinde yapılandırılmış programlama yaklaşımı, hesaplamalı problem çözme stratejileri ve akıllı sistem geliştirmeye yönelik modelleme ve uygulama örnekleri ele alınmıştır.     
@@ -52,9 +52,9 @@ Building the bridge between algorithmic theory and real-world engineering.
   - İstanbul Kalkınma Ajansı (İSTKA) Yetenek İstanbul Mali Destek Programı kapsamında İstanbul Gelişim Üniversitesi yürütücülüğünde gerçekleştirilen bölgesel eğitim projesinde görev alınmıştır.
   - Proje müfredatı kapsamında 40 saat Veri Yapıları ve Algoritmalar, 40 saat Yapay Zekâ eğitimi ile 20 saat proje danışmanlığı ve uygulama destek süreçleri yürütülmüştür.
   - Eğitim içerikleri kapsamında algoritmik düşünme, veri yapıları, makine öğrenmesi temelleri, otonom sistem geliştirme süreçleri ve mühendislik temelli hesaplamalı problem çözme yaklaşımlarına yönelik uygulamalı kazanımlar aktarılmıştır.
-* [İstanbul Gelişim Üniversitesi Akademik Performans Ödülü (2024)](https://gelisim.edu.tr/tr/gelisim-haber-akademik-performans-odulleri-sahiplerini-buldu-igunun-ilk-5i-aciklandi)
+* [İstanbul Gelişim Üniversitesi Akademik Performans Ödülü 2024](https://gelisim.edu.tr/tr/gelisim-haber-akademik-performans-odulleri-sahiplerini-buldu-igunun-ilk-5i-aciklandi)
   - İstanbul Gelişim Meslek Yüksekokulu akademik performans sıralamasında 4. sırada yer alınmıştır. 
-* [GitHub Açık Kaynak Katkı Başarıları (2024)](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)
+* [GitHub Açık Kaynak Katkı Başarıları 2024](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)
   - 2024 yılı [“Top GitHub Users by Public Contributions in Turkey”](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) sıralamasında Türkiye 5.’si olarak yer alınmıştır.
   - 2024 yılı [“Most Active GitHub Users in Turkey”](https://committers.top/turkey) sıralamasında Türkiye 5.’si olarak yer alınmıştır. 
 
@@ -73,19 +73,21 @@ Building the bridge between algorithmic theory and real-world engineering.
   - Supervised H. Öztürk (Istanbul Gelisim University, Faculty of Engineering and Architecture, Department of Electronics Engineering, senior year) on the project titled “Safe Driving Helmet”.
   - Supervised Z. S. Karaer, M. R. Öztürk, G. A. Ürüçoğlu and S. Kanıboz (Istanbul Gelisim University, Vocational School, Autonomous Systems Technician Program, first year) on the project titled “Electrical Energy Generation and Consumption Mechanism from Walking Pressure”.
   - Provided academic supervision on problem formulation, system design and engineering-oriented implementation processes. 
-* [Istanbul Gelisim University Academic Performance Awards (2025)](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)
+* [Istanbul Gelisim University Academic Performance Awards 2025](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)
   - Ranked 2nd university-wide in the Project, Patent and Design Performance category.
   - Ranked 31st in the overall Academic Performance ranking across the university.
-* [Open-Source Contributions & Technical Visibility – GitHub Rankings (2025)](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)
-  - Ranked 3rd in Turkey in the [“Top GitHub Users by Public Contributions in Turkey” ranking (2025).](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md)
-  - Ranked 3rd in Turkey in the [“Most Active GitHub Users in Turkey” ranking (2025).](https://committers.top/turkey)
-* [Instructor & Project Advisor – ISTKA-Funded “IGU Cyber Academy” Project (2023–2025)](https://siberakademi.gelisim.edu.tr/tr/idari-icerik-mufredatimiz)
+* [Open-Source Contributions & Technical Visibility – GitHub Rankings 2025](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)
+  - Ranked 3rd in Turkey in the [“Top GitHub Users by Public Contributions in Turkey” ranking 2025](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md)
+  - Ranked 3rd in Turkey in the [“Most Active GitHub Users in Turkey” ranking 2025](https://committers.top/turkey)
+* [Instructor & Project Advisor – ISTKA-Funded “IGU Cyber Academy” Project 2024](https://siberakademi.gelisim.edu.tr/tr/idari-icerik-mufredatimiz)
   - Contributed as an instructor and project advisor within the scope of the Istanbul Development Agency (ISTKA) funded regional training project implemented by Istanbul Gelisim University.
   - Delivered 40 hours of Data Structures and Algorithms training, 40 hours of Artificial Intelligence instruction and 20 hours of project mentoring and supervision as part of the official project curriculum.
   - Training activities focused on algorithmic thinking, machine learning fundamentals, intelligent systems development and engineering-oriented computational problem-solving workflows.
-*  Ranked 4th in Istanbul Gelisim Vocational School in the 2024, [2024 Academic Performance Award from Istanbul Gelisim University](https://gelisim.edu.tr/en/gelisim-news-academic-performance-awards-found-their-winners-igus-top-5-has-been-announced)
-*  Ranked 5th in Turkey in the 2024 [Top GitHub Users By Public Contributions in Turkey](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) list      
-*  Ranked 5th in Turkey in the 2024 [Most Active GitHub Users in Turkey](https://committers.top/turkey) list
+* [Istanbul Gelisim University Academic Performance Award 2024](https://gelisim.edu.tr/tr/gelisim-haber-akademik-performans-odulleri-sahiplerini-buldu-igunun-ilk-5i-aciklandi)
+  - Ranked 4th in the Academic Performance ranking at the Istanbul Gelisim University Vocational School.
+* [Open-Source Contributions & Technical Visibility – GitHub Rankings 2024](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)
+  - Ranked 5th in Turkey in the [“Top GitHub Users by Public Contributions in Turkey”](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md) ranking (2024).
+  - Ranked 5th in Turkey in the [“Most Active GitHub Users in Turkey”](https://committers.top/turkey) ranking (2024).
 
 ---
 
