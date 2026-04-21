@@ -51,11 +51,7 @@ Building the bridge between algorithmic theory and real-world engineering.
 * [Academic Advisor & Instructor – Algorithms, Data Structures and Artificial Intelligence Applications Workshop (2026)](https://github.com/acetinkaya/Algoritmalar-Veri-Yapilari-ve-Yapay-Zeka-Uygulamalari-Atolyesi)   
   - The workshop was delivered at the headquarters of Ilim Yayma Cemiyeti, Eyupsultan / Istanbul.   
   - Covered engineering-oriented training content including algorithmic thinking, data structures, artificial intelligence, fuzzy logic, robotics and autonomous systems.   
-  - Focused on computational problem-solving strategies, structured programming approaches and applied modelling workflows for intelligent systems development.   
-* [Invited Instructor – Algorithms, Data Structures and Artificial Intelligence Applications Workshop (2026)](https://github.com/acetinkaya/Algoritmalar-Veri-Yapilari-ve-Yapay-Zeka-Uygulamalari-Atolyesi)
-  - The workshop was delivered at the headquarters of İlim Yayma Cemiyeti, Eyüpsultan / Istanbul.   
-  - Covered applied content on algorithmic thinking, data structures and engineering-oriented artificial intelligence applications.   
-  - Focused on computational problem-solving strategies, structured programming approaches and applied AI modelling workflows relevant to intelligent systems development.     
+  - Focused on computational problem-solving strategies, structured programming approaches and applied modelling workflows for intelligent systems development.       
 * [Instructor – TÜBİTAK 2237-A Scientific Training Program – From Fundamentals to Applications: MATLAB Training (2026)](https://gelisim.edu.tr/tr/gelisim-haber-istanbul-gelisim-universitesi-nde-temelden-uygulamaya-matlab-egitimi-basladi)
   - Conducted within the scope of the TÜBİTAK 2237-A Scientific Training Activities Program at Istanbul Gelisim University between 05–09 January 2026.
   - [Delivered the module “Artificial Intelligence Applications with MATLAB” on 07 January 2026, focusing on engineering-oriented AI modelling and applied computational workflows.](https://matlabegitimi.gelisim.edu.tr/tr/konferans-icerik-projeTakvimi)   
