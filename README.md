@@ -38,7 +38,7 @@ Bridging algorithmic intelligence with applied autonomous systems engineering.
 * [Davetli Konuşmacı – IDAF’25 – Dijital Sanat Festivali İstanbul 2025](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari)   
   - T.C. Kültür ve Turizm Bakanlığı destekleriyle 13-15 Haziran 2025 Tarihleri arasında Atatürk Kültür Merkezi (AKM), Taksim, İstanbul'da gerçekleştirilmiştir.   
   - “Algoritmadan İlham’a: Üretken Yapay Zekânın Sanatsal Kodları” başlıklı ders/atölye kapsamında; algoritmik yaratıcılık yaklaşımları, üretken yapay zekâ modellerinin temel prensipleri ve mühendislik ile dijital sanat arasındaki disiplinlerarası uygulama alanları ele alınmıştır.
-* [Danışman – TÜBİTAK 2209-A/B Üniversite Öğrencileri Araştırma Projelerim 2025](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)
+* [Danışman – TÜBİTAK 2209-A/B & 2025 Teknofest Üniversite Öğrencileri Araştırma Projelerim ](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)
   - 1 Proje: İGÜ Mühendislik ve Mimarlık Fakültesi Elektronik Mühendisliği Bölümü 4. sınıf öğrencisi Hüseyin ÖZTÜRK ile birlikte, 1919B012554204 başvuru numaralı “Güvenli Sürüş Kaskı” başlıklı proje kapsamında danışmanlığını yaptım.
   - 2 Proje: İGÜ Meslek Yüksekokulu Otonom Sistemler Teknikerliği Programı 1. sınıf öğrencileri Zehra Su KARAER, Melisa Rümeysa ÖZTÜRK, Gizem ÜRÜÇOĞLU ve S. KANIBOZ ile birlikte, 1919B012558507 başvuru numaralı “Yürüyüş Basıncından Oluşan Elektrik Üretim ve Tüketim Mekanizması” başlıklı proje kapsamında danışmanlığını yaptım.
   - Proje geliştirme sürecinde problem tanımlama, sistem tasarımı, yöntem geliştirme ve mühendislik uygulamasının geliştirilmesine yönelik akademik danışmanlık verilmiştir.     
