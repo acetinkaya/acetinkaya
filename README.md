@@ -39,8 +39,8 @@ Bridging algorithmic intelligence with applied autonomous systems engineering.
   - T.C. Kültür ve Turizm Bakanlığı destekleriyle 13-15 Haziran 2025 Tarihleri arasında Atatürk Kültür Merkezi (AKM), Taksim, İstanbul'da gerçekleştirilmiştir.   
   - “Algoritmadan İlham’a: Üretken Yapay Zekânın Sanatsal Kodları” başlıklı ders/atölye kapsamında; algoritmik yaratıcılık yaklaşımları, üretken yapay zekâ modellerinin temel prensipleri ve mühendislik ile dijital sanat arasındaki disiplinlerarası uygulama alanları ele alınmıştır.
 * [Danışman – TÜBİTAK 2209-A/B Üniversite Öğrencileri Araştırma Projelerim 2025](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)
-  - 1 Proje: İGÜ Mühendislik ve Mimarlık Fakültesi Elektronik Mühendisliği Bölümü 4. sınıf öğrencisi H. ÖZTÜRK ile birlikte, 1919B012554204 başvuru numaralı “Güvenli Sürüş Kaskı” başlıklı proje kapsamında danışmanlığını yaptım.
-  - 2 Proje: İGÜ MYO Otonom Sistemler Teknikerliği Programı 1. Sınıf Öğrencilerim "Z. S. KARAER", "M. R. ÖZTÜRK", "G. A. ÜRÜÇOĞLU" ve "S. Kanıboz", 1919B012558507 başvuru numaralı “Yürüyüş Basıncından Oluşan Elektrik Üretim ve Tüketim Mekanizması” başlıklı proje kapsamında danışmanlığı yapılmıştır.
+  - 1 Proje: İGÜ Mühendislik ve Mimarlık Fakültesi Elektronik Mühendisliği Bölümü 4. sınıf öğrencisi Hüseyin ÖZTÜRK ile birlikte, 1919B012554204 başvuru numaralı “Güvenli Sürüş Kaskı” başlıklı proje kapsamında danışmanlığını yaptım.
+  - 2 Proje: İGÜ Meslek Yüksekokulu Otonom Sistemler Teknikerliği Programı 1. sınıf öğrencileri Zehra Su KARAER, M. R. ÖZTÜRK, G. A. ÜRÜÇOĞLU ve S. Kanıboz ile birlikte, 1919B012558507 başvuru numaralı “Yürüyüş Basıncından Oluşan Elektrik Üretim ve Tüketim Mekanizması” başlıklı proje kapsamında danışmanlığını yaptım.
   - Proje geliştirme sürecinde problem tanımlama, sistem tasarımı, yöntem geliştirme ve mühendislik uygulamasının geliştirilmesine yönelik akademik danışmanlık verilmiştir.     
 * [İstanbul Gelişim Üniversitesi Akademik Performans Ödülleri 2025](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)   
   - Üniversite genelinde Proje, Patent ve Tasarım kategorisinde 2.’lik derecesi elde edilmiştir.   
