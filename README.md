@@ -70,7 +70,7 @@ Bridging algorithmic intelligence with applied autonomous systems engineering.
   - Supported by the Republic of Türkiye Ministry of Culture and Tourism, the event was held between 13–15 June 2025 at the Atatürk Cultural Center (AKM), Taksim, Istanbul.     
   - Delivered a lecture/workshop titled “From Algorithm to Inspiration: The Artistic Codes of Generative Artificial Intelligence”, exploring algorithmic creativity, generative AI models and interdisciplinary applications between engineering and digital arts.
 * [Project Advisor – TÜBİTAK 2209-A/B Undergraduate Research Project Funding Applications 2025](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)
-  - Supervised H. Öztürk (Istanbul Gelisim University, Faculty of Engineering and Architecture, Department of Electronics Engineering, senior year) on the project titled “Safe Driving Helmet”.
+  - Project 1: I supervised the project titled “Safe Driving Helmet” (Application No: 1919B012554204), conducted together with Hüseyin ÖZTÜRK, a 4th-year student in the Department of Electronics Engineering, Faculty of Engineering and Architecture, Istanbul Gelisim University.
   - Supervised Z. S. Karaer, M. R. Öztürk, G. A. Ürüçoğlu and S. Kanıboz (Istanbul Gelisim University, Vocational School, Autonomous Systems Technician Program, first year) on the project titled “Electrical Energy Generation and Consumption Mechanism from Walking Pressure”.
   - Provided academic supervision on problem formulation, system design and engineering-oriented implementation processes. 
 * [Istanbul Gelisim University Academic Performance Awards 2025](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)
