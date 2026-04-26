@@ -32,7 +32,7 @@ Bridging algorithmic intelligence with applied autonomous systems engineering.
   - Atölye çalışması İlim Yayma Cemiyeti Genel Merkezinde, Eyüpsultan / İstanbul’da yüz yüze gerçekleştirilmektedir.   
   - Atölye kapsamında algoritmik düşünme, veri yapıları, yapay zekâ, bulanık mantık, robotik ve otonom sistemlere yönelik mühendislik odaklı uygulamalı eğitim içerikleri aktarılmıştır.   
   - Eğitim sürecinde yapılandırılmış programlama yaklaşımı, hesaplamalı problem çözme stratejileri ve akıllı sistem geliştirmeye yönelik modelleme ve uygulama örnekleri ele alınmıştır.
-* [Danışman & Eğitmen – İGÜ SEM - Otonom Sistemler Temel Eğitim ve Uygulama Sertifika Programı 2026]
+* [Danışman & Eğitmen – İGÜ SEM - Otonom Sistemler Temel Eğitim ve Uygulama Sertifika Programı 2026](https://github.com/acetinkaya/Otonom-Sistemler-temel-Egitim-ve-Uygulama-Sertifika-Programi)
   - Atölye ve eğitim çalışmaları İGÜ F Blok Sürekli Eğitim Merkezi, Avcılar / İstanbul’da 2 ayrı eğitim gerçekleştirilmiştir.
   - 1. Eğitim Tarihleri: 15 – 16 – 18 – 22 – 23 – 25 Aralık 2025 Kayıt ve Erişim Adresi
   - 2. Eğitim Tarihleri: 19 – 20 – 21 – 26 – 27 – 28 Ocak 2026 Kayıt ve Erişim Adresi
