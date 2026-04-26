@@ -71,11 +71,10 @@ Bridging algorithmic intelligence with applied autonomous systems engineering.
   - The workshop was delivered at the headquarters of Ilim Yayma Cemiyeti, Eyupsultan / Istanbul.   
   - Covered engineering-oriented training content including algorithmic thinking, data structures, artificial intelligence, fuzzy logic, robotics and autonomous systems.   
   - Focused on computational problem-solving strategies, structured programming approaches and applied modelling workflows for intelligent systems development.
-
-* [Advisor & Instructor – IGU SEM – Autonomous Systems Basic Training and Application Certificate Program 2026]
+* [Academic Advisor & Instructor – IGU SEM – Autonomous Systems Basic Training and Application Certificate Program 2026](https://github.com/acetinkaya/Otonom-Sistemler-temel-Egitim-ve-Uygulama-Sertifika-Programi)
   - The workshop and training activities were conducted in two separate training periods at the Istanbul Gelisim University Continuing Education Center (IGU SEM), F Block – Avcılar / Istanbul.
-  - II. Program Dates: January 19 – 28, 2026 – Program Details and Completion Announcement
-  - I. Program Dates: December 15 – 25, 2025 – Program Details and Completion Announcement
+  - II. Program Dates: January 19 – 28, 2026 – [Program Details](https://sem.gelisim.edu.tr/en/sem-current-education-3a0d62e7-f1f2-461a-ae36-af3765cb28af) and Completion Announcement
+  - I. Program Dates: December 15 – 25, 2025 – [Program Details](https://sem.gelisim.edu.tr/en/sem-continuing-education-1939aa45-c694-4ece-b73f-a3622634c6cf) and Completion Announcement
   - Within the scope of the workshop and applied training sessions, the fundamental components, operating principles, and application areas of autonomous systems were presented to participants from a comprehensive engineering perspective. Core elements forming autonomous system architectures — ranging from sensor technologies and perception mechanisms to decision-making processes, control algorithms, and system architecture — were explained through theoretical foundations supported by practical implementations, aiming to provide participants with a strong technical background.
 * [Instructor – TÜBİTAK 2237-A Scientific Training Program – From Fundamentals to Applications: MATLAB Training 2026](https://gelisim.edu.tr/tr/gelisim-haber-istanbul-gelisim-universitesi-nde-temelden-uygulamaya-matlab-egitimi-basladi)
   - Conducted within the scope of the TÜBİTAK 2237-A Scientific Training Activities Program at Istanbul Gelisim University between 05–09 January 2026.
