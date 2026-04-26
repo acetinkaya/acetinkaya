@@ -35,7 +35,7 @@ Bridging algorithmic intelligence with applied autonomous systems engineering.
 * [Danışman & Eğitmen – İGÜ SEM - Otonom Sistemler Temel Eğitim ve Uygulama Sertifika Programı 2026](https://github.com/acetinkaya/Otonom-Sistemler-temel-Egitim-ve-Uygulama-Sertifika-Programi)
   - Atölye ve eğitim çalışmaları İGÜ F Blok Sürekli Eğitim Merkezi, Avcılar / İstanbul’da 2 ayrı eğitim gerçekleştirilmiştir.
   - I. Eğitim Tarihleri: 15 – 25 Aralık 2025 Kayıt ve Erişim Adresi
-  - II. Eğitim Tarihleri: 19 – 28 Ocak 2026 Kayıt ve Erişim Adresi
+  - II. Eğitim Tarihleri: 19 – 28 Ocak 2026 [Eğitim içerigi ve erişim adresi](https://sem.gelisim.edu.tr/tr/sem-guncel-egitim-3a0d62e7-f1f2-461a-ae36-af3765cb28af)  
   - Eğitim Şekli: Yüz yüze ve 17.00 – 22.00 saatleri arasında gerçekleştirilmiştir.    
   - Atölye ve uygulamalı eğitim kapsamında otonom sistemlerin temel bileşenlerini, çalışma prensiplerini ve uygulama alanlarını katılımcılara bütüncül bir bakış açısıyla aktarmaktır. Sensör teknolojilerinden algılama ve karar verme mekanizmalarına, kontrol algoritmalarından sistem mimarisine kadar otonom yapıları oluşturan tüm temel unsurlar, teorik bilgiler ve uygulamalı örneklerle açıklanarak katılımcıların güçlü bir teknik altyapı kazanması hedeflenmektedir.
 * [Eğitmen – TÜBİTAK 2237-A – Temelden Uygulamaya MATLAB Eğitimi 2026](https://gelisim.edu.tr/tr/gelisim-haber-istanbul-gelisim-universitesi-nde-temelden-uygulamaya-matlab-egitimi-basladi)     
