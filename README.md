@@ -70,7 +70,13 @@ Bridging algorithmic intelligence with applied autonomous systems engineering.
 * [Academic Advisor & Instructor – IYC - Algorithms, Data Structures and Artificial Intelligence Applications Workshop 2026](https://github.com/acetinkaya/Algoritmalar-Veri-Yapilari-ve-Yapay-Zeka-Uygulamalari-Atolyesi)   
   - The workshop was delivered at the headquarters of Ilim Yayma Cemiyeti, Eyupsultan / Istanbul.   
   - Covered engineering-oriented training content including algorithmic thinking, data structures, artificial intelligence, fuzzy logic, robotics and autonomous systems.   
-  - Focused on computational problem-solving strategies, structured programming approaches and applied modelling workflows for intelligent systems development.       
+  - Focused on computational problem-solving strategies, structured programming approaches and applied modelling workflows for intelligent systems development.
+
+* [Advisor & Instructor – IGU SEM – Autonomous Systems Basic Training and Application Certificate Program 2026]
+  - The workshop and training activities were conducted in two separate training periods at the Istanbul Gelisim University Continuing Education Center (IGU SEM), F Block – Avcılar / Istanbul.
+  - 
+  - 
+  - Within the scope of the workshop and applied training sessions, the fundamental components, operating principles, and application areas of autonomous systems were presented to participants from a comprehensive engineering perspective. Core elements forming autonomous system architectures — ranging from sensor technologies and perception mechanisms to decision-making processes, control algorithms, and system architecture — were explained through theoretical foundations supported by practical implementations, aiming to provide participants with a strong technical background.
 * [Instructor – TÜBİTAK 2237-A Scientific Training Program – From Fundamentals to Applications: MATLAB Training 2026](https://gelisim.edu.tr/tr/gelisim-haber-istanbul-gelisim-universitesi-nde-temelden-uygulamaya-matlab-egitimi-basladi)
   - Conducted within the scope of the TÜBİTAK 2237-A Scientific Training Activities Program at Istanbul Gelisim University between 05–09 January 2026.
   - [Delivered the module “Artificial Intelligence Applications with MATLAB” on 07 January 2026, focusing on engineering-oriented AI modelling and applied computational workflows.](https://matlabegitimi.gelisim.edu.tr/tr/konferans-icerik-projeTakvimi)   
