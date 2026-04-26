@@ -74,8 +74,8 @@ Bridging algorithmic intelligence with applied autonomous systems engineering.
 
 * [Advisor & Instructor – IGU SEM – Autonomous Systems Basic Training and Application Certificate Program 2026]
   - The workshop and training activities were conducted in two separate training periods at the Istanbul Gelisim University Continuing Education Center (IGU SEM), F Block – Avcılar / Istanbul.
-  - 
-  - 
+  - II. Program Dates: January 19 – 28, 2026 – Program Details and Completion Announcement
+  - I. Program Dates: December 15 – 25, 2025 – Program Details and Completion Announcement
   - Within the scope of the workshop and applied training sessions, the fundamental components, operating principles, and application areas of autonomous systems were presented to participants from a comprehensive engineering perspective. Core elements forming autonomous system architectures — ranging from sensor technologies and perception mechanisms to decision-making processes, control algorithms, and system architecture — were explained through theoretical foundations supported by practical implementations, aiming to provide participants with a strong technical background.
 * [Instructor – TÜBİTAK 2237-A Scientific Training Program – From Fundamentals to Applications: MATLAB Training 2026](https://gelisim.edu.tr/tr/gelisim-haber-istanbul-gelisim-universitesi-nde-temelden-uygulamaya-matlab-egitimi-basladi)
   - Conducted within the scope of the TÜBİTAK 2237-A Scientific Training Activities Program at Istanbul Gelisim University between 05–09 January 2026.
