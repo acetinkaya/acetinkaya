@@ -29,9 +29,15 @@ Bridging algorithmic intelligence with applied autonomous systems engineering.
 
 [Türkçe](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar) 
 * [Danışman & Eğitmen – İYC - Algoritmalar, Veri Yapıları ve Yapay Zeka Uygulamaları Atölyesi 2026](https://github.com/acetinkaya/Algoritmalar-Veri-Yapilari-ve-Yapay-Zeka-Uygulamalari-Atolyesi)   
-  - Atölye çalışması İlim Yayma Cemiyeti Genel Merkezi, Eyüpsultan / İstanbul’da gerçekleştirilmektedir.   
+  - Atölye çalışması İlim Yayma Cemiyeti Genel Merkezinde, Eyüpsultan / İstanbul’da yüz yüze gerçekleştirilmektedir.   
   - Atölye kapsamında algoritmik düşünme, veri yapıları, yapay zekâ, bulanık mantık, robotik ve otonom sistemlere yönelik mühendislik odaklı uygulamalı eğitim içerikleri aktarılmıştır.   
-  - Eğitim sürecinde yapılandırılmış programlama yaklaşımı, hesaplamalı problem çözme stratejileri ve akıllı sistem geliştirmeye yönelik modelleme ve uygulama örnekleri ele alınmıştır.     
+  - Eğitim sürecinde yapılandırılmış programlama yaklaşımı, hesaplamalı problem çözme stratejileri ve akıllı sistem geliştirmeye yönelik modelleme ve uygulama örnekleri ele alınmıştır.
+* [Danışman & Eğitmen – İGÜ SEM - Otonom Sistemler Temel Eğitim ve Uygulama Sertifika Programı 2026]
+  - Atölye ve eğitim çalışmaları İGÜ F Blok Sürekli Eğitim Merkezi, Avcılar / İstanbul’da 2 ayrı eğitim gerçekleştirilmiştir.
+  - 1. Eğitim Tarihleri: 15 – 16 – 18 – 22 – 23 – 25 Aralık 2025 Kayıt ve Erişim Adresi
+  - 2. Eğitim Tarihleri: 19 – 20 – 21 – 26 – 27 – 28 Ocak 2026 Kayıt ve Erişim Adresi
+  - Eğitim Şekli: Yüz yüze ve 17.00 – 22.00 saatleri arasında gerçekleştirilmiştir.    
+  - Atölye ve uygulamalı eğitim kapsamında otonom sistemlerin temel bileşenlerini, çalışma prensiplerini ve uygulama alanlarını katılımcılara bütüncül bir bakış açısıyla aktarmaktır. Sensör teknolojilerinden algılama ve karar verme mekanizmalarına, kontrol algoritmalarından sistem mimarisine kadar otonom yapıları oluşturan tüm temel unsurlar, teorik bilgiler ve uygulamalı örneklerle açıklanarak katılımcıların güçlü bir teknik altyapı kazanması hedeflenmektedir.
 * [Eğitmen – TÜBİTAK 2237-A – Temelden Uygulamaya MATLAB Eğitimi 2026](https://gelisim.edu.tr/tr/gelisim-haber-istanbul-gelisim-universitesi-nde-temelden-uygulamaya-matlab-egitimi-basladi)     
   - TÜBİTAK 2237-A Bilimsel Eğitim Etkinliği kapsamında 05–09 Ocak 2026 tarihleri arasında İstanbul Gelişim Üniversitesi’nde gerçekleştirilmiştir.     
   - [Eğitim programı kapsamında “MATLAB ile Yapay Zekâ Uygulamaları” modülü 07.01.2026 tarhinde tarafımdan verilmiştir.](https://matlabegitimi.gelisim.edu.tr/tr/konferans-icerik-projeTakvimi)     
