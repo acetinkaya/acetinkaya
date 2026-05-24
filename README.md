@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ali Çetinkaya
 
-AI & Autonomous Systems Researcher | Robotics Instructor | Algorithm Developer
+AI & Autonomous Systems Researcher | Algorithm Developer | Technical Instructor
 
 My work focuses on designing intelligent algorithms and applying them to robotics, autonomous systems and embedded AI environments, integrating algorithmic thinking with real-world engineering applications.
 
