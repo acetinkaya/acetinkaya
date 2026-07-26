@@ -28,9 +28,9 @@ Bridging algorithmic intelligence with applied autonomous systems engineering.
 ## [🎯 Araştırma Portföyü ve Teknik Çalışmalar | Research Portfolio and Technical Developments ](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)  
 
 [Türkçe](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar) 
-* [Danışman & Eğitmen – İYC - Algoritmalar, Veri Yapıları ve Yapay Zeka Uygulamaları Atölyesi 2026](https://github.com/acetinkaya/Algoritmalar-Veri-Yapilari-ve-Yapay-Zeka-Uygulamalari-Atolyesi)   
+* [Danışman – İYC - Algoritmalar, Veri Yapıları ve Yapay Zeka Uygulamaları Atölyesi 2026](https://github.com/acetinkaya/Algoritmalar-Veri-Yapilari-ve-Yapay-Zeka-Uygulamalari-Atolyesi)   
   - Atölye çalışmalarını İlim Yayma Cemiyeti Genel Merkezinde, Eyüpsultan / İstanbul’da yüz yüze gerçekleştirilmektedir.   
-  - Atölye kapsamında algoritmik düşünme, veri yapıları, yapay zeka, bulanık mantık, robotik ve otonom sistemlere yönelik mühendislik odaklı uygulamalı eğitim içerikleri aktarılmıştır.   
+  - Atölye kapsamında algoritmik düşünme, veri yapıları, yapay zeka, bulanık mantık, robotik ve otonom sistemlere yönelik mühendislik odaklı uygulamalı teknik eğitim içerikleri hazırlamıştır.   
   - Eğitim sürecinde yapılandırılmış programlama yaklaşımı, hesaplamalı problem çözme stratejileri ve akıllı sistem geliştirmeye yönelik modelleme ve uygulama örnekleri ele alınmıştır.
 * [Danışman & Eğitmen – İGÜ SEM - Otonom Sistemler Temel Eğitim ve Uygulama Sertifika Programı 2026](https://github.com/acetinkaya/Otonom-Sistemler-temel-Egitim-ve-Uygulama-Sertifika-Programi)
   - Atölye ve eğitim çalışmaları İGÜ F Blok Sürekli Eğitim Merkezi, Avcılar / İstanbul’da 2 ayrı eğitim gerçekleştirilmiştir.
