@@ -72,14 +72,27 @@ Throughout my academic and technical journey, I have led the commercialization o
 
 ---
 
-## 📚 Books & Selected Publications
+## 📚 Academic Publications & Books
 
-| Type | Title / Reference | Publisher / Journal | ISBN / DOI |
-| :--- | :--- | :--- | :--- |
-| **Book** | *Fuzzy Logic and Python Applications* | IGU Press (2023) | `ISBN: 978-605-4827-98-5` |
-| **Book Chapter** | "k-NN Classification Method" (*Machine Learning Algorithms*, Ch. 4.4) | Nobel Academic Publishing | `ISBN: 978-625-371-882-4` |
-| **Journal Article** | Comparison of Machine Learning Algorithms in Diagnosis of Breast Cancer | Asian Pac J Cancer Prev (2022) | `10.31557/APJCP.2022.23.10.3287` |
-| **Conference** | Exploring Open-Source Concept to Enhance AI Architecture Learning | ISIMS 13th Symposium (2025) | `10.5281/zenodo.17530795` |
+### Peer-Reviewed Journal Articles & Conference Proceedings
+
+| Authors | Title | Journal / Venue | Year | DOI / Link |
+| :--- | :--- | :--- | :--- | :--- |
+| Erdoğan, M. Ö., Okatan, A., Uz, U., Yılmaz, F., & **Çetinkaya, A.** | Production, and Analysis of a Two-Axis Food Liquid Pouring Machine | International Journal of Engineering Technologies (IJET), 8(1), 1-7 | 2022 | [DOI](https://doi.org/10.19072/ijet.1060635) |
+| Özcan, İ., Aydın, H., & **Çetinkaya, A.** | Comparison of Classification Success Rates of Different Machine Learning Algorithms in the Diagnosis of Breast Cancer | Asian Pacific Journal of Cancer Prevention (APJCP), 23(10), 3287-3297 | 2022 | [DOI](https://doi.org/10.31557/APJCP.2022.23.10.3287) |
+| **Çetinkaya, A.**, Öztürk, O., & Okatan, A. | Controlling A Robotic Arm Using Hand Recognition Software | International Journal of Engineering Technologies (IJET), 5(2), 59-63 | 2019 | [Link](https://izlik.org/JA33WM96BS) |
+| **Çetinkaya, A.**, Gönen, S., Dahman, D., & Barışkan, M. A. | Exploring the Open-Source Concept to Enhance the Learning and Exploration Curve of AI Architecture | Proceedings of the 13th Intl. Symposium on Intelligent Manufacturing & Service Systems | 2025 | [DOI](https://doi.org/10.5281/zenodo.17530795) |
+| Ayas, A. Y., Aydın, H., **Çetinkaya, A.**, & Güney, Z. | Artificial Intelligence (AI)-Based Self-Deciding Character Development Application in Two-Dimensional Video Games | Bilgi Ve İletişim Teknolojileri Dergisi, 5(1), 1-19 | 2023 | [DOI](https://doi.org/10.53694/bited.1247338) |
+| Aslandoğdu, Ö. F., Aydın, H., & **Çetinkaya, A.** | Accuracy Estimation and Analysis of Teachable Machine Model Developed with Tensorflow Javascript on Cloud: Face Recognition System Application | Intl. Journal of Management Information Systems and Computer Science, 6(1), 66-77 | 2022 | [DOI](https://doi.org/10.33461/uybisbbd.1106753) |
+
+### Books & Book Chapters
+
+| Type | Authors | Title / Chapter | Publisher | Year | ISBN |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Book** | **Çetinkaya, A.** | Fuzzy Logic and Python Applications *(Bulanık Mantık ve Python Uygulamaları)* | IGU Press | 2023 | `978-605-4827-98-5` |
+| **Book Chapter** | **Çetinkaya, A.**, & Gök, M. | "k-NN Classification Method" (*Machine Learning Algorithms*, Chapter 4.4) | Nobel Academic Publishing | 2024 | `978-625-371-882-4` |
+| **Book Chapter** | **Çetinkaya, A.**, & Temür, M. | "Comparison and Analysis of AI-Supported Approaches in Renewable Energy Usage" (*AI Studies*, Chapter 2) | Çizgi Kitabevi | 2025 | `978-625-396-758-1` |
+| **Book Chapter** | **Çetinkaya, A.**, & Aykut, E. | "Digital Transformation with Generative AI: Career Fields of the Future" (*Next-Gen AI Approaches*, Chapter 2) | BİDGE Publishing | 2025 | `978-625-372-677-5` |
 
 ---
 
@@ -94,17 +107,6 @@ Throughout my academic and technical journey, I have led the commercialization o
 | **Discover Creativity with AI: Generative AI & Career Horizons** | IGU Career Development Academies | May 2025 | Instructor – Generative AI applications, productivity tools, and modern tech careers. |
 | **Data Structures, Algorithms & Applied AI Trainings** | ISTKA & IGU Cyber Academy | Aug – Nov 2024 | Lead Instructor – Hands-on Python algorithm design, data structures, and AI models. |
 | **Artificial Intelligence Days in Avcılar** | Avcılar Municipality Innovation Center | July 2024 | Instructor – AI awareness, machine learning fundamentals, and smart technologies. |
-
----
-
-## 📖 Curated Reading Lists & Knowledge Bases
-
-| Subject Domain | Repository Link |
-| :--- | :--- |
-| **Artificial Intelligence & Data Science** | [AI, Machine Learning & Data Science Essential Books](https://github.com/acetinkaya/YapayZekaAlanindaKaynakKitaplar) |
-| **Fuzzy Logic Systems** | [Fuzzy Logic Essential Reference List](https://github.com/acetinkaya/Bulanikmantikkaynaklari) |
-| **Python Programming** | [Python Programming Essential Books](https://github.com/acetinkaya/PythonProgramlamaKaynaklari) |
-| **Embedded Systems** | [STM32 ARM Microcontroller & Hardware List](https://github.com/acetinkaya/stm32f4-kaynaklari) |
 
 ---
 
