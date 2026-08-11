@@ -16,6 +16,17 @@ Throughout my academic and technical journey, I have led the commercialization o
 
 ---
 
+## 💼 Professional & Academic Experience
+
+| Period | Role | Institution / Organization | Core Responsibilities & Impact |
+| :--- | :--- | :--- | :--- |
+| **2026 – Present** | **Technical Consultant & Instructor** | Ilim Yayma Cemiyeti (IYC) HQs – R&D Unit | Directs R&D on AI architectures, instructs workshops on algorithms, and mentors TÜBİTAK/TEKNOFEST teams. |
+| **2025 – Present** | **Creator & Technical Educator** | Danışmanlı Öğrenme (Udemy, YouTube, IG) | Produces global online courses (Python + Google Colab: Algorithms) and technical media content. |
+| **2022 – 2026** | **Program Head & Lecturer** | Istanbul Gelisim University (IGU) | Managed Autonomous Systems Department; taught AI, Fuzzy Logic, Robotics, MATLAB, and C/C++ courses. |
+| **2017 – 2024** | **IP Manager & TTO Researcher** | Technology Transfer Office (TTO) | Managed institutional patent/licensing pipeline and led applied engineering R&D projects. |
+
+---
+
 ## 🎯 Key Metrics & Achievements
 
 | Metric / Domain | Details & Impact |
@@ -25,17 +36,6 @@ Throughout my academic and technical journey, I have led the commercialization o
 | **Intellectual Property Portfolio** | **15 International Patents Registered** (WIPO/PCT & Germany), 10 national patent applications, and 2 commercialized/transferred patents. |
 | **Institutional IP Excellence** | Coordinated IP management leading host institution to **1st Place in Turkey** among universities in TURKPATENT proceedings (2022 & 2023). |
 | **Academic Citations & Publications** | **150+ Citations** on Google Scholar; authored 15 journal articles, 11 conference papers, 1 book, and 6 book chapters. |
-
----
-
-## 💼 Professional & Academic Experience
-
-| Period | Role | Institution / Organization | Core Responsibilities & Impact |
-| :--- | :--- | :--- | :--- |
-| **2026 – Present** | **Technical Consultant & Instructor** | Ilim Yayma Cemiyeti (IYC) HQs – R&D Unit | Directs R&D on AI architectures, instructs workshops on algorithms, and mentors TÜBİTAK/TEKNOFEST teams. |
-| **2025 – Present** | **Creator & Technical Educator** | Danışmanlı Öğrenme (Udemy, YouTube, IG) | Produces global online courses (Python + Google Colab: Algorithms) and technical media content. |
-| **2022 – 2026** | **Program Head & Lecturer** | Istanbul Gelisim University (IGU) | Managed Autonomous Systems Department; taught AI, Fuzzy Logic, Robotics, MATLAB, and C/C++ courses. |
-| **2017 – 2024** | **IP Manager & TTO Researcher** | Technology Transfer Office (TTO) | Managed institutional patent/licensing pipeline and led applied engineering R&D projects. |
 
 ---
 
