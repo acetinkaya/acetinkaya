@@ -83,17 +83,17 @@ Throughout my academic and technical journey, I have led the commercialization o
 
 ---
 
-## 🏫 Academic Courses & Workshops
+## 🛠️ Applied Workshops & Invited Talks
 
-| Category | Course / Workshop Title | Key Technical Scope |
-| :--- | :--- | :--- |
-| **Certificate Programs** | [Autonomous Systems Basic & Applied Training Program](https://sem.gelisim.edu.tr/tr/sem-guncel-egitim-1939aa45-c694-4ece-b73f-a3622634c6cf) | Sensor Fusion, Decision Making & Kinematics |
-| **AI & Data Science** | [Python Data Structures & Algorithms](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi) | Computational Thinking & Optimization |
-| **AI & Data Science** | [Artificial Intelligence & Applications](https://github.com/acetinkaya/ai_aLi) | Machine Learning, Neural Networks & Models |
-| **Control Systems** | [Fuzzy Logic Modeling & Control](https://github.com/acetinkaya/BULANIK-MODELLEME-ve-KONTROL) | Fuzzy Rule Bases & Intelligent Control |
-| **Engineering Coding** | [MATLAB for Electrical & Electronics Engineering](https://github.com/acetinkaya/Elektrik-Elektronik-Muhendisligi-Programlama-MATLAB-) | Numerical Analysis & Mathematical Modeling |
-| **Hardware & Robotics** | [Microprocessors & Microcontrollers](https://github.com/acetinkaya/mikroislemciler) | Assembly/C, Timers, Interrupts & Protocols |
-| **Hardware & Robotics** | [Robotics Science & Embedded Applications](https://github.com/acetinkaya/robotik-arduino-uygulamalari) | Kinematics, Actuators & Embedded Systems |
+| Event / Workshop Title | Institution / Organization | Date | Role & Scope |
+| :--- | :--- | :--- | :--- |
+| **Algorithms, Data Structures & AI Applications Workshop** | Istanbul Sabahattin Zaim University (IZU-SEM) | June 2026 | Instructor – Applied algorithm design, computational logic, and AI workflows. |
+| **Microcontrollers and Internet of Things (IoT) Training** | Istanbul Medeniyet University | May 2026 | Instructor – Hardware interfacing, microcontroller programming, and IoT architecture. |
+| **Autonomous Systems Basic & Applied Training Program** | Istanbul Gelisim University (IGU-SEM) | Dec 2025 – Jan 2026 | Instructor – Sensor fusion, decision-making logic, and autonomous system kinematics. |
+| **From Algorithm to Inspiration: Artistic Codes of Generative AI** | IDAF'25 – Ministry of Culture and Tourism | June 2025 | Invited Speaker / Instructor – Interdisciplinary generative models and algorithmic art. |
+| **Discover Creativity with AI: Generative AI & Career Horizons** | IGU Career Development Academies | May 2025 | Instructor – Generative AI applications, productivity tools, and modern tech careers. |
+| **Data Structures, Algorithms & Applied AI Trainings** | ISTKA & IGU Cyber Academy | Aug – Nov 2024 | Lead Instructor – Hands-on Python algorithm design, data structures, and AI models. |
+| **Artificial Intelligence Days in Avcılar** | Avcılar Municipality Innovation Center | July 2024 | Instructor – AI awareness, machine learning fundamentals, and smart technologies. |
 
 ---
 
