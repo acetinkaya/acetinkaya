@@ -2,7 +2,7 @@
 
 **Technical Instructor & AI/Autonomous Systems Consultant**  
 
-[Google Scholar](https://scholar.google.com/citations?user=GXJajLgAAAAJ) · [GitHub](https://github.com/acetinkaya) · [LinkedIn](https://www.linkedin.com/in/ogrgoralicetinkaya/) · [Avesis](https://avesis.gelisim.edu.tr/alcetinkaya) · [ORCID](https://orcid.org/) · [YouTube](https://www.youtube.com/@danismanliogrenme) · [Instagram](https://www.instagram.com/danismanliogrenme/)
+[Google Scholar](https://scholar.google.com/citations?user=GXJajLgAAAAJ) · [GitHub](https://github.com/acetinkaya) · [LinkedIn](https://www.linkedin.com/in/ogrgoralicetinkaya/) · [Avesis](https://avesis.gelisim.edu.tr/alcetinkaya) · [ORCID](https://orcid.org/) · [YouTube](https://www.youtube.com/@danismanliogrenme) · [Instagram](https://www.instagram.com/danismanliogrenme/) · [TikTok](https://www.tiktok.com/@danismanliogrenme)
 
 Yalova, Türkiye 
 
