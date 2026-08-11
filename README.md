@@ -89,7 +89,7 @@ Throughout my academic and technical journey, I have led the commercialization o
 
 | Type | Authors | Title / Chapter | Publisher | Year | ISBN |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Book** | **Çetinkaya, A.** | Fuzzy Logic and Python Applications *(Bulanık Mantık ve Python Uygulamaları)* | IGU Press | 2023 | `978-605-4827-98-5` |
+| **Book** | **Çetinkaya, A.** | Fuzzy Logic and Python Applications *(in Turkish)* | IGU Press | 2023 | `978-605-4827-98-5` |
 | **Book Chapter** | **Çetinkaya, A.**, & Gök, M. | "k-NN Classification Method" (*Machine Learning Algorithms*, Chapter 4.4) | Nobel Academic Publishing | 2024 | `978-625-371-882-4` |
 | **Book Chapter** | **Çetinkaya, A.**, & Temür, M. | "Comparison and Analysis of AI-Supported Approaches in Renewable Energy Usage" (*AI Studies*, Chapter 2) | Çizgi Kitabevi | 2025 | `978-625-396-758-1` |
 | **Book Chapter** | **Çetinkaya, A.**, & Aykut, E. | "Digital Transformation with Generative AI: Career Fields of the Future" (*Next-Gen AI Approaches*, Chapter 2) | BİDGE Publishing | 2025 | `978-625-372-677-5` |
