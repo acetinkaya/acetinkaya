@@ -119,4 +119,5 @@ Throughout my academic and technical journey, I have led the commercialization o
 
 ---
 
-> 🚀 *"Let's create, disseminate, preserve, and develop knowledge together!"* — Lect. Ali ÇETİNKAYA
+> 🚀 *"Let's create, disseminate, preserve, and develop knowledge together!"* — Lect. Ali ÇETİNKAYA (2025)   
+> 🚀 Bilgiyi oluşturalım, yayalım, koruyalım ve birlikte geliştirelim! -- Öğr. Gör. Ali ÇETİNKAYA (2025)   
