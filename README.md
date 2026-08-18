@@ -10,9 +10,9 @@ Yalova, Türkiye
 
 ## 👋 About Me
 
-I am a Technical Instructor, Researcher, and AI/Autonomous Systems Specialist with over 8 years of combined academic and applied engineering experience. My focus lies at the intersection of **artificial intelligence, embedded systems, fuzzy logic, and autonomous control**, bridging theoretical algorithmic models with real-world engineering solutions.
+Ali Cetinkaya is a technical instructor with over eight years of academic and practical engineering experience, specializing in Artificial Intelligence and Autonomous Systems. His work focuses on the intersection of artificial intelligence, embedded systems, fuzzy logic, and autonomous control, aiming to bridge theoretical models with real-world engineering solutions.
 
-Throughout my academic and technical journey, I have led the commercialization of patented innovations, supervised national research projects (TÜBİTAK & TEKNOFEST), and delivered large-scale technical training programs for students and industry professionals.
+Throughout his academic and technical career, he has actively contributed to the development and commercialization of patented innovations. He has also spearheaded innovative technical education initiatives by leading and participating in national and international research projects supported by prominent organizations such as TUBITAK, ISTKA, and TEKNOFEST.
 
 ---
 
