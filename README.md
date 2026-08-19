@@ -1,6 +1,6 @@
 # ALİ ÇETİNKAYA
 
-**Technical Instructor & AI/Autonomous Systems Consultant**  
+**AI & Digital Transformation Consultant | Technical Trainer | Lecturer**  
 
 [Google Scholar](https://scholar.google.com/citations?user=GXJajLgAAAAJ) · [LinkedIn](https://www.linkedin.com/in/ogrgoralicetinkaya/) · [ORCID ID](https://orcid.org/0000-0003-4535-3953) · [YouTube](https://www.youtube.com/@danismanliogrenme) · [Instagram](https://www.instagram.com/danismanliogrenme/) · [TikTok](https://www.tiktok.com/@danismanliogrenme) · [Avesis](https://avesis.gelisim.edu.tr/alcetinkaya) 
 
