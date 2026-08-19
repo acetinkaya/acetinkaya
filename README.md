@@ -1,4 +1,4 @@
-# ALİ ÇETİNKAYA
+# Ali Cetinkaya 
 
 **AI & Digital Transformation Consultant | Technical Trainer | Lecturer**  
 
