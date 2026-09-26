@@ -20,7 +20,7 @@ Throughout his academic and technical career, he has actively contributed to the
 
 | Period | Role | Institution / Organization | Core Responsibilities & Impact |
 | :--- | :--- | :--- | :--- |
-| **Sep. 2026 – Present** | **IT Educator & Drone Club Advisor** | BJK - Kabataş Vakfı Schools | Teaching IT & Computer Science curriculum, mentoring youth robotics and drone engineering initiatives, and advising TEKNOFEST/STEM project teams. |
+| **Sep 2026 – Present** | **IT Educator & Drone Club Advisor** | BJK - Kabataş Vakfı Schools | Teaching Python Programming (Grade 10) & Applied AI (Grade 11) curricula; advising youth drone technologies and engineering club projects. |
 | **Mar. 2026 – Present** | **Technical Consultant & Instructor** | Ilim Yayma Cemiyeti (IYC) HQs – R&D Unit | Coordinating R&D on AI architectures, instructing workshops on algorithms, and mentoring TÜBİTAK/TEKNOFEST teams. |
 | **Jan. 2025  – Present** | **Creator & Technical Educator** | Danışmanlı Öğrenme (Udemy, YouTube, Instagram, Tiktok) | Produces global online courses (Python + Google Colab: Algorithms) and technical media content. |
 | **2022 – 2026** | **Program Head & Lecturer** | Istanbul Gelisim University (IGU) | Managed Autonomous Systems Department; taught AI, Fuzzy Logic, Robotics, MATLAB, and C/C++ courses. |
