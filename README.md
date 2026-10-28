@@ -88,7 +88,7 @@ Akademik çalışmalarımın yanında TÜBİTAK, İSTKA ve TEKNOFEST destekli pr
 
 ---
 
-## 🏅 Ödüller ve başarılar
+## 🏅 Ödüller ve Başarılar
 
 🏆 **İGÜ Akademik Performans Ödülü** — 2025 yılı kurum genelinde 31. Araştırmacı Sıralaması ve Proje, Patent ve Tasarım kategorisinde 2.'lik. 2024'te MYO genelinde 4.'lük derecesi elde edilmiştir.
 
