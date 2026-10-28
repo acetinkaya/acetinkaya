@@ -84,7 +84,7 @@ Akademik çalışmalarımın yanında TÜBİTAK, İSTKA ve TEKNOFEST destekli pr
 | :--- | :--- |
 | 📄 **[Yayınlar](docs/publications.md)** | Hakemli makaleler, bildiriler, kitaplar ve kitap bölümleri |    
 | 📜 **[Patentler](docs/patents.md)** | Uluslararası tesciller, ulusal başvurular ve ticarileşen patentler |   
-| 🔬 **[Deneyim || Projeler & Eğitimler](docs/projects.md)** | Araştırma projeleri, atölyeler, deneyim ve eğitim geçmişi |   
+| 🔬 **[Deneyim, Projeler & Eğitimler](docs/projects.md)** | Araştırma projeleri, atölyeler, deneyim ve eğitim geçmişi |   
 
 ---
 
