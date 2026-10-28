@@ -82,7 +82,7 @@ Alongside my academic work I serve as an instructor, advisor and principal inves
 
 | | |
 | :--- | :--- |
-| 📄 **[Publications](https://github.com/acetinkaya/Publications-)** | Peer-reviewed articles, conference papers, books and book chapters |
+| 📄 **[Publications](docs/publications.md)** | Peer-reviewed articles, conference papers, books and book chapters |
 | 📜 **[Patents](docs/patents.md)** | International registrations, national applications and commercialized patents |
 | 🔬 **[Projects & Training](docs/projects.md)** | Research projects, workshops, experience and education |
 
