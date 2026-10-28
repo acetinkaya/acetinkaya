@@ -4,7 +4,7 @@
 
 **Ali ÇETİNKAYA**
 
-[🇹🇷 Ana sayfa](../README.md) · [🇬🇧 Home](../README.en.md) · [ORCID](https://orcid.org/0000-0003-4535-3953)
+[🇹🇷 Ana sayfa](../README.md) · [🇬🇧 Home](https://github.com/acetinkaya/acetinkaya/blob/main/README.EN.md) · [ORCID](https://orcid.org/0000-0003-4535-3953)
 
 `15 uluslararası tescil / international registrations` · `10 ulusal başvuru / national applications` · `2 ticarileşen / commercialized`
 
