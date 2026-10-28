@@ -6,7 +6,7 @@
 
 Yalova, Türkiye
 
-🇹🇷 **Türkçe**  ·  [🇬🇧 English](README.en.md)
+🇹🇷 **Türkçe**  ·  [🇬🇧 English](https://github.com/acetinkaya/Readme.en)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogrgoralicetinkaya/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=GXJajLgAAAAJ)
