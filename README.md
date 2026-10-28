@@ -1,126 +1,114 @@
-# Ali Cetinkaya 
+<div align="center">
 
-**AI & Digital Transformation Consultant | Technical Trainer | Lecturer**  
+# Ali ÇETİNKAYA
 
-[LinkedIn](https://www.linkedin.com/in/ogrgoralicetinkaya/) · [Google Scholar](https://scholar.google.com/citations?user=GXJajLgAAAAJ) · [ORCID ID](https://orcid.org/0000-0003-4535-3953) · [YouTube](https://www.youtube.com/@danismanliogrenme) · [Instagram](https://www.instagram.com/danismanliogrenme/) · [TikTok](https://www.tiktok.com/@danismanliogrenme) · [Avesis](https://avesis.gelisim.edu.tr/alcetinkaya) 
+**Yapay Zeka & Dijital Dönüşüm Danışmanı · Teknik Eğitmen · Öğretim Görevlisi**
 
-Yalova, Türkiye 
+Yalova, Türkiye
 
----
+🇹🇷 **Türkçe**  ·  [🇬🇧 English](README.en.md)
 
-## 👋 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogrgoralicetinkaya/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=GXJajLgAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4535-3953)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@danismanliogrenme)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white)](https://www.udemy.com/course/python-google-colab-algoritmalar-ve-veri-yapilari-egitimi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/danismanliogrenme/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@danismanliogrenme)
+[![Avesis](https://img.shields.io/badge/Avesis-1F4E79?style=flat&logoColor=white)](https://avesis.gelisim.edu.tr/alcetinkaya)
 
-Ali Cetinkaya is a technical instructor with over eight years of academic and practical engineering experience, specializing in Artificial Intelligence and Autonomous Systems. His work focuses on the intersection of artificial intelligence, embedded systems, fuzzy logic, and autonomous control, aiming to bridge theoretical models with real-world engineering solutions.
-
-Throughout his academic and technical career, he has actively contributed to the development and commercialization of patented innovations. He has also spearheaded innovative technical education initiatives by leading and participating in national and international research projects supported by prominent organizations such as TUBITAK, ISTKA, and TEKNOFEST.
-
----
-
-## 💼 Professional & Academic Experience
-
-| Period | Role | Institution / Organization | Core Responsibilities & Impact |
-| :--- | :--- | :--- | :--- |
-| **Sep 2026 – Present** | **IT Educator & Drone Club Advisor** | BJK - Kabataş Vakfı Schools | Teaching Python Programming (Grade 10) & Applied AI (Grade 11) curricula; advising youth drone technologies and engineering club projects. |
-| **Mar. 2026 – Present** | **Technical Consultant & Instructor** | Ilim Yayma Cemiyeti (IYC) HQs – R&D Unit | Coordinating R&D on AI architectures, instructing workshops on algorithms, and mentoring TÜBİTAK/TEKNOFEST teams. |
-| **Jan. 2025  – Present** | **Creator & Technical Educator** | Danışmanlı Öğrenme (Udemy, YouTube, Instagram, Tiktok) | Produces global online courses (Python + Google Colab: Algorithms) and technical media content. |
-| **2022 – 2026** | **Program Head & Lecturer** | Istanbul Gelisim University (IGU) | Managed Autonomous Systems Department; taught AI, Fuzzy Logic, Robotics, MATLAB, and C/C++ courses. |
-| **2017 – 2024** | **IP Manager & TTO Researcher** | Technology Transfer Office (TTO) | Managed institutional patent/licensing pipeline and led applied engineering R&D projects. |
+</div>
 
 ---
 
-## 🎯 Key Metrics & Achievements
+## 🔴 Devam eden seri — OpenCV ile Bilgisayarlı Görü Uygulamaları
 
-| Metric / Domain | Details & Impact |
-| :--- | :--- |
-| **GitHub Contribution Ranking (Turkey)** | Ranked **3rd in 2025** and **5th in 2024** in open-source activity and public code contributions nationwide. |
-| **Applied AI & Cyber Security Training** | Technical Lead for ISTKA Project (7.5M TRY budget); delivered 110+ hours of *Algorithms & AI* training to 110+ students. |
-| **Intellectual Property Portfolio** | **15 International Patents Registered** (WIPO/PCT & Germany), 10 national patent applications, and 2 commercialized/transferred patents. |
-| **Institutional IP Excellence** | Coordinated IP management leading host institution to **1st Place in Turkey** among universities in TURKPATENT proceedings (2022 & 2023). |
-| **Academic Citations & Publications** | **150+ Citations** on Google Scholar; authored 15 journal articles, 11 conference papers, 1 book, and 6 book chapters. |
+> ### Veriyi İşle, Geleceği Kodla
+> **12 ders · 6 hafta · 24 saat** — Çarşamba & Pazar, 20:00–22:00 · 28 Ekim 2026'da başladı
+
+Python ve görüntü işleme temellerinden başlayıp **YOLOv8 ile canlı trafik analizi**, **İHA tabanlı gemi takibi** ve **ROI ile şerit yoğunluğu analizi** gibi uygulamalı projelere uzanan uçtan uca bir program. Tüm ders materyalleri, kurulum rehberi ve kod örnekleri açık kaynak olarak paylaşılıyor.
+
+**➜ [Ders deposuna git](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla)**  ·  ⭐ Faydalı bulursanız depoyu yıldızlayın
+
+<sub>İYC Tech Workshop Series — İlim Yayma Cemiyeti & Alaca Teknoloji Takımı iş birliğiyle · Akademik koordinatör: Prof. Dr. Bahtiyar Dursun · Eğitmen: Ali Çetinkaya</sub>
 
 ---
 
-## 🔬 Key Projects & Research Mentorship
+## 👋 Merhaba
 
-| Project Title / Area | Funding / Program | Role & Technical Scope |
+Sekiz yılı aşkın süredir yapay zeka, otonom sistemler ve gömülü teknolojiler alanında araştırma yapıyor ve eğitim veriyorum. Odağım, teorik modelleri çalışan mühendislik çözümlerine dönüştürmek: bulanık mantık ve makine öğrenmesinden gömülü kontrol sistemlerine, görüntü işlemeden robotik uygulamalara kadar.
+
+Ürettiğim hemen her şeyi açık kaynak olarak paylaşıyorum — ders notları, kod örnekleri, kitap içerikleri ve atölye materyalleri. GitHub Türkiye açık kaynak katkı sıralamasında **2025'te 3.**, **2024'te 5.** sırada yer aldım.
+
+Akademik çalışmalarımın yanında TÜBİTAK, İSTKA ve TEKNOFEST destekli projelerde eğitmen, danışman ve yürütücü olarak görev alıyorum. Danışmanlığını yaptığım çalışmalardan **15'i uluslararası patent** olarak tescillendi, **2'si ticarileşerek** sanayi kuruluşlarına devredildi.
+
+---
+
+## 📌 Öne çıkan depolar
+
+| Depo | Konu | |
 | :--- | :--- | :--- |
-| **Safe Driving Smart Helmet** | TÜBİTAK 2209-A (2026) | **Academic Advisor** – Sensor-integrated real-time rider safety and alert system. |
-| **META2IR: Route Air Parameters Tracking** | TEKNOFEST Industrial Digital Tech | **Project Mentor** – AI-driven autonomous environmental monitoring platform. |
-| **METABODY: AI Smart Body Analysis** | TEKNOFEST Social Innovation | **Project Mentor** – Computer vision & deep learning health metrics platform. |
-| **TUSI: VTOL Flying Car System** | Institutional R&D Grant (BAP) | **Embedded Software Developer** – Flight control algorithms and hardware integration. |
-| **Eczamatik: Automated Dispenser** | Institutional R&D Grant (BAP) | **Algorithm Developer** – Embedded controller logic and system UI integration. |
+| **[Python · Google Colab — Algoritmalar ve Veri Yapıları](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi)** | Sıfırdan ileriye algoritma tasarımı ve veri yapıları eğitimi | ![](https://img.shields.io/github/stars/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi?style=flat&label=%E2%AD%90&color=1F4E79) |
+| **[Robotik Arduino Uygulamaları](https://github.com/acetinkaya/robotik-arduino-uygulamalari)** | Robotik dersi uygulamaları ve devre örnekleri (C++) | ![](https://img.shields.io/github/stars/acetinkaya/robotik-arduino-uygulamalari?style=flat&label=%E2%AD%90&color=1F4E79) |
+| **[ai_aLi](https://github.com/acetinkaya/ai_aLi)** | Türkiye için yapay zeka uygulamaları koleksiyonu | ![](https://img.shields.io/github/stars/acetinkaya/ai_aLi?style=flat&label=%E2%AD%90&color=1F4E79) |
+| **[Python ile Bulanık Mantık](https://github.com/acetinkaya/python-fuzzy-logic)** | *Bulanık Mantık ve Python Uygulamaları* kitabının kod deposu | ![](https://img.shields.io/github/stars/acetinkaya/python-fuzzy-logic?style=flat&label=%E2%AD%90&color=1F4E79) |
+| **[Mikrodenetleyici ve IoT Eğitimi](https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi)** | ESP32 tabanlı gömülü sistem ve IoT proje örnekleri | ![](https://img.shields.io/github/stars/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi?style=flat&label=%E2%AD%90&color=1F4E79) |
+| **[C Programlama Rehberi](https://github.com/acetinkaya/C-Programlama-Rehberi)** | C diline giriş ve uygulamalı anlatım | ![](https://img.shields.io/github/stars/acetinkaya/C-Programlama-Rehberi?style=flat&label=%E2%AD%90&color=1F4E79) |
+| **[OpenCV ile Bilgisayarlı Görü](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla)** 🆕 | Uygulamalı görüntü işleme atölyesi — 12 ders | ![](https://img.shields.io/github/stars/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla?style=flat&label=%E2%AD%90&color=C8102E) |
 
 ---
 
-## 📜 Intellectual Property & Patents
+## 📊 Rakamlarla
 
-### Registered International Patents (WIPO / PCT / Germany)
+| | |
+| :--- | :--- |
+| 📚 **Yayınlar** | 24 dergi makalesi · 10 tam metin kongre bildirisi · 1 kitap · 5 kitap bölümü |
+| 🎓 **Atıflar** | 182 atıf · h-index 8 · i10-index 7 ([Google Scholar](https://scholar.google.com/citations?user=GXJajLgAAAAJ)) |
+| ⭐ **Açık kaynak** | GitHub Türkiye katkı sıralamasında 3. (2025) ve 5. (2024) |
+| 📜 **Fikri mülkiyet** | 15 uluslararası tescilli patent · 10 ulusal başvuru · 2 ticarileşen patent |
+| 🏛️ **Kurumsal başarı** | TPMK üniversiteler arası işlemlerde Türkiye 1.'liği (2022 ve 2023) |
+| 🏫 **Eğitim** | 7 kurumda uygulamalı atölye · [İGÜ Siber Akademi](https://siberakademi.gelisim.edu.tr/)'de *Veri Yapıları ve Algoritmalar* ve *Yapay Zeka* dersleri |
 
-| Patent Title | International Reg No | TR Application No | Domain / Technology |
-| :--- | :--- | :--- | :--- |
-| **Vertical Landing and Taking Off Flying Car** | `WO2023128962A1` | `TR2021/022082` | Autonomous Flight & Embedded Control |
-| **Autonomous Flying Rescue Cabin** | `DE112023000361T5` | `TR2022/013513` | Emergency Robotics & Aviation Systems |
-| **AI-Based Emergency Detection System** | `WO2024118006A1` | `TR2022/018295` | Applied AI & Sensor Fusion |
-| **AI-Based Electric Current Control System** | `WO2024162909A1` | `TR2023/001114` | Intelligent Energy Control Systems |
-| **Smart Cane with Environmental Awareness** | `WO2023214945A1` | `TR2022/007332` | Assistive IoT Devices & Robotics |
-| **Vibration Cleaning for Solar Panels** | `WO2024205533A1` | `TR2023/003576` | Renewable Energy Automation |
-| **Flying Car Runway & Charging Station** | `WO2024181939A1` | `TR2023/002199` | Smart Infrastructure & EV Charging |
+<div align="center">
 
-### Commercialized & Transferred Patents
+<img src="https://github-readme-stats.vercel.app/api?username=acetinkaya&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=1F4E79&icon_color=1F4E79" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acetinkaya&layout=compact&hide_border=true&langs_count=6&title_color=1F4E79" height="150">
 
-| Patent Title | Reg No | Assignee / Transferred Institution | Status |
-| :--- | :--- | :--- | :--- |
-| **Classroom Smart Board Orientation System** | `TR2022/018289` | Gokkusagi Educational Institutions | Transferred (2026) |
-| **Speed Calculation Method and Algorithm** | `TR2022/011782` | Zirve Construction & Engineering Ltd. | Transferred (2026) |
+</div>
 
 ---
 
-## 📚 Academic Publications & Books
+## 📂 Detaylı bilgi
 
-### Peer-Reviewed Journal Articles & Conference Proceedings
-
-| Authors | Title | Journal / Venue | Year | DOI / Link |
-| :--- | :--- | :--- | :--- | :--- |
-| Erdoğan, M. Ö., Okatan, A., Uz, U., Yılmaz, F., & **Çetinkaya, A.** | Production, and Analysis of a Two-Axis Food Liquid Pouring Machine | International Journal of Engineering Technologies (IJET), 8(1), 1-7 | 2022 | [DOI](https://doi.org/10.19072/ijet.1060635) |
-| Özcan, İ., Aydın, H., & **Çetinkaya, A.** | Comparison of Classification Success Rates of Different Machine Learning Algorithms in the Diagnosis of Breast Cancer | Asian Pacific Journal of Cancer Prevention (APJCP), 23(10), 3287-3297 | 2022 | [DOI](https://doi.org/10.31557/APJCP.2022.23.10.3287) |
-| **Çetinkaya, A.**, Öztürk, O., & Okatan, A. | Controlling A Robotic Arm Using Hand Recognition Software | International Journal of Engineering Technologies (IJET), 5(2), 59-63 | 2019 | [Link](https://izlik.org/JA33WM96BS) |
-| **Çetinkaya, A.**, Gönen, S., Dahman, D., & Barışkan, M. A. | Exploring the Open-Source Concept to Enhance the Learning and Exploration Curve of AI Architecture | Proceedings of the 13th Intl. Symposium on Intelligent Manufacturing & Service Systems | 2025 | [DOI](https://doi.org/10.5281/zenodo.17530795) |
-| Ayas, A. Y., Aydın, H., **Çetinkaya, A.**, & Güney, Z. | Artificial Intelligence (AI)-Based Self-Deciding Character Development Application in Two-Dimensional Video Games | Bilgi Ve İletişim Teknolojileri Dergisi, 5(1), 1-19 | 2023 | [DOI](https://doi.org/10.53694/bited.1247338) |
-| Aslandoğdu, Ö. F., Aydın, H., & **Çetinkaya, A.** | Accuracy Estimation and Analysis of Teachable Machine Model Developed with Tensorflow Javascript on Cloud: Face Recognition System Application | Intl. Journal of Management Information Systems and Computer Science, 6(1), 66-77 | 2022 | [DOI](https://doi.org/10.33461/uybisbbd.1106753) |
-
-### Books & Book Chapters
-
-| Type | Authors | Title / Chapter | Publisher | Year | ISBN |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Book** | **Çetinkaya, A.** | Fuzzy Logic and Python Applications *(in Turkish)* | IGU Press | 2023 | `978-605-4827-98-5` |
-| **Book Chapter** | **Çetinkaya, A.**, & Gök, M. | "k-NN Classification Method" (*Machine Learning Algorithms*, Chapter 4.4) | Nobel Academic Publishing | 2024 | `978-625-371-882-4` |
-| **Book Chapter** | **Çetinkaya, A.**, & Temür, M. | "Comparison and Analysis of AI-Supported Approaches in Renewable Energy Usage" (*AI Studies*, Chapter 2) | Çizgi Kitabevi | 2025 | `978-625-396-758-1` |
-| **Book Chapter** | **Çetinkaya, A.**, & Aykut, E. | "Digital Transformation with Generative AI: Career Fields of the Future" (*Next-Gen AI Approaches*, Chapter 2) | BİDGE Publishing | 2025 | `978-625-372-677-5` |
+| | |
+| :--- | :--- |
+| 📄 **[Yayınlar](docs/publications.md)** | Hakemli makaleler, bildiriler, kitaplar ve kitap bölümleri |
+| 📜 **[Patentler](docs/patents.md)** | Uluslararası tesciller, ulusal başvurular ve ticarileşen patentler |
+| 🔬 **[Projeler & Eğitimler](docs/projects.md)** | Araştırma projeleri, atölyeler, deneyim ve eğitim geçmişi |
 
 ---
 
-## 🛠️ Applied Workshops & Invited Talks
+## 💡 Eğitim içeriklerim
 
-| Event / Workshop Title | Institution / Organization | Date | Role & Scope |
-| :--- | :--- | :--- | :--- |
-| **Algorithms, Data Structures & AI Applications Workshop** | Istanbul Sabahattin Zaim University (IZU-SEM) | June 2026 | Instructor – Applied algorithm design, computational logic, and AI workflows. |
-| **Microcontrollers and Internet of Things (IoT) Training** | Istanbul Medeniyet University | May 2026 | Instructor – Hardware interfacing, microcontroller programming, and IoT architecture. |
-| **Autonomous Systems Basic & Applied Training Program** | Istanbul Gelisim University (IGU-SEM) | Dec 2025 – Jan 2026 | Instructor – Sensor fusion, decision-making logic, and autonomous system kinematics. |
-| **From Algorithm to Inspiration: Artistic Codes of Generative AI** | IDAF'25 – Ministry of Culture and Tourism | June 2025 | Invited Speaker / Instructor – Interdisciplinary generative models and algorithmic art. |
-| **Discover Creativity with AI: Generative AI & Career Horizons** | IGU Career Development Academies | May 2025 | Instructor – Generative AI applications, productivity tools, and modern tech careers. |
-| **Data Structures, Algorithms & Applied AI Trainings** | ISTKA & IGU Cyber Academy | Aug – Nov 2024 | Lead Instructor – Hands-on Python algorithm design, data structures, and AI models. |
-| **Artificial Intelligence Days in Avcılar** | Avcılar Municipality Innovation Center | July 2024 | Instructor – AI awareness, machine learning fundamentals, and smart technologies. |
+- 🎬 **[YouTube — @danismanliogrenme](https://www.youtube.com/@danismanliogrenme)** · Yapay zeka, algoritma ve robotik üzerine ücretsiz içerikler
+- 🎓 **[Udemy — Python + Google Colab: Algoritmalar ve Veri Yapıları](https://www.udemy.com/course/python-google-colab-algoritmalar-ve-veri-yapilari-egitimi)** · Sıfırdan ileriye kapsamlı kurs
+- 📘 **[Bulanık Mantık ve Python Uygulamaları](https://github.com/acetinkaya/python-fuzzy-logic)** · İGÜ Yayınları, 2023
 
 ---
 
-## 🎓 Education
+## 📬 İletişim
 
-| Degree | Program / Discipline | University / Institution | Year |
-| :--- | :--- | :--- | :--- |
-| **M.Sc.** | Computer Engineering (Thesis) | KTO Karatay University, Graduate School of Natural Sciences | 2017 |
-| **B.Sc.** | Electronics and Computer Education | Selçuk University, Technical Education Faculty | 2014 |
+Eğitim, danışmanlık, ortak proje ve araştırma iş birlikleri için:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ile%20ileti%C5%9Fime%20ge%C3%A7in-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogrgoralicetinkaya/)
+[![Instagram](https://img.shields.io/badge/Instagram-%40danismanliogrenme-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danismanliogrenme/)
 
 ---
 
-> 🚀 *"Let's create, disseminate, preserve, and develop knowledge together!"* — Lect. Ali ÇETİNKAYA (2025)   
-> 🚀 Bilgiyi oluşturalım, yayalım, koruyalım ve birlikte geliştirelim! -- Öğr. Gör. Ali ÇETİNKAYA (2025)   
+<div align="center">
+
+> 🚀 **Bilgiyi oluşturalım, yayalım, koruyalım ve birlikte geliştirelim!** 2025
+>
+> — Öğr. Gör. Ali ÇETİNKAYA (2025)
+
+</div>
