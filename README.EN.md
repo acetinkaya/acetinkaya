@@ -88,7 +88,7 @@ Alongside my academic work I serve as an instructor, advisor and principal inves
 
 ---
 
-## 🏅 Awards & achievements
+## 🏅 Awards & Achievements
 
 🏆 **IGU Academic Performance Award** — Ranked 31st in the university-wide Researcher Ranking for 2025 and 2nd in the Project, Patent and Design category; 4th across the Vocational School in 2024.
 
