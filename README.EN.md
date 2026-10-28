@@ -88,6 +88,18 @@ Alongside my academic work I serve as an instructor, advisor and principal inves
 
 ---
 
+## 🏅 Awards & achievements
+
+🏆 **IGU Academic Performance Award** — Ranked 31st in the university-wide Researcher Ranking for 2025 and 2nd in the Project, Patent and Design category; 4th across the Vocational School in 2024.
+
+🥉 **GitHub Turkey** — Ranked 3rd (2025) and 5th (2024) in the "Most Active Users" and "Public Contributions" listings
+
+🥇 **TURKPATENT** — Through the intellectual property process I coordinated, my institution ranked 1st in Turkey among universities (2022 and 2023)
+
+**➜ [Academic and Career Achievements](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)** — award certificates, ranking screenshots, TÜBİTAK project list and feature videos
+
+---
+
 ## 💡 Educational content
 
 - 🎬 **[YouTube — @danismanliogrenme](https://www.youtube.com/@danismanliogrenme)** · Free content on AI, algorithms and robotics
