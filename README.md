@@ -6,7 +6,7 @@
 
 Yalova, Türkiye
 
-🇹🇷 **Türkçe**  ·  [🇬🇧 English](https://github.com/acetinkaya/Readme.en)
+🇹🇷 **Türkçe**  ·  [🇬🇧 English](https://github.com/acetinkaya/acetinkaya/blob/main/README.EN.md)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogrgoralicetinkaya/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=GXJajLgAAAAJ)
@@ -82,9 +82,9 @@ Akademik çalışmalarımın yanında TÜBİTAK, İSTKA ve TEKNOFEST destekli pr
 
 | | |
 | :--- | :--- |
-| 📄 **[Yayınlar](https://github.com/acetinkaya/Publications-)** | Hakemli makaleler, bildiriler, kitaplar ve kitap bölümleri |
-| 📜 **[Patentler](docs/patents.md)** | Uluslararası tesciller, ulusal başvurular ve ticarileşen patentler |
-| 🔬 **[Deneyim || Projeler & Eğitimler](docs/projects.md)** | Araştırma projeleri, atölyeler, deneyim ve eğitim geçmişi |
+| 📄 **[Yayınlar](docs/publications.md)** | Hakemli makaleler, bildiriler, kitaplar ve kitap bölümleri |    
+| 📜 **[Patentler](docs/patents.md)** | Uluslararası tesciller, ulusal başvurular ve ticarileşen patentler |   
+| 🔬 **[Deneyim || Projeler & Eğitimler](docs/projects.md)** | Araştırma projeleri, atölyeler, deneyim ve eğitim geçmişi |   
 
 ---
 
