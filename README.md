@@ -107,7 +107,7 @@ Eğitim, danışmanlık, ortak proje ve araştırma iş birlikleri için:
 
 <div align="center">
 
-> 🚀 **Bilgiyi oluşturalım, yayalım, koruyalım ve birlikte geliştirelim!** 2025
+> 🚀 **Bilgiyi oluşturalım, yayalım, koruyalım ve birlikte geliştirelim!** 
 >
 > — Öğr. Gör. Ali ÇETİNKAYA (2025)
 
