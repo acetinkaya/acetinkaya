@@ -4,7 +4,7 @@
 
 **Ali ÇETİNKAYA**
 
-[🇹🇷 Ana sayfa](../README.md) · [🇬🇧 Home](../README.en.md) · [LinkedIn](https://www.linkedin.com/in/ogrgoralicetinkaya/) · [Avesis](https://avesis.gelisim.edu.tr/alcetinkaya)
+[🇹🇷 Ana sayfa](../README.md) · [🇬🇧 Home](https://github.com/acetinkaya/acetinkaya/blob/main/README.EN.md) · [LinkedIn](https://www.linkedin.com/in/ogrgoralicetinkaya/) · [GoogleScholar](https://scholar.google.com/citations?user=GXJajLgAAAAJ) · [Avesis](https://avesis.gelisim.edu.tr/alcetinkaya)
 
 </div>
 
