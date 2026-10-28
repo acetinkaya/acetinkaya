@@ -87,13 +87,16 @@ Akademik çalışmalarımın yanında TÜBİTAK, İSTKA ve TEKNOFEST destekli pr
 | 🔬 **[Deneyim, Projeler & Eğitimler](docs/projects.md)** | Araştırma projeleri, atölyeler, deneyim ve eğitim geçmişi |   
 
 ---
- 
-## 🏅 Ödüller ve başarılar   
-🏆 İGÜ Akademik Performans Ödülü — 2025 yılı kurum genelinde 31. Araştırmacı Sıralaması ve Proje, Patent ve Tasarım kategorisinde 2.'lik. 2024'te MYO genelinde 4.lük derecesi elde edilmiştir.  
-🥉 GitHub Türkiye — "En Aktif Kullanıcılar" ve "Public Contributions" sıralamalarında 3. (2025) ve 5. (2024)      
-🥇 TÜRKPATENT — Yürüttüğüm fikri mülkiyet süreciyle kurumum, üniversiteler arası işlemlerde Türkiye 1.'liği (2022 ve 2023)      
 
-<sub>Ödül belgeleri, sıralama görselleri, TÜBİTAK proje listesi ve tanıtım videoları → [Akademik ve Kariyer Başarıları](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)</sub>
+## 🏅 Ödüller ve başarılar
+
+🏆 **İGÜ Akademik Performans Ödülü** — 2025 yılı kurum genelinde 31. Araştırmacı Sıralaması ve Proje, Patent ve Tasarım kategorisinde 2.'lik. 2024'te MYO genelinde 4.'lük derecesi elde edilmiştir.
+
+🥉 **GitHub Türkiye** — "En Aktif Kullanıcılar" ve "Public Contributions" sıralamalarında 3. (2025) ve 5. (2024)
+
+🥇 **TÜRKPATENT** — Yürüttüğüm fikri mülkiyet süreciyle kurumum, üniversiteler arası işlemlerde Türkiye 1.'liği (2022 ve 2023)
+
+**➜ [Akademik ve Kariyer Başarıları](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)** — ödül belgeleri, sıralama görselleri, TÜBİTAK proje listesi ve tanıtım videoları
 
 ---
 
