@@ -88,6 +88,15 @@ Akademik çalışmalarımın yanında TÜBİTAK, İSTKA ve TEKNOFEST destekli pr
 
 ---
 
+🏅 Ödüller ve başarılar
+🏆 İGÜ Akademik Performans Ödülü — Proje, Patent ve Tasarım kategorisinde 2.'lik (2025) ve 3.'lük (2024), üniversite genelinde 31. sıra
+🥉 GitHub Türkiye — "En Aktif Kullanıcılar" ve "Public Contributions" sıralamalarında 3. (2025) ve 5. (2024)
+🥇 TÜRKPATENT — Yürüttüğüm fikri mülkiyet süreciyle kurumum, üniversiteler arası işlemlerde Türkiye 1.'liği (2022 ve 2023)
+
+<sub>Ödül belgeleri, sıralama görselleri, TÜBİTAK proje listesi ve tanıtım videoları → Akademik ve Kariyer Başarıları</sub>
+
+---
+
 ## 💡 Eğitim içeriklerim
 
 - 🎬 **[YouTube — @danismanliogrenme](https://www.youtube.com/@danismanliogrenme)** · Yapay zeka, algoritma ve robotik üzerine ücretsiz içerikler
