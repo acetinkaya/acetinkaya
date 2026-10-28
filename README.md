@@ -54,7 +54,7 @@ Akademik çalışmalarımın yanında TÜBİTAK, İSTKA ve TEKNOFEST destekli pr
 | **[Python ile Bulanık Mantık](https://github.com/acetinkaya/python-fuzzy-logic)** | *Bulanık Mantık ve Python Uygulamaları* kitabının kod deposu | ![](https://img.shields.io/github/stars/acetinkaya/python-fuzzy-logic?style=flat&label=%E2%AD%90&color=1F4E79) |
 | **[Mikrodenetleyici ve IoT Eğitimi](https://github.com/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi)** | ESP32 tabanlı gömülü sistem ve IoT proje örnekleri | ![](https://img.shields.io/github/stars/acetinkaya/Mikrodenetleyici-ve-nesnelerin-interneti-IOT-egitimi?style=flat&label=%E2%AD%90&color=1F4E79) |
 | **[C Programlama Rehberi](https://github.com/acetinkaya/C-Programlama-Rehberi)** | C diline giriş ve uygulamalı anlatım | ![](https://img.shields.io/github/stars/acetinkaya/C-Programlama-Rehberi?style=flat&label=%E2%AD%90&color=1F4E79) |
-| **[OpenCV ile Bilgisayarlı Görü](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla)** 🆕 | Uygulamalı görüntü işleme atölyesi — 12 ders | ![](https://img.shields.io/github/stars/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla?style=flat&label=%E2%AD%90&color=C8102E) |
+| **[OpenCV ile Bilgisayarlı Görü](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla)** | Uygulamalı görüntü işleme atölyesi — 12 ders | ![](https://img.shields.io/github/stars/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla?style=flat&label=%E2%AD%90&color=C8102E) |
 
 ---
 
