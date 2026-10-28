@@ -93,7 +93,7 @@ Akademik çalışmalarımın yanında TÜBİTAK, İSTKA ve TEKNOFEST destekli pr
 🥉 GitHub Türkiye — "En Aktif Kullanıcılar" ve "Public Contributions" sıralamalarında 3. (2025) ve 5. (2024)      
 🥇 TÜRKPATENT — Yürüttüğüm fikri mülkiyet süreciyle kurumum, üniversiteler arası işlemlerde Türkiye 1.'liği (2022 ve 2023)      
 
-<sub>Ödül belgeleri, sıralama görselleri, TÜBİTAK proje listesi ve tanıtım videoları → Akademik ve Kariyer Başarıları</sub>
+<sub>Ödül belgeleri, sıralama görselleri, TÜBİTAK proje listesi ve tanıtım videoları → [Akademik ve Kariyer Başarıları](https://github.com/acetinkaya/Akademik-ve-Kariyer-Basarilar)</sub>
 
 ---
 
