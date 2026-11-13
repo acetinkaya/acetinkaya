@@ -13,6 +13,7 @@ Yalova, Türkiye
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4535-3953)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@danismanliogrenme)
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white)](https://www.udemy.com/course/python-google-colab-algoritmalar-ve-veri-yapilari-egitimi)
+[![NSosyal](https://img.shields.io/badge/NSosyal-0F766E?style=flat)](https://nsosyal.com/danismanliogrenme)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/danismanliogrenme/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@danismanliogrenme)
 [![Avesis](https://img.shields.io/badge/Avesis-1F4E79?style=flat&logoColor=white)](https://avesis.gelisim.edu.tr/alcetinkaya)
