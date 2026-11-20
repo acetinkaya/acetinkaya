@@ -67,7 +67,7 @@ Akademik çalışmalarımın yanında TÜBİTAK, İSTKA ve TEKNOFEST destekli pr
 | 🎓 **Atıflar** | 182 atıf · h-index 8 · i10-index 7 ([Google Scholar](https://scholar.google.com/citations?user=GXJajLgAAAAJ)) |
 | ⭐ **Açık kaynak** | GitHub Türkiye katkı sıralamasında 3. (2025) ve 5. (2024) |
 | 📜 **Fikri mülkiyet** | 15 uluslararası tescilli patent · 10 ulusal başvuru · 2 ticarileşen patent |
-| 🏛️ **Kurumsal başarı** | TPMK üniversiteler arası işlemlerde Türkiye 1.'liği (2022 ve 2023) |
+| 🏛️ **Kurumsal başarı** | TPMK üniversiteler arası işlemlerde Türkiye 1.'liği (2023 ve 2024) |
 | 🏫 **Eğitim** | 7 kurumda uygulamalı atölye · [İGÜ Siber Akademi](https://siberakademi.gelisim.edu.tr/)'de *Veri Yapıları ve Algoritmalar* ve *Yapay Zeka* dersleri |
 
 <div align="center">
